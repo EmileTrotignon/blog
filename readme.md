@@ -3,4 +3,4 @@ OCaml.
 
 # Posts
 
-- [Printing, modular implicits, and the Stdlib](docs/CONTRIBUTING.md)
+- [Printing, modular implicits, and the Stdlib](printing_and_ocaml.md)
