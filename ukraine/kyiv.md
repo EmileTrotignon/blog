@@ -27,7 +27,7 @@ une demi-heure avant de descendre du train, à Kyiv.
 
 ## La ville
 
-![Vue sur de grands immeubles a Kyiv](kyiv_skyline.jpg)
+![Vue sur de grands immeubles a Kyiv](images/kyiv/skyline.jpg)
 
 On retrouve la meme ville qu'en 2021, mais beaucoup de choses ont changées.
 L'immense statue de la mère patrie, installé sur une coline surplombant la ville
@@ -38,7 +38,7 @@ vraiment dommage car il contenait en 2021 deux exposition : une sur la guerre
 dans le Donbass depuis 2014, plutot moderne, et une sovietique et tres
 propagandesque sur la Seconde Guerre Mondiale.
 
-![Statue de la mère patrie ornée du trident ukrainien](kyiv_batkichshina_maty.jpg)
+![Statue de la mère patrie ornée du trident ukrainien](images/kyiv/batkichshina_maty.jpg)
 
 Il a toutefois un plus petit musée, avec une exposition sur l'invasion de 2022.
 Un certains nombres d'objets récupérés sur des soldats russes morts sont
