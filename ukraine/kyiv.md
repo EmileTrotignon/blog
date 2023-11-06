@@ -73,7 +73,7 @@ toute sortes de bruits menacants. Il y a souvent un jardin à leur pied, muni
 d'une aire de jeux pour enfant. À l'exterieur, des escaliers recouvert d'un toit
 en tole menent à un sous-sol peu engageant, dont le sol est en terre battue.
 
-![Khruvtchevka typique](kyiv_kruvtchevka.jpg)
+![Khruvtchevka typique](images/kyiv/khruvtchevka.jpg)
 
 Lorsqu'il y a une alerte aérienne, on entend en premier la sonnerie de
 l'application prévue à cet effet, puis des sirènes, les mêmes que les premiers
@@ -102,7 +102,7 @@ apercoit même une sorte de boule de feu traverser l'horizon. On arrive au métr
 ou il y a cette fois beaucoup de monde. Les plus habitués ont des matelas et des
 chaises de camping. On attend une heure et demi la fin de l'alerte sur le quai.
 
-![Métro de Kyiv lors d'une alerte la nuit](kyiv_subway_airraid.jpg)
+![Métro de Kyiv lors d'une alerte la nuit](images/kyiv/subway_airraid.jpg)
 
 On apprendra par la suite que tous les Shaheds ont été abattus, et que les
 débris n'ont touchés personne. C'était la pire nuit à Kyiv depuis deux mois,
