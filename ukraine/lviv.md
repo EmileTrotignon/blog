@@ -15,7 +15,7 @@ restaurant très classe partage le même batiment.
 
 L'hotel en question.
 
-![Vue de l'hotel a Vynnyky](image/lviv/vynnyky_hotel_view.jpg)
+![Vue de l'hotel a Vynnyky](images/lviv/vynnyky_hotel_view.jpg)
 
 Vue de l'hotel.
 
