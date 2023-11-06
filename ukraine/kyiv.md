@@ -38,7 +38,7 @@ vraiment dommage car il contenait en 2021 deux exposition : une sur la guerre
 dans le Donbass depuis 2014, plutot moderne, et une sovietique et tres
 propagandesque sur la Seconde Guerre Mondiale.
 
-![Statue de la mère patrie ornée du trident ukrainien](images/kyiv/batkichshina_maty.jpg)
+![Statue de la mère patrie ornée du trident ukrainien](images/kyiv/batkivchshina_maty.jpg)
 
 Il a toutefois un plus petit musée, avec une exposition sur l'invasion de 2022.
 Un certains nombres d'objets récupérés sur des soldats russes morts sont
