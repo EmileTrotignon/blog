@@ -35,7 +35,7 @@ et le fleuve, est en train de se faire retirer le marteau et la faucille qui
 ornait son bouclier. Le symbole sera remplacé par le trident national quelque
 jours plus tard. On ne peut plus visiter le musée à son pied, ce qui est
 vraiment dommage car il contenait en 2021 deux exposition : une sur la guerre
-dans le Donbass depuis 2014, plutot moderne, et une sovietique et tres
+dans le Donbass depuis 2014, plutot moderne, et une soviétique et tres
 propagandesque sur la Seconde Guerre Mondiale.
 
 ![Statue de la mère patrie ornée du trident ukrainien](images/kyiv/batkivchshina_maty.jpg)
@@ -51,6 +51,24 @@ russes.
 
 ![Passeport de Vladimir Ovtcharov](images/kyiv/young_lnr_mobik.jpg)
 
+Sur la même colline, il y a la Laure des Grottes, un grand monastère ou sont
+enterrés dans des tunnels des corps de saints de l'églises orthodoxe. Les corps
+sont conservés par les mineraux présents naturellement dans les tunnels, et on
+peut même les visiter, ce qu'on avait fait en 2021. Cette fois-ci, nous n'irons
+pas, car la Laure est encore controlée par le patriarcat de Moscou. Nous ne
+sommes pas les seuls de cet avis : lorsque l'on passe devant il y a une petite
+manifestation. Des affiches sont sur le grillage extérieur, et un type
+interpelle les prètres à l'aide d'un haut-parleur.
+
+![Posters contre le patriarcat de Moscou](images/kyiv/lavra_protest.jpg)
+
+Pas très loin d'ici, on prend un café dans un hotel celebre pour son
+architecture. La photo que j'ai prise montre en arriere un complexe résidentiel
+monstrueux, une sorte de McBuilding typique du developpement urbain sauvage qui
+à lieu en Ukraine.
+
+![Hotel](images/kyiv/round_hotel_architecture_old_vs_new.jpg)
+
 Sur la place de l'indépendance, dites "Maïdan", lieu de la révolution de la
 dignité de 2014, il y a avait beaucoup d'installation liées a la guerre. Il y
 avait un parterre de petit drapeau, chaque drapeau commemorant un soldat tombé.
@@ -60,6 +78,8 @@ commercial sous-terrain Globousse étaient encore présents.
 ![Parterre de drapeaux](images/kyiv/maidan_flags.jpg)
 
 ![Hérissons anti-chars](images/kyiv/maidan_painted_hedgehog.jpg)
+
+
 
 ## Les alertes
 
@@ -112,5 +132,4 @@ anti-aériennes fournies par l'occident, mais que c'est la seule ville d'Ukraine
 dans ce cas. On prendra aussi l'habitude de descendre au métro lors des alertes
 de Shahed, sans attendre qu'ils soient la.
 
-
-
+![Vue sur le Dnipro et Kyiv](images/kyiv/dnipro.jpg)
