@@ -65,7 +65,7 @@ interpelle les prètres à l'aide d'un haut-parleur.
 Pas très loin d'ici, on prend un café dans un hotel celebre pour son
 architecture. La photo que j'ai prise montre en arriere un complexe résidentiel
 monstrueux, une sorte de McBuilding typique du developpement urbain sauvage qui
-à lieu en Ukraine.
+a lieu en Ukraine.
 
 ![Hotel](images/kyiv/round_hotel_architecture_old_vs_new.jpg)
 
@@ -78,8 +78,6 @@ commercial sous-terrain Globousse étaient encore présents.
 ![Parterre de drapeaux](images/kyiv/maidan_flags.jpg)
 
 ![Hérissons anti-chars](images/kyiv/maidan_painted_hedgehog.jpg)
-
-
 
 ## Les alertes
 
