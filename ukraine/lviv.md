@@ -43,7 +43,7 @@ beaucoups sont des réferences à la guerres. Chaque boutique affiche son drapea
 et elles sont nombreuses à avoir une urne pour collecter des dons pour les
 forces armées. 
 
-![Drapeau militaires dans une église](images/lviv/church_flags)
+![Drapeau militaires dans une église](images/lviv/church_flags.jpg)
 
 Les églises affichent aussi leur soutien à l'armée.
 
@@ -89,7 +89,7 @@ enterrer un soldat. Six soldats portent le cercueil sur l'estrade, un drapeau
 est deplié sur celui-ci, et un pretre chante une longue prière. Lorsqu'elle est
 finie, d'autres soldats tirent trois coups de leurs fusils. 
 
-![Cérémonie de l'enterrement du soldat](images/soldiers_burial_ceremony.jpg)
+![Cérémonie de l'enterrement du soldat](images/lviv/soldiers_burial_ceremony.jpg)
 
 Le drapeau est replié et le cercueil est récuperé par les six hommes qui le
 porte le long de l'allée centrale. La famille du mort suit le cercueil, et sur
@@ -97,6 +97,6 @@ son chemin, de nombreuses personnes mettent un genou à terre. Une fois le
 cercueil trop haut pour qu'on le voit, nous partons pour rentrer dans le vieux
 cimetiere. On ne parviendra pas à trouver la tombe que l'on cherchait.
 
-![La marche du cercueil](images/solders_burial_walking_the_coffin.jpg)
+![La marche du cercueil](images/lviv/solders_burial_walking_the_coffin.jpg)
 
-La suite : (Kyiv)[kyiv.md]
+[Article suivant : Kyiv](kyiv.md)
