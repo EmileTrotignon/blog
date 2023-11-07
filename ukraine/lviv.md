@@ -97,6 +97,6 @@ son chemin, de nombreuses personnes mettent un genou à terre. Une fois le
 cercueil trop haut pour qu'on le voit, nous partons pour rentrer dans le vieux
 cimetiere. On ne parviendra pas à trouver la tombe que l'on cherchait.
 
-![La marche du cercueil](images/lviv/solders_burial_walking_the_coffin.jpg)
+![La marche du cercueil](images/lviv/soldiers_burial_walking_the_coffin.jpg)
 
 [Article suivant : Kyiv](kyiv.md)
