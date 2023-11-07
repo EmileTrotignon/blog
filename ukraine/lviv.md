@@ -92,10 +92,10 @@ finie, d'autres soldats tirent trois coups de leurs fusils.
 ![Cérémonie de l'enterrement du soldat](images/lviv/soldiers_burial_ceremony.jpg)
 
 Le drapeau est replié et le cercueil est récuperé par les six hommes qui le
-porte le long de l'allée centrale. La famille du mort suit le cercueil, et sur
+portent le long de l'allée centrale. La famille du mort suit le cercueil, et sur
 son chemin, de nombreuses personnes mettent un genou à terre. Une fois le
 cercueil trop haut pour qu'on le voit, nous partons pour rentrer dans le vieux
-cimetiere. On ne parviendra pas à trouver la tombe que l'on cherchait.
+cimetière. On ne parviendra pas à trouver la tombe que l'on cherchait.
 
 ![La marche du cercueil](images/lviv/soldiers_burial_walking_the_coffin.jpg)
 
