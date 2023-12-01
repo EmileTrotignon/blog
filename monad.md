@@ -285,3 +285,5 @@ Cmdliner, for the reason of such command-line interfaces being indesirable.
 
 To sum things up, a monad is in interface that provide a way to make special
 computations that can depend on other special computations of the same kind.
+Computations are nicely expressed by let-bindings instead of anonymous
+functions, and in OCaml we have them even for special computations.
