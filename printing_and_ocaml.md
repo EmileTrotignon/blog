@@ -12,7 +12,7 @@ to improve the printing experience a lot without them.
 
 Modular implicits are a very powerful feature which requires a lot of research
 and implementation work, and are not going to be available for a very long time.
-It would allow us to do the following : 
+It would allow us to do the following :
 
 ```ocaml
 module type Printable = sig
@@ -34,12 +34,13 @@ let () =
 ## Modular implicits are not enough
 
 This is very cool, but having modular implicits on its own would not solve the
-printing issue. You would also need `Int` to be printable, and currently it is 
+printing issue. You would also need `Int` to be printable, and currently it is
 and no module in the Stdlib is.
 
 There are obviously functions to print many types, but none of them are in their
-respective modules. You have `output_int`, `Format.pp_print_int`, but not 
-`Int.print`. More complex types like `'a list` do not have such functions at all.
+respective modules. You have `output_int`, `Format.pp_print_int`, but not
+`Int.print`. More complex types like `'a list` only have function to print them
+in `Format`, were they might be hard to find.
 This may seems like a detail because adding such functions would be very easy
 compared to implementing modular implicits, but I believe it is not a detail but
 a low-hanging fruit.
@@ -52,16 +53,16 @@ themselves. And I would even go as far as to say that it is just as good as
 modular **explicits**, that is a version of the above code where you have to specify
 the module : `print Int 123` is not that different from `Int.print 123`.
 
-That is to say, modular implicits give inference for printing, which is very 
+That is to say, modular implicits give inference for printing, which is very
 good, but a lot of langages that have a typeclass-like thing for printing do not
 have very good type inference, and (almost) catching up with them would only
 require small changes to the Stdlib.
 
-In c++, you could write : 
+In c++, you could write :
 
 ```c++
 int x = 123;
-cout << x; 
+cout << x;
 ```
 
 and in Ocaml with the changes I talk about that would be
@@ -97,7 +98,7 @@ print_endline {%fmt|arr = %{arr : Array[Int]} |}
 ```
 
 One thing that OCaml would still be bad at is printing value with abstract types.
-In C++ you could do : 
+In C++ you could do :
 
 ```c++
 template<class T>
