@@ -176,16 +176,17 @@ choosing the wrong one may block you later.
 
 We are going to place ourselves in a very abstract sudoku :
 
-- Free cells are represented by ints from `0` to `n_cells`.
+- Empty cells are represented by ints from `0` to `n_cells`.
 - A digit `i` in cell `cell` is legal if `legal_move ~cells ~cell i` returns
   true. `cells` is a list of size `i - 1` with the digits put in the previous
-  cells.
+  cells. This `legal` function exists for one instance of a sudoku problem.
 
 We can solve the sudoku with the following code :
 
 ```ocaml
-let digits = [0; 1; 2; 3; 4; 5; 6; 7; 8; 9] in
-(* [digit] is one element of [digits], we do not know which one *)
+let digits = [1; 2; 3; 4; 5; 6; 7; 8; 9] in
+(* [digit] is one element of [digits], we do not know which one. The bellow code
+   is going to run once for each possible value of [digit] *)
 let* digit = digits in
 let* cell_0 =
   if is_legal ~cells:[] ~cell:0 digit then
@@ -213,8 +214,9 @@ in
 
 A working version can be found in [sudoku_monad.ml](sudoku_monad.ml)
 
-It has type `int list list`, which make sense because a solution is a list of
-digits to put in cells, and there can be multiple solution to a sudoku.
+The above code has type `int list list`, which make sense because a solution is
+a list of digits to put in cells, and there can be multiple solution to a
+sudoku.
 
 You can notice that we use `let+`/`map` only once. The reason for that is that
 every cell depends on non-deterministic computations : the choice of the digit,
@@ -224,7 +226,7 @@ computation that depends on it : we just return the list of cells afterwards.
 You can find exercices on the non-deterministic monad by Francois Pottier
 [here](https://ocaml-sf.org/learn-ocaml-public/exercise.html#id=fpottier/nondet_monad_seq).
 
-Be aware that the exercise do not use the `let*/let+` syntax, but an infix one.
+Be aware that the exercise do not use the `let*`/`let+` syntax, but an infix one.
 This syntax used to be very common in the OCaml ecosystem before let operators
 were available. They also try and make the non-determinism usable in reality,
 by caring about performance.
@@ -274,10 +276,10 @@ let* option_flag = flag option in
 ...
 ```
 
-If you replace every `let*` by a `let+`/`map`, it will return you an `'a t t`
-instead of an `'a t`, that is a command line argument that returns a command
-line argument that returns an `'a`, and there is no way to run that in Cmdliner,
-for the reason of such interfaces being indesirable.
+If you replace every `let*`/`bind` by a `let+`/`map`, it will return you an `'a
+t t` instead of an `'a t`, that is a command line argument that returns a
+command line argument that returns an `'a`, and there is no way to run that in
+Cmdliner, for the reason of such command-line interfaces being indesirable.
 
 ## Conclusion
 
