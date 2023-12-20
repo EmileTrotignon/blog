@@ -58,10 +58,9 @@ let <pattern> = <expr1> in
 <expr2>
 ```
 
-Lets name the type of `expr1` `'a` and the type returned by `expr2` `'b`.
-`expr2` has a a free-variable bound to `<pattern>`. That free variable is of
-type `'a`. This can be interpreted as `<pattern>` and `expr2` together being of
-type `'a -> 'b`.
+Lets name the type of `expr1` `'a` and the type of `expr2` `'b`. `expr2` has a a
+free-variable bound to `<pattern>`. That free variable is of type `'a`. This can
+be interpreted as `<pattern>` and `expr2` together being of type `'a -> 'b`.
 
 If we indeed chose to look at things this way, we can get this as the type of
 the let itself :
@@ -128,7 +127,7 @@ let map f m = bind m (fun v -> return (f v))
 
 We will explain later in english what this means.
 
-To explain what a monad, we will look at its `'a t` in a other way. Most of
+To explain what a monad is, we will look at its `'a t` in a other way. Most of
 the time, we look at a type `'a t` as a `t` that contains an `'a`. That make
 a lot of sense for `'a list`.
 
@@ -137,6 +136,10 @@ make sense for common monads :
 
 - `'a Lwt.t` is a way to compute an `'a` asynchronously.
 - `'a Option.t` is a way to compute an `'a` that may fail.
+
+It would not make sense to state that an `'a Lwt.t` contains an `'a` : it might
+not "contain" it just yet. Likewise for an `'a Option.t`, there might not be a
+single `'a` in here.
 
 Even `'a list` can be seen a way to compute an `'a` that may have multiple
 results. We can call this a "non deterministic computation" as its results are
@@ -244,7 +247,8 @@ module type Functor = sig
   val map : ('a -> 'b) -> 'a t -> 'b t
 end
 ```
-It is a monad that lacks bind. As we saw earlier `bind` allows to do a special
+It is not to be confused with the language feature of the same name and is a
+monad that lacks bind. As we saw earlier `bind` allows to do a special
 computation that depends on another special computation. `map` does a regular
 computation that depends on a special one. Therefore if you only have `map` you
 cannot chain special computations. This can be useful to model certain things.
@@ -280,6 +284,14 @@ If you replace every `let*`/`bind` by a `let+`/`map`, it will return you an `'a
 t t` instead of an `'a t`, that is a command line argument that returns a
 command line argument that returns an `'a`, and there is no way to run that in
 Cmdliner, for the reason of such command-line interfaces being indesirable.
+
+We can view this in terms of parsing; Cmdliner parses command line argument : a
+monad would allow to parse a context-sensitive grammar, where a functor
+restricts possible grammars to context-free ones.
+
+To be more precise, `Cmdliner` is actually an applicative functor, which is
+slightly more powerful than the presented functor, but still does not have bind,
+and also only allows to parse context-free grammar.
 
 ## Conclusion
 

@@ -311,3 +311,8 @@ let main () =
   (* well-typed by contravariance *)
   reset_square_array rectangle
 ```
+
+I am not sure how exactly such a type system would be implemented, but it is
+still funny to notice that there are probably subtyping relationships between
+`'a array`, `'a read_only_array` and `'a write_only_array`. This of course
+depends on the variance of `'a`.
