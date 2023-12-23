@@ -3,15 +3,15 @@
 
 ## Le train couchette
 
-Après quelque jours à Lviv, nous prenons le train de nuit pour Kyiv. C'est
+Après quelques jours à Lviv, nous prenons le train de nuit pour Kyiv. C'est
 quelque chose que l'on avait déjà fait en 2021, et c'est une expérience très
 réconfortante.
 
 Notre train part à 23h. Le quai n'est pas surélévé, il faut donc grimper trois 
-marches étroites, et y hisser les valises. On est alors acceuilli par un
-interieur fraichement peint en beige. On accede aux cabines par un couloir
+marches étroites, et y hisser les valises. On est alors accueilli par un
+intérieur fraichement peint en beige. On accède aux cabines par un couloir
 étroit qui longe le coté gauche du train. Comme on est en seconde classe, il y
-quatres lits par cabine, superposés par deux de chaque coté de la fenetre. Il
+quatre lits par cabine, superposés par deux de chaque côté de la fenêtre. Il
 est flambant neuf et il y a même des petits voyants lumineux pour indiquer si
 les toilettes sont libres.
 
