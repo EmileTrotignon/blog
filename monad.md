@@ -22,7 +22,7 @@ In this blog post, I will try to explain two important things around monads :
 
 What I will not try to explain is how to use them. For that I believe that the
 signature is enough, you just need to play with a concrete monad like `Result`
-or `Lwt` for long enough. The explainations bellow are certainly not necessary
+or `Lwt` for long enough. The explanations below are certainly not necessary
 to use monads.
 
 
@@ -41,7 +41,7 @@ bind (bind m g) h = bind m (fun x -> bind (g x) h)
 
 I believe this is not really important to understand, it just means that the
 functions are going to behave like you would expect them to. Its not very
-relevant to my explainations bellow.
+relevant to my explanations below.
 
 Its is still probably worth it as a small exercise to try and prove that it is
 true for common monads with simple implementations like `Result`.
@@ -128,11 +128,11 @@ let map f m = bind m (fun v -> return (f v))
 We will explain later in english what this means.
 
 To explain what a monad is, we will look at its `'a t` in a other way. Most of
-the time, we look at a type `'a t` as a `t` that contains an `'a`. That make
+the time, we look at a type `'a t` as a `t` that contains an `'a`. That makes
 a lot of sense for `'a list`.
 
 In the case of a monad we need to look at it as a way to compute an `'a`. This
-make sense for common monads :
+makes sense for common monads :
 
 - `'a Lwt.t` is a way to compute an `'a` asynchronously.
 - `'a Option.t` is a way to compute an `'a` that may fail.
@@ -174,7 +174,7 @@ one possible result.
 ## Example : Sudoku
 
 Lets look a real use-case of non-deterministic computation : solving a sudoku.
-When you solve a sudoku, you have a set legals digits to put in each cells, but
+When you solve a sudoku, you have a set of legal digits to put in each cell, but
 choosing the wrong one may block you later.
 
 We are going to place ourselves in a very abstract sudoku :
@@ -188,7 +188,7 @@ We can solve the sudoku with the following code :
 
 ```ocaml
 let digits = [1; 2; 3; 4; 5; 6; 7; 8; 9] in
-(* [digit] is one element of [digits], we do not know which one. The bellow code
+(* [digit] is one element of [digits], we do not know which one. The below code
    is going to run once for each possible value of [digit] *)
 let* digit = digits in
 let* cell_0 =
@@ -218,7 +218,7 @@ in
 A working version can be found in [sudoku_monad.ml](sudoku_monad.ml)
 
 The above code has type `int list list`, which make sense because a solution is
-a list of digits to put in cells, and there can be multiple solution to a
+a list of digits to put in cells, and there can be multiple solutions to a
 sudoku.
 
 You can notice that we use `let+`/`map` only once. The reason for that is that
@@ -295,7 +295,7 @@ and also only allows to parse context-free grammar.
 
 ## Conclusion
 
-To sum things up, a monad is in interface that provide a way to make special
+To sum things up, a monad is in interface that provides a way to make special
 computations that can depend on other special computations of the same kind.
 Computations are nicely expressed by let-bindings instead of anonymous
 functions, and in OCaml we have them even for special computations.
