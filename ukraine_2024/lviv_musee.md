@@ -1,5 +1,5 @@
 Toujours à Lviv, on visite un très joli musée, avec des tenues et objets
-ethnographique au rez-de-chaussée, et des oeuvres d'art à l'étage.
+ethnographiques au rez-de-chaussée, et des oeuvres d'art à l'étage.
 
 ![Deux tenues](images/lviv/musee_ethnographique/tenues_1.jpg)
 
@@ -11,7 +11,7 @@ ethnographique au rez-de-chaussée, et des oeuvres d'art à l'étage.
 ![Un manteau.](images/lviv/musee_ethnographique/manteau_1.jpg)
 ![Un autre manteau.](images/lviv/musee_ethnographique/manteau_2.jpg)
 
-![Des rushniks, des longues serviettes brodée. Ils servent notamment lors des mariages.](images/lviv/musee_ethnographique/rushnik.jpg)
+![Des rushniks, des longues serviettes brodées. Ils servent notamment lors des mariages.](images/lviv/musee_ethnographique/rushnik.jpg)
 
 ![Des tapis.](images/lviv/musee_ethnographique/tapis.jpg)
 
@@ -35,7 +35,7 @@ ethnographique au rez-de-chaussée, et des oeuvres d'art à l'étage.
 
 ![Toute nue](images/lviv/musee_ethnographique/verre_nue.jpg)
 
-![Je prend des photos](images/lviv/musee_ethnographique/emile_verre.jpg)
+![Je prends des photos](images/lviv/musee_ethnographique/emile_verre.jpg)
 
 ![Une femme joue de la bandura, un instrument Ukrainien, au milieu de tournesols.](images/lviv/musee_ethnographique/verre_tournesols.jpg)
 

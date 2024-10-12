@@ -6,7 +6,7 @@ ligne est beaucoup trop élevé, les opérateurs de defenses anti-aériennes dev
 prendre des décisions très rapides.
 
 Pour se rendre en Ukraine, nous prenons donc l'avion jusqu'à Cracovie. Un bus
-pars pour Lviv depuis l'aéroport. Nous passerons quelques jours pour visiter
+part pour Lviv depuis l'aéroport. Nous passerons quelques jours pour visiter
 Lviv avant de prendre le train pour Kyiv ou sont nos amis et notre famille.
 
 ![L'avion au départ de "Paris"-Beauvais](images/trajet_paris_lviv/paris_avion.jpg)
@@ -35,7 +35,7 @@ On arrive a Lviv assez tard, on va à notre hotel, puis on juste assez de temps
 pour aller acheter à manger avant le couvre-feu. Comme c'était assez fatiguant
 on n'a pas vraiment de photos de cette soirée.
 
-Le lendemain on commence à visiter Lviv. Lviv à longtemps fait partie de
+Le lendemain on commence à visiter Lviv. Lviv a longtemps fait partie de
 l'empire austro-hongrois, et cela se ressent dans l'architecture : c'est une
 très belle ville dans un style européen (c'est à dire pas soviétique).
 
@@ -68,7 +68,7 @@ restaurants et de l'activité.
 
 Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très bons chocolats chaud.
 
-![Qui est a la plus belle ?](images/lviv/coline_et_antonina.jpg)
+![Qui est la plus belle ?](images/lviv/coline_et_antonina.jpg)
 
 ![La vue depuis le café.](images/lviv/toits.jpg)
 
@@ -76,33 +76,33 @@ Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très 
 
 ![Une rue passante dans le centre de Lviv](images/lviv/rue_passante.jpg)
 
-![Un bel immeuble](images/lviv/batiment_biblioteka.jpg)
+![Une autre rue](images/lviv/batiment_biblioteka.jpg)
 
 ![Alice marche de manière déterminée](images/lviv/alice_marche.jpg)
 
-La guerre est visible et présente à Lviv, même si il y a moins de bombardement que dans le reste de l'Ukraine.
+La guerre est visible et présente à Lviv, même si il y a moins de bombardements que dans le reste de l'Ukraine.
 
-![Une église dont les vitraux sont protégée contre les bombardement.](images/lviv/eglise_protegee.jpg)
+![Une église dont les vitraux sont protégés contre les bombardements.](images/lviv/eglise_protegee.jpg)
 
-On assiste au passage d'un convois funéraire de l'armée. Tout le monde s’arrête
+On assiste au passage d'un convoi funéraire de l'armée. Tout le monde s’arrête
 pour saluer le héros. Le maire sors de l'hotel de ville pour transmettre ses
 respects.
 
-![Le convois funéraire](images/lviv/cortege_funeraire.jpg)
+![Le convoi funéraire](images/lviv/cortege_funeraire.jpg)
 
 ![Un monument à la centurie céleste : les 104 manifestants tués lors de la révolution de la dignité en 2014.](images/lviv/monument_centurie_celeste.jpg)
 
-Il y a pas mal de graffitis intéressant.
+Il y a pas mal de graffitis intéressants.
 
 ![Vova est content que les tagueurs pensent à lui.](images/lviv/vova_graffiti.jpg)
 
 ![Une poire évocatrice](images/lviv/poire.jpg)
 
-![Une très belle fresque d'une femme dans une tenu traditionnelle.](images/lviv/fresque_tenue.jpg)
+![Une très belle fresque d'une femme dans une tenue traditionnelle.](images/lviv/fresque_tenue.jpg)
 
 ![[Slavik's fashion](https://www.dyachyshyn.com/slavik-s-fashion) est un projet assez présent dans Lviv. Il s'agit de photographies d'un mendiant qui ne porte jamais deux fois la même tenue.](images/lviv/slaviks_fashion.jpg)
 
-On se balade dans les hauteurs de Lviv, qui sont plus calmes et ou on a de très
+On se balade dans les hauteurs de Lviv, qui sont plus calmes et où on a de très
 beaux points de vue sur la ville.
 
 ![Une rue très calme](images/lviv/rue_calme.jpg)
@@ -125,7 +125,7 @@ beaux points de vue sur la ville.
 On monte jusqu'à un parc avec des balançoires.
 
 ![Alice se balance](images/lviv/parc_balancoires/alice_se_balance.jpg)
-![Antonina aussi](images/lviv/parc_balancoires/antonina_se_balance_1.jpg)
+![Antonina se balance et fait un appel professionnel en même temps.](images/lviv/parc_balancoires/antonina_se_balance_1.jpg)
 ![Quelle prestance !](images/lviv/parc_balancoires/antonina_se_balance_2.jpg)
 ![Je me concentre pour aller très vite.](images/lviv/parc_balancoires/emile_se_balance.jpg)
 ![Puis je fuis](images/lviv/parc_balancoires/emile_fuit.jpg)

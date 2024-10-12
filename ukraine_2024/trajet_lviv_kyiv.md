@@ -2,7 +2,7 @@
 
 Pour se rendre à Kyiv, on prend le train de nuit. C'est une expérience que je
 trouve très réconfortante, et qui est objectivement très pratique, puisque l'on
-voyage pendant que l'ont dort.
+voyage pendant que l'on dort.
 
 On se rend à la gare de Lviv à 23h.
 
@@ -11,14 +11,14 @@ On se rend à la gare de Lviv à 23h.
 ![Une carte du réseau ferroviaire ukrainien. Aucun marquage spécial n'est fait pour les zones occupées.](images/trajet_lviv_kyiv/carte_ukraine.jpg)
 
 On comme on est cinq, on a une cabine pour 4 (un "coupé"), et Vova est puni et
-dors dans un coupé avec 3 inconnus.
+dort dans un coupé avec 3 inconnus.
 ![Notre coupé](images/trajet_lviv_kyiv/le_coupe.jpg)
 
 ![Le coupé est petit mais convivial.](images/trajet_lviv_kyiv/vue_d_en_haut.jpg)
 
 ![Il y a une échelle, mais c'est plus amusant de grimper comme ça.](images/trajet_lviv_kyiv/coline_grimpe.jpg)
 
-![Coline est impressionnée par le nombre de billets. Chaque billet vaut moins de 4.44€.](images/trajet_lviv_kyiv/coline_billets.jpg)
+![Coline est impressionnée par le nombre de billets. Chaque billet vaut 4.44€.](images/trajet_lviv_kyiv/coline_billets.jpg)
 
 ![Antonina a les pieds très propres.](images/trajet_lviv_kyiv/coupe_orteils.jpg)
 
@@ -28,7 +28,7 @@ et ranger le coupé.
 On se lève avec un superbe levé de soleil, c'est le moment de prendre des
 photos.
 
-![Je prend des photos avec l'appareil photo de Coline.](images/trajet_lviv_kyiv/emile_photographe.jpg)
+![Je prends des photos avec l'appareil photo de Coline.](images/trajet_lviv_kyiv/emile_photographe.jpg)
 
 On achète du thé que le chef de voiture nous amène.
 
@@ -52,7 +52,7 @@ On achète du thé que le chef de voiture nous amène.
 
 ![Un train de marchandises.](images/trajet_lviv_kyiv/train_marchandises.jpg)
 
-![Des train de passagers.](images/trajet_lviv_kyiv/trains_arret.jpg)
+![Des trains de passagers.](images/trajet_lviv_kyiv/trains_arret.jpg)
 
 ![Notre train à quai à Kyiv.](images/trajet_lviv_kyiv/train.jpg)
 
