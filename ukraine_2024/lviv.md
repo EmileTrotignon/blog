@@ -1,0 +1,156 @@
+# Le trajet
+
+Il n'est plus possible de se rendre en Ukraine par avion. Je l'avais fait en
+2021, mais dans un espace aérien disputé, le risque de descendre un avion de
+ligne est beaucoup trop élevé, les opérateurs de defenses anti-aériennes devant
+prendre des décisions très rapides.
+
+Pour se rendre en Ukraine, nous prenons donc l'avion jusqu'à Cracovie. Un bus
+pars pour Lviv depuis l'aéroport. Nous passerons quelques jours pour visiter
+Lviv avant de prendre le train pour Kyiv ou sont nos amis et notre famille.
+
+![L'avion au départ de "Paris"-Beauvais](images/trajet_paris_lviv/paris_avion.jpg)
+
+![Le bus en question](images/trajet_paris_lviv/cracovie_bus.jpg)
+
+Coline avait oublié de prendre son billet de bus, heureusement il restait des
+places et le chauffeur du bus à accepté les 20 euros que l'ont avait (ça n'est
+la monnaie ni en Pologne ni en Ukraine).
+
+![Dans le bus.](images/trajet_paris_lviv/dans_le_bus.jpg)
+
+Le trajet est très long, 9 heures plus l'imprévu de l'attente à la frontière.
+
+![Le poste frontière Ukrainien avec le drapeau devant](images/trajet_paris_lviv/frontiere_drapeau.jpg)
+
+![L'endroit moins solennel par lequel on passe](images/trajet_paris_lviv/frontiere_1.jpg)
+
+Après une attente assez longue, on passe la frontière.
+
+![Vue de l'Ukraine depuis la fenêtre du bus](images/trajet_paris_lviv/frontiere_passee.jpg)
+
+# Lviv
+
+On arrive a Lviv assez tard, on va à notre hotel, puis on juste assez de temps
+pour aller acheter à manger avant le couvre-feu. Comme c'était assez fatiguant
+on n'a pas vraiment de photos de cette soirée.
+
+Le lendemain on commence à visiter Lviv. Lviv à longtemps fait partie de
+l'empire austro-hongrois, et cela se ressent dans l'architecture : c'est une
+très belle ville dans un style européen (c'est à dire pas soviétique).
+
+![Sculpture dans une alcove](images/lviv/alcove_sculpture.jpg)
+
+Cela est très apprécié des Ukrainiens, ce qui a fait de Lviv un centre
+touristique. Personnellement je préfère l'urbanisme fou et un peu brutal de
+Kyiv, qui est plus exotique pour un français.
+
+![L'opéra de Lviv](images/lviv/lviv_opera.jpg)
+
+![Un bâtiment officiel.](images/lviv/batiment_officiel.jpg)
+
+![Un clocher avec l'arrière de l'arsenal, un bâtiment médiéval avec un restaurant au sous-sol et un musée à l’étage.](images/lviv/clocher_arsenal.jpg)
+
+![Un autre clocher](images/lviv/clocher.jpg)
+
+Le centre de Lviv est tres piéton et vivant, il y a beaucoup de boutiques des
+restaurants et de l'activité.
+
+![Les rails du tram](images/lviv/rails_eglise.jpg)
+
+![Il y même des mascottes qui font payer des photos.](images/lviv/mascottes.jpg)
+
+![Le pouvoir est quelque chose de fragile, et Alice a du mal à se tenir en équilibre sous la couronne.](images/lviv/alice_couronne.jpg)
+
+![Dans un restaurant.](images/lviv/lviv_restaurant.jpg)
+
+![Vova boit du fromage avec une paille.](images/lviv/fromage_a_la_paille.jpg)
+
+Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très bons chocolats chaud.
+
+![Qui est a la plus belle ?](images/lviv/coline_et_antonina.jpg)
+
+![La vue depuis le café.](images/lviv/toits.jpg)
+
+![Un tram très typique et mignon, défiguré par Pepsi.](images/lviv/tram_pepsi.jpg)
+
+![Une rue passante dans le centre de Lviv](images/lviv/rue_passante.jpg)
+
+![Un bel immeuble](images/lviv/batiment_biblioteka.jpg)
+
+![Alice marche de manière déterminée](images/lviv/alice_marche.jpg)
+
+La guerre est visible et présente à Lviv, même si il y a moins de bombardement que dans le reste de l'Ukraine.
+
+![Une église dont les vitraux sont protégée contre les bombardement.](images/lviv/eglise_protegee.jpg)
+
+On assiste au passage d'un convois funéraire de l'armée. Tout le monde s’arrête
+pour saluer le héros. Le maire sors de l'hotel de ville pour transmettre ses
+respects.
+
+![Le convois funéraire](images/lviv/cortege_funeraire.jpg)
+
+![Un monument à la centurie céleste : les 104 manifestants tués lors de la révolution de la dignité en 2014.](images/lviv/monument_centurie_celeste.jpg)
+
+Il y a pas mal de graffitis intéressant.
+
+![Vova est content que les tagueurs pensent à lui.](images/lviv/vova_graffiti.jpg)
+
+![Une poire évocatrice](images/lviv/poire.jpg)
+
+![Une très belle fresque d'une femme dans une tenu traditionnelle.](images/lviv/fresque_tenue.jpg)
+
+![[Slavik's fashion](https://www.dyachyshyn.com/slavik-s-fashion) est un projet assez présent dans Lviv. Il s'agit de photographies d'un mendiant qui ne porte jamais deux fois la même tenue.](images/lviv/slaviks_fashion.jpg)
+
+On se balade dans les hauteurs de Lviv, qui sont plus calmes et ou on a de très
+beaux points de vue sur la ville.
+
+![Une rue très calme](images/lviv/rue_calme.jpg)
+
+![Il fait beau, les tournesols sont en fleur.](images/lviv/tournesols.jpg)
+
+![Un immeuble](images/lviv/balcons.jpg)
+
+![Vova prend la pause sous un drapeau.](images/lviv/vova_drapeau.jpg)
+![Et devant la vue](images/lviv/vova.jpg)
+
+![Alice a de super lunettes pour aller très vite sur un vélo. Mais pas de vélo.](images/lviv/alice.jpg)
+
+![Antonina nous attend.](images/lviv/antonina_ennui.jpg)
+
+![Mais elle est contente qu'on la prenne en photo.](images/lviv/antonina_contente.jpg)
+
+![Tous ensemble](images/lviv/vue_groupe.jpg)
+
+On monte jusqu'à un parc avec des balançoires.
+
+![Alice se balance](images/lviv/parc_balancoires/alice_se_balance.jpg)
+![Antonina aussi](images/lviv/parc_balancoires/antonina_se_balance_1.jpg)
+![Quelle prestance !](images/lviv/parc_balancoires/antonina_se_balance_2.jpg)
+![Je me concentre pour aller très vite.](images/lviv/parc_balancoires/emile_se_balance.jpg)
+![Puis je fuis](images/lviv/parc_balancoires/emile_fuit.jpg)
+![Des fleurs rouges dans le parc](images/lviv/parc_balancoires/fleurs.jpg)
+
+![Vova se balance](images/lviv/parc_balancoires/vova_se_balance.jpg)
+
+![Puis il saute](images/lviv/parc_balancoires/vova_saute.jpg)
+
+![Une jolie maison](images/lviv/parc_balancoires/maison.jpg)
+
+Il y a de très belles vues sur Lviv depuis ce parc.
+
+![Le beffroi de l'hotel de ville.](images/lviv/parc_balancoires/beffroi_drapeau.jpg)
+
+![Les toits de Lviv.](images/lviv/parc_balancoires/vue_sur_lviv.jpg)
+
+![Un autre angle.](images/lviv/parc_balancoires/vue_sur_lviv_2.jpg)
+
+Dans un autre parc, les tourniquet n'ont pas encore les freins qui les empêchent
+d'aller très vite en France.
+
+![Coline et Vova font du tourniquet.](images/lviv/coline_vova_tourniquet.jpg)
+
+![Un toit rouge.](images/lviv/toit_rouge.jpg)
+![Un toit tout rouillé](images/lviv/toits_rouilles.jpg)
+
+[Page suivante: le musée ethnographique.](lviv_musee.md)
