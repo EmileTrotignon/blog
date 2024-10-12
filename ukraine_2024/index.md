@@ -8,7 +8,7 @@ Cet article raconte notre voyage, avec beaucoup de photos, prises grace à
 l'appareil photo que Coline a amené. La plupart des photos ont été prises par
 Coline ou par moi.
 
-![Monument de l'indépendance, Maïdane, Kyiv]
+![Monument de l'indépendance, Maïdane, Kyiv](images/kyiv/monument_de_lindependance.jpg)
 
 Partir en vacance en Ukraine pendant la guerre est une chose étrange, mais
 extrêmement importante pour nous.
