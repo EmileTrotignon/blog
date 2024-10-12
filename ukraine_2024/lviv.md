@@ -62,7 +62,7 @@ restaurants et de l'activité.
 
 ![Le pouvoir est quelque chose de fragile, et Alice a du mal à se tenir en équilibre sous la couronne.](images/lviv/alice_couronne.jpg)
 
-![Dans un restaurant.](images/lviv/lviv_restaurant.jpg)
+![On vient de leur dire qu'Antonina est enceinte.](images/lviv/lviv_restaurant.jpg)
 
 ![Vova boit du fromage avec une paille.](images/lviv/fromage_a_la_paille.jpg)
 
