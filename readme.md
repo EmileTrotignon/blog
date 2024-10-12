@@ -11,3 +11,4 @@ I also have a few articles in french on my trip to Ukraine in the summer of
 - [What is a monad ?](monad.md)
 
 - [Ukraine, summer 2023 (in french)](ukraine)
+- [Ukraine summer 2024 (in french, with loads of pictures)](ukraine_2024)
