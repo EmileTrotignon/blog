@@ -8,7 +8,9 @@ ethnographiques au rez-de-chaussée, et des oeuvres d'art à l'étage.
 ![Des céramiques](images/lviv/musee_ethnographique/ceramiques.jpg)
 
 ![Des jupes imprimées, avec les tampons servant à l'impression en dessous.](images/lviv/musee_ethnographique/IMG_0785.jpg)
+
 ![Un manteau.](images/lviv/musee_ethnographique/manteau_1.jpg)
+
 ![Un autre manteau.](images/lviv/musee_ethnographique/manteau_2.jpg)
 
 ![Des rushniks, des longues serviettes brodées. Ils servent notamment lors des mariages.](images/lviv/musee_ethnographique/rushnik.jpg)
@@ -40,6 +42,7 @@ ethnographiques au rez-de-chaussée, et des oeuvres d'art à l'étage.
 ![Une femme joue de la bandura, un instrument Ukrainien, au milieu de tournesols.](images/lviv/musee_ethnographique/verre_tournesols.jpg)
 
 ![Un moustachu joue du violon](images/lviv/musee_ethnographique/verre_violon.jpg)
+
 ![Plusieurs tableaux](images/lviv/musee_ethnographique/verres.jpg)
 
 ![Le portrait d'un empereur autrichien dans le magasin de souvenirs du musée.](images/lviv/musee_ethnographique/empereur_autrichien.jpg)

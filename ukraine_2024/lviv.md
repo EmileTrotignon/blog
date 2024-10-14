@@ -125,10 +125,15 @@ beaux points de vue sur la ville.
 On monte jusqu'à un parc avec des balançoires.
 
 ![Alice se balance](images/lviv/parc_balancoires/alice_se_balance.jpg)
+
 ![Antonina se balance et fait un appel professionnel en même temps.](images/lviv/parc_balancoires/antonina_se_balance_1.jpg)
+
 ![Quelle prestance !](images/lviv/parc_balancoires/antonina_se_balance_2.jpg)
+
 ![Je me concentre pour aller très vite.](images/lviv/parc_balancoires/emile_se_balance.jpg)
+
 ![Puis je fuis](images/lviv/parc_balancoires/emile_fuit.jpg)
+
 ![Des fleurs rouges dans le parc](images/lviv/parc_balancoires/fleurs.jpg)
 
 ![Vova se balance](images/lviv/parc_balancoires/vova_se_balance.jpg)
@@ -151,6 +156,7 @@ d'aller très vite en France.
 ![Coline et Vova font du tourniquet.](images/lviv/coline_vova_tourniquet.jpg)
 
 ![Un toit rouge.](images/lviv/toit_rouge.jpg)
+
 ![Un toit tout rouillé](images/lviv/toits_rouilles.jpg)
 
 [Page suivante: le musée ethnographique.](lviv_musee.md)
