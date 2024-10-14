@@ -21,7 +21,7 @@ ethnographiques au rez-de-chaussée, et des oeuvres d'art à l'étage.
 ![Les ukrainiens ont en réalité inventé Starbucks en 1437.](images/lviv/musee_ethnographique/starbucks.jpg)
 
 
-À l'étage, il y a toute une exposition de peinture sur verre.
+À l'étage, il y a toute une exposition de peinture sur verre par [Ivan Skolozda](https://ukrainiannationalmuseum.org/wp-content/uploads/2020/04/2020-SKOLOZDRA-IVAN-1.pdf).
 
 ![alt text](images/lviv/musee_ethnographique/verre_repas.jpg)
 
