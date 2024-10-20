@@ -52,11 +52,14 @@ galeries Lafayette en France. C'est d'ailleurs le seul sur ce format en Ukraine.
 
 ![Un bâtiment du gouvernement.](images/kyiv/p1/khreshatik/ministere.jpg)
 
-On mange a Puzata Khata, la "maison bedonnante". C'est une chaîne de restaurants
-en self-service qui sert de la nourriture Ukrainienne bon marché. C'est un
-équivalent de Flunch en France, mais sans le coté ringard.
+Dans une rue perpendiculaire, on mange a Puzata Khata, la "maison bedonnante".
+C'est une chaîne de restaurants en self-service qui sert de la nourriture
+Ukrainienne bon marché. C'est un équivalent de Flunch en France, mais sans le
+coté ringard.
 
-![Puzata Khata.](images/kyiv/p1/khreshatik/pekha.jpg)
+![Puzata Khata.](images/kyiv/p1/khreshatik/pekha_ext.jpg)
+
+![Notre repas.](images/kyiv/p1/khreshatik/pekha.jpg)
 
 On tombe aussi sur une installation artistique discrete. Il s'agit d'un accusé
 de réception de messagerie, pour rappeler la difficulté de communiquer avec des
@@ -123,16 +126,6 @@ ainsi que son indépendance totale à la Russie.
 
 ![Un panneau explicatif sur la révolution de la dignité.](images/kyiv/p1/maidane/panneau_revolution_maidane.jpg)
 
-Il y a aussi un centre commercial souterrain, avec plusieurs sorties et
-passages. Les passages souterrains sont courants à Kyiv et permettent de se
-passer de passage piéton.
-
-![Le centre commercial Globousse la nuit.](images/kyiv/p1/maidane/globus.jpg)
-
-![La cigogne décorative du Globousse](images/kyiv/p1/maidane/cigogne_globus.jpg)
-
-![Dans un passage souterrain sous Maïdane.](images/kyiv/p1/maidane/passage_souterrain.jpg)
-
 Depuis le début de l'invasion totale, les proches de soldats tombés viennent
 placer un petit drapeau dans la pelouse de Maïdane. Ils sont maintenant très nombreux.
 
@@ -146,48 +139,22 @@ placer un petit drapeau dans la pelouse de Maïdane. Ils sont maintenant très n
 
 ![Maïdane la nuit.](images/kyiv/p1/maidane/nuit.jpg)
 
-# L'arche de la liberté du peuple Ukrainien
+# Les passages souterrains
 
-En poursuivant Khreshatik un peu plus loin, on arrive avec l'arche de la liberté
-du peuple Ukrainien. Il s'agit d'une grande arche en alliage de Titane,
-construite par le pouvoir soviétique sous le nom de "L'arche de l'amitié entre
-les peuples", pour célébrer l'amitié des peuples russes et ukrainiens. Ce
-message est évidemment moins audible de nos jours, et ne l'a d'ailleurs jamais
-réellement été lorsque l'on connaît les nombreux crimes commis par le pouvoir
-Moscovite de l'URSS à l'encontre du peuple Ukrainien
-([génocide](https://fr.wikipedia.org/wiki/Holodomor),
-[russification](https://fr.wikipedia.org/wiki/Russification_de_l%27Ukraine)).
-D'ailleurs, en 2018, avant le renommage, une fissure est peinte sur l'arche par
-des activistes des droits de l'homme pour protester contre l'agression russe de
-l'Ukraine.
+Il y a aussi à Maïdane un centre commercial souterrain, "Globousse" avec plusieurs sorties et
+passages. Les passages souterrains sont courants à Kyiv et permettent de se
+passer de passage piéton.
 
-L'arche est donc renommée en 2022, et les parties les plus visiblement pro-russes
-démantelées : La statue d'un ouvrier russe et d'un ukrainien, ainsi qu'une stèle
-commémorant le [traité de Pereïaslav](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Pere%C3%AFaslav_(1654))
-qui rattache l'Ukraine à l'Empire Russe.
+![Le centre commercial Globousse, qui sert de passage la nuit.](images/kyiv/p1/maidane/globus.jpg)
 
-![L'arche vue de face](images/kyiv/p1/arche/arche.jpg)
+![La cigogne décorative du Globousse](images/kyiv/p1/maidane/cigogne_globus.jpg)
 
-![Un gros plan de l'arche](images/kyiv/p1/arche/arche_gros_plan.jpg)
+![Dans un passage souterrain sous Maïdane.](images/kyiv/p1/maidane/passage_souterrain.jpg)
 
-À gauche de l'arche il y a un pont piéton, duquel on a un très beau point de vue
-sur Kyiv.
+![Attention au mauvaises rencontres !](images/kyiv/p1/emile_souterrain.jpg)
 
-![Photo de l'arche depuis le pont](images/kyiv/p1/arche/arche_pont_de_verre.jpg)
+![Je suis un maitre de la photo.](images/kyiv/p1/souterrain_exposition.jpg)
 
-Le pont dispose de plaques en verre comme attraction, mais elles sont très rayés
-et sales et donc pas très impressionnantes. La vue vaut tout de même la peine.
+![Dans un passage.](images/kyiv/p1/vova_alice_souterrain.jpg)
 
-![Le Dnipro, immense fleuve.](images/kyiv/p1/arche/dnipro.jpg)
-
-![L'église Saint Nicolas le miraculeux sur le Dnipro.](images/kyiv/p1/arche/dnipro_chapelle.jpg)
-
-![Une plage pour se baigner dans le Dnipro.](images/kyiv/p1/arche/dnipro_plage.jpg)
-
-Après le pont, il y a un parc avec une fontaine et une statue de
-[Saint Volodymyr](https://fr.wikipedia.org/wiki/Vladimir_Ier) qui se converti
-au christianisme.
-
-![Fontaine](images/kyiv/p1/arche/fontaine.jpg)
-
-![Statue de Saint Volodymyr](images/kyiv/p1/arche/statue_volodymir_le_grand.jpg)
+[Page suivante : Materiya](kyiv_2_materiya.md)
