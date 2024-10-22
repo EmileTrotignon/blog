@@ -100,4 +100,4 @@ Il y a une corde à grimper.
 
 ![Contre Coline c'est plus facile.](images/kyiv/p2/hidropark/emile_bras_de_fer.jpg)
 
-
+[Page suivante : la statue de l'Ukraine mère.](kyiv_3_statue.md)
