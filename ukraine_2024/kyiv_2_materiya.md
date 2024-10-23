@@ -46,7 +46,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Antonina dans la lumière.](images/kyiv/p2/exposition_materiya/antonina_lumiere.jpg)
 
-![Un homme semble jouer de deux flute à la fois. Il s'agit peut être de [trembitas](https://fr.wikipedia.org/wiki/Trembita_(instrument)).](images/kyiv/p2/exposition_materiya/tapis_deux_trembita.jpg)
+![Un homme semble jouer de deux flute à la fois. Il s'agit peut être de gros joints ou de [trembitas](https://fr.wikipedia.org/wiki/Trembita_(instrument)).](images/kyiv/p2/exposition_materiya/tapis_deux_trembita.jpg)
 
 ![Un couple au milieu des blés, 1970.](images/kyiv/p2/exposition_materiya/tapis_couple_ble.jpg)
 
@@ -58,7 +58,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Tapisserie endommagée représentant une naissance.](images/kyiv/p2/exposition_materiya/tapisserie_bebe.jpg)
 
-![Un croquis d'un salon.](images/kyiv/p2/exposition_materiya/croquis_salon.jpg)
+![Une aquarelle d'un salon.](images/kyiv/p2/exposition_materiya/croquis_salon.jpg)
 
 ![Un carton avec des oiseaux, peut-être prévu pour la fabrication d'une tapisserie.](images/kyiv/p2/exposition_materiya/motif_oiseaux.jpg)
 
