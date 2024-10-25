@@ -36,9 +36,11 @@ et sales et donc pas très impressionnantes. La vue vaut tout de même la peine.
 
 ![Plus convainquant lorsque c’était tout neuf. Le maire de Kyiv et son frère sautent lors de l'inauguration du pont pour prouver sa solidité.](images/kyiv/p1/arche/klitchko_jump.jpg)
 
+![C'est très haut : photo prise une autre fois du dessous du pont.](images/kyiv/p1/arche/nuit_dessous.jpg)
+
 ![Le Dnipro, immense fleuve.](images/kyiv/p1/arche/dnipro.jpg)
 
-![L'église Saint Nicolas le miraculeux sur le Dnipro.](images/kyiv/p1/arche/dnipro_chapelle.jpg)
+![L'église Saint Nicolas le Miraculeux sur le Dnipro.](images/kyiv/p1/arche/dnipro_chapelle.jpg)
 
 ![Une plage pour se baigner dans le Dnipro.](images/kyiv/p1/arche/dnipro_plage.jpg)
 

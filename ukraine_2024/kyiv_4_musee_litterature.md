@@ -69,3 +69,7 @@ française.
 La publication de Maroussia sous le nom de P.J Stahl et non Marko Vovtchok
 suscite des controverses qui sont détaillées dans [l'article
 Wikipedia](https://fr.wikipedia.org/wiki/Maroussia)
+
+Après toute ces visite, on rentre dormir à l'appartement.
+
+[Page suivante : l'hotel Ukraine](kyiv_5_hotel_ukraine.md)

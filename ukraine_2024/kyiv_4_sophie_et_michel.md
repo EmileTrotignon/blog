@@ -74,3 +74,5 @@ deux, mais sa place est plus vide.
 ![Il y a le ministère des affaires étrangères sur la place Saint-Michel.](images/kyiv/p4/sophie_et_michel/ministere_des_affaires_etrangeres.jpg)
 
 ![Une rue qui descend vers Maïdane. On sent la canicule.](images/kyiv/p4/sophie_et_michel/rue.jpg)
+
+[Page suivante : Saint André](kyiv_4_saint_andre.md)

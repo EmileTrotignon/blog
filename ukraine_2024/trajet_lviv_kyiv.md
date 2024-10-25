@@ -64,4 +64,4 @@ On achète du thé que le chef de voiture nous amène.
 
 ![L'autre sortie, plus moderne, a moins de charme.](images/trajet_lviv_kyiv/gare_kyiv_moderne.jpg)
 
-À venir : Kyiv.
+[Page suivante : Kyiv](kyiv_1.md)

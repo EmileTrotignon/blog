@@ -38,3 +38,5 @@ Et bien sur, il y a plein de méduses :
 ![](images/kyiv/p4/musee_de_la_meduse/meduse_rose_3.jpg)
 
 ![](images/kyiv/p4/musee_de_la_meduse/meduse_rose_4.jpg)
+
+[Page suivante : le musée de la littérature](kyiv_4_musee_litterature.md)

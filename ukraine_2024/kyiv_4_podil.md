@@ -44,3 +44,5 @@ marque, mais cette fois on achètera rien.
 On marche ensuite le long du Dnipro, qu'on ne peut pas voir à cause de l'immense rocade que l'on peut voir sur les photos depuis Saint André.
 
 ![Un silo au bord du Dnipro.](images/kyiv/p4/podil/silo.jpg)
+
+[Page suivante : le musée de la méduse](kyiv_4_musee_meduse.md)
