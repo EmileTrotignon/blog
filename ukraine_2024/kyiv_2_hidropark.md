@@ -4,11 +4,11 @@ Après ce jour-ci, comme il faut très chaud, on rejoint le cousin de Vova et un
 ami à lui se baigner a Hidropark, un complexe de loisir incluant des plages sur
 le Dnipro.
 
-Pour se faire, on prend le métro. Le métro est assez particulier à Kyiv. Il n'y
+Pour ce faire, on prend le métro. Le métro est assez particulier à Kyiv. Il n'y
 a que trois lignes, mais elles sont très longues. Les trains sont aussi plus
 gros, c'est presque plus proche du RER à Paris.
 
-Le photos ci-dessous ne sont pas toutes de cette après, ni toutes de la même lignes.
+Le photos ci-dessous ne sont pas toutes de cette après-midi, ni toutes de la même ligne.
 
 ![Un métro lors de son arrivée à quai.](images/kyiv/p2/metro/metro_arrivee.jpg)
 
@@ -16,7 +16,7 @@ Selon les stations, il est par endroit très profond (surtout en centre-ville),
 la station la plus profonde est la deuxième plus profonde au monde, avec 102
 mètres sous terre.
 
-![On n'accede aux stations profonde uniquement par escalator, il n'existe pas d'escaliers ni d’ascenseurs.](images/kyiv/p2/metro/metro_profond.jpg)
+![On accède aux stations profondes uniquement par escalator, il n'existe pas d'escaliers ni d’ascenseurs.](images/kyiv/p2/metro/metro_profond.jpg)
 
 ![Vu d'en bas la profondeur est marquante.](images/kyiv/p2/metro/escalator_d_en_bas.jpg)
 
@@ -24,7 +24,7 @@ mètres sous terre.
 
 ![On arrive sur le quai.](images/kyiv/p2/metro/en_bas_des_escalators.jpg)
 
-![Les quais sont souvent au milieu des rails et pas autours comme le plus souvent à Paris.](images/kyiv/p2/metro/quai.jpg)
+![Les quais sont souvent au milieu des rails et pas autour comme le plus souvent à Paris.](images/kyiv/p2/metro/quai.jpg)
 
 ![Certaines stations ont de très belles décorations.](images/kyiv/p2/metro/metro_carrelage.jpg)
 
@@ -36,7 +36,7 @@ mètres sous terre.
 
 # Hidropark
 
-Hidropark est sur des iles du Dnipro, il faut donc en traverser un bras. Le
+Hidropark est sur des îles du Dnipro, il faut donc en traverser un bras. Le
 métro qui traverse le Dnipro est un métro aérien, on peut donc admirer la
 traversée.
 
@@ -59,11 +59,11 @@ traversée.
 ## Le parc de musculation
 
 À Hidropark, il y a aussi une sorte de salle de musculation en plein air très
-étonnante. Il existe de l'équipement sportif en plein en France, mais il s'agit
-en général de barre de tractions, il n'y a jamais de poids à soulever. Le parc
-de musculation d'Hidropark à lui énormément de machines à soulever des poids, et
-des bancs pour le développé couché ou autre exercice. L'équipement à été
-construit par des volontaire avec du matériel industriel de récupération, à
+étonnante. Il existe de l'équipement sportif en plein air en France, mais il
+s'agit en général de barres de tractions, il n'y a jamais de poids à soulever.
+Le parc de musculation d'Hidropark a, lui, énormément de machines à soulever des
+poids, et des bancs pour le développé-couché ou autre exercice. L'équipement à
+été construit par des volontaires avec du matériel industriel de récupération, à
 partir de la fin des années 60. Vous pouvez en lire un peu plus
 [ici](https://apnews.com/general-news-683274437618435bb03b869b617d93c5), mais
 les informations ne sont pas faciles à trouver en anglais.
@@ -74,7 +74,7 @@ les informations ne sont pas faciles à trouver en anglais.
 
 ![Un banc de squat.](images/kyiv/p2/hidropark/squat.jpg)
 
-Il y a des machine parfois assez complexes.
+Il y a des machines parfois assez complexes.
 
 ![J'essaye une machine.](images/kyiv/p2/hidropark/emile_machine.mp4)
 
@@ -96,7 +96,7 @@ Il y a une corde à grimper.
 
 ![Vova ne fait pas tout à fait le poids face à son cousin.](images/kyiv/p2/hidropark/vova_bras_de_fer.jpg)
 
-![Arsène et son amis s'affrontent aussi.](images/kyiv/p2/hidropark/arsene_bras_de_fer.jpg)
+![Arsène et son ami s'affrontent aussi.](images/kyiv/p2/hidropark/arsene_bras_de_fer.jpg)
 
 ![Contre Coline c'est plus facile.](images/kyiv/p2/hidropark/emile_bras_de_fer.jpg)
 

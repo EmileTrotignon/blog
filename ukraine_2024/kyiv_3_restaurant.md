@@ -1,10 +1,10 @@
 # Tsarske Selo
 
-Après cette après midi de visites, Antonina nous retrouve pour manger avec ses
+Après cet après-midi de visites, Antonina nous retrouve pour manger avec ses
 cousins au restaurant. Comme ils n'ont pas pu venir à notre mariage en France,
 c'est un aussi une manière de le célébrer avec eux.
 
-Le restaurant que l'ont a choisi est Tsarske Selo, le village impérial. C'est un
+Le restaurant que l'on a choisi est Tsarske Selo, le "village royal". C'est un
 restaurant auquel on est allés avec Antonina en 2021 et 2023, dans un style très
 traditionnel Ukrainien, avec un décor campagnard.
 
@@ -24,4 +24,4 @@ traditionnel Ukrainien, avec un décor campagnard.
 
 ![Le borche, une soupe de betteraves, est servi dans un bol en pain. ](images/kyiv/p3/tsarske_selo/borsh_pain.jpg)
 
-![Comme on dit qu'on vient pour un mariage, on a le droit à toute une chanson par les serveurs. Ils nous font même danser, même si je n'ai pas la vidéo.](images/kyiv/p3/tsarske_selo/chanson.mp4)
+![Comme on dit qu'on vient pour un mariage, on a le droit à plusieurs chanson des musiciens du restaurant. Ils nous font même danser, même si je n'ai pas la vidéo.](images/kyiv/p3/tsarske_selo/chanson.mp4)

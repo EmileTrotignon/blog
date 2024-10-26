@@ -1,7 +1,7 @@
 # L'arche de la liberté du peuple Ukrainien
 
 En poursuivant après la maison de l'Ukraine, on arrive à l'arche de la liberté
-du peuple Ukrainien. Il s'agit d'une grande arche en alliage de Titane,
+du peuple Ukrainien. Il s'agit d'une grande arche en alliage de titane,
 construite par le pouvoir soviétique sous le nom de "L'arche de l'amitié entre
 les peuples", pour célébrer l'amitié des peuples russes et ukrainiens. Ce
 message est évidemment moins audible de nos jours, et ne l'a d'ailleurs jamais
@@ -45,7 +45,7 @@ et sales et donc pas très impressionnantes. La vue vaut tout de même la peine.
 ![Une plage pour se baigner dans le Dnipro.](images/kyiv/p1/arche/dnipro_plage.jpg)
 
 Après le pont, il y a un parc avec une fontaine et une statue de
-[Saint Volodymyr](https://fr.wikipedia.org/wiki/Vladimir_Ier) qui se converti
+[Saint Volodymyr](https://fr.wikipedia.org/wiki/Vladimir_Ier) qui se convertit
 au christianisme.
 
 ![Fontaine](images/kyiv/p1/arche/fontaine.jpg)

@@ -36,11 +36,11 @@ Un peu plus loin, il y a une salle de bibliothèque.
 
 Il y a aussi un certain nombre d'oeuvres d'art et tableaux notamment un
 autoportrait de Taras Chevtchenko qui est reproduit sur le billet de 100
-hryvnas.
+hryvnias.
 
 ![Autoportrait de Chevtchenko jeune.](images/kyiv/p4/musee_de_la_literature/shevchenko_jeune.jpg)
 
-![Billet de 100 hryvnas (2.23 euros).](images/kyiv/p4/musee_de_la_literature/hryvna_100.jpg)
+![Billet de 100 hryvnias (2.23 euros).](images/kyiv/p4/musee_de_la_literature/hryvna_100.jpg)
 
 ![Un autre portrait de Chevtchenko plus vieux.](images/kyiv/p4/musee_de_la_literature/shevchenko_vieux.jpg)
 

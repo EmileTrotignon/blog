@@ -5,12 +5,11 @@ de femme de 64 mètres de haut, sur un socle de 40 mètres. Elle a été constru
 à l'époque soviétique pour commémorer la Seconde Guerre Mondiale et s'appelait
 alors la statue de la mère patrie.
 
-En 2023, des travaux était en cours, et on ne pouvait pas s'approcher. Cette
+En 2023, des travaux étaient en cours, et on ne pouvait pas s'approcher. Cette
 année, j'y emmène Vova, Coline et Alice sans savoir si on pourra s'approcher, ou
-visiter le musée à son pied. Antonina reste se reposer.
+visiter le musée à son pied. Antonina reste se reposer à l'appartement.
 
-
-Pas loin du lieu se situe une exposition en plein avec des véhicules de la
+Pas loin de la statue se situe une exposition en plein air avec des véhicules de la
 guerre du Donbass, tous d'avant l'invasion à grande échelle.
 
 ![Un BMP, véhicule de combat d'infanterie utilisé par les russes comme les Ukrainiens](images/kyiv/p3/mere_patrie/bmp.jpg)
@@ -56,7 +55,7 @@ olympiques, et les conséquences de la guerre sur la participation de l'Ukraine.
 
 ![Les anneaux olympiques.](images/kyiv/p3/mere_patrie/jo/anneaux.jpg)
 
-Dans une petite salle se trouve une exposition des uniformes des prêtres de l'armée ukrainienne.
+Dans une petite salle se trouve une exposition des uniformes des chapelains de l'armée ukrainienne.
 
 ![L'uniforme des rabbins.](images/kyiv/p3/mere_patrie/rabbin.jpg)
 
@@ -75,7 +74,7 @@ sensationnelle, mais pas forcément de la manière la plus informative possible.
 ![Un autre drapeau, très abîmé.](images/kyiv/p3/mere_patrie/expo_ww2/drapeau_urss_abime.jpg)
 
 
-![Coline, étudiante en restauration textile, admire beaucoup les techniques innovantes de conservation des vêtements.](images/kyiv/p3/mere_patrie/expo_ww2/manteau_plafond.jpg)
+![Coline, étudiante en restauration textile, admire les techniques innovantes de conservation des vêtements.](images/kyiv/p3/mere_patrie/expo_ww2/manteau_plafond.jpg)
 
 ![C'est plus raisonnable.](images/kyiv/p3/mere_patrie/expo_ww2/veste_mannequin.jpg)
 
@@ -92,11 +91,11 @@ Guerre Mondiale](https://fr.wikipedia.org/wiki/Ordre_de_la_Gloire) Il est
 est interdit en Ukraine de le cadre des [lois de décommunisation](https://fr.wikipedia.org/wiki/D%C3%A9communisation_en_Ukraine),
 qui ne s'appliquent pas aux monuments dédiés à la Seconde Guerre Mondiale.
 
-![La salle du musée dédiée à la Shoah.](images/kyiv/p3/mere_patrie/expo_ww2/barbele.jpg)
+![La salle du musée dédiée à la Shoah. Cette salle suit la manière soviétique de traiter la Shoah, on parle de citoyens de l'URSS assassinés, sans spécifier qu'ils l'avaient été parce que Juifs.](images/kyiv/p3/mere_patrie/expo_ww2/barbele.jpg)
 
 L'exposition seconde guerre a une petite annexe au deuxième étage.
 
-![Une salle avec une table mise pour personne, probablement pour les morts.](images/kyiv/p3/mere_patrie/expo_ww2/repas.jpg)
+![Une salle avec une table mise pour personne, comme pour un repas de commémoration des morts de tradition orthodoxe.](images/kyiv/p3/mere_patrie/expo_ww2/repas.jpg)
 
 ![Des instruments de musique, probablement ceux de l'Armée Rouge.](images/kyiv/p3/mere_patrie/expo_ww2/musique.jpg)
 
@@ -106,7 +105,7 @@ L'exposition seconde guerre a une petite annexe au deuxième étage.
 
 Au deuxième étage, peu de choses sont exposées car le gros de la surface est
 occupé par l'exposition temporaire qui n'est pas encore ouverte. Il y a tout de
-même une exposition de drone russes abattus.
+même une exposition de drones russes abattus.
 
 
 ![Un drone Shahed. Fourni par l'Iran, c'est un drone très longue portée et bon marché qui transporte 50kg d'explosifs. C'est lui qui cause une bonne partie des alertes aériennes.](images/kyiv/p3/mere_patrie/drones/shahed.jpg)
@@ -121,20 +120,20 @@ avec la Russie et que l'armée Ukrainienne a attaqué
 [deux](https://en.wikipedia.org/wiki/2022_Crimean_Bridge_explosion)
 [fois](https://en.wikipedia.org/wiki/2023_Crimean_Bridge_explosion).
 
-Belgorod est un ville russe proche de la frontière avec l'Ukraine. Ses habitants
+Belgorod est une ville russe proche de la frontière avec l'Ukraine. Ses habitants
 souffrent donc de la guerre, et sont parfois [bombardés par leur propre armée de
 l'air](https://en.wikipedia.org/wiki/2023_Belgorod_accidental_bombing).
 
 ![Différents quadcoptères et un plus gros drone que je ne connais pas.](images/kyiv/p3/mere_patrie/drones/quadcopteres.jpg)
 
-![Un drone [Lancet](https://fr.wikipedia.org/wiki/Zala_Lancet). Il s'agit d'un drone ayant une portée entre 40 et 70 kilomètre, très utilisé par les russes pour frapper l'artillerie ukrainienne. Il s'écrase sur sa cible.](images/kyiv/p3/mere_patrie/drones/lancet.jpg)
+![Un drone [Lancet](https://fr.wikipedia.org/wiki/Zala_Lancet). Il s'agit d'un drone ayant une portée entre 40 et 70 kilomètres, très utilisé par les russes pour frapper l'artillerie ukrainienne. Il s'écrase sur sa cible.](images/kyiv/p3/mere_patrie/drones/lancet.jpg)
 
-![Un drone [Orlan-10](https://fr.wikipedia.org/wiki/Orlan-10). C'est un drone russe de reconnaissance, non armée. Il a été peint par des Ukrainiens après sa capture.](images/kyiv/p3/mere_patrie/drones/orlan.jpg)
+![Un drone [Orlan-10](https://fr.wikipedia.org/wiki/Orlan-10). C'est un drone russe de reconnaissance, non armé. Il a été peint par des Ukrainiens après sa capture.](images/kyiv/p3/mere_patrie/drones/orlan.jpg)
 
 ![Je ne sais pas de quel modèle de drone il s'agit. On dirait qu'il est armé et peut lâcher une bombe.](images/kyiv/p3/mere_patrie/drones/drone_inconnu.jpg)
 
 Dans la même pièce il y a aussi des photos des travaux de 2023, lorsque les
-armouries soviétiques on été retirées du bouclier de la statue pour y mettre un
+armoiries soviétiques on été retirées du bouclier de la statue pour y mettre un
 trident ukrainien.
 
 ![Le retrait du marteau et de la faucille.](images/kyiv/p3/mere_patrie/trizoube_travaux_2.jpg)
@@ -150,7 +149,7 @@ et très soviétique mosaïque.
 
 ![La mosaïque en entier.](images/kyiv/p3/mere_patrie/mosaique.jpg)
 
-Une fois cela fais, on veut aller prendre des photos depuis le pied du socle de
+Une fois cela fait, on veut aller prendre des photos depuis le pied du socle de
 la statue, mais on nous interdit de sortir par la porte depuis l’intérieur du
 socle qui est pourtant ouverte.
 
@@ -161,13 +160,13 @@ monter jusqu'au socle.
 
 ![La statue est immense !](images/kyiv/p3/mere_patrie/socle.jpg)
 
-![Le grand drapeau avec la laure. On voit aussi un vétéran amputé du pied.](images/kyiv/p3/mere_patrie/drapeau_socle.jpg)
+![Le grand drapeau avec la Laure des grottes. On voit aussi un vétéran amputé du pied.](images/kyiv/p3/mere_patrie/drapeau_socle.jpg)
 
-Depuis le bas du socle, on a une tres belle vue sur Kyiv.
+Depuis le bas du socle, on a une très belle vue sur Kyiv.
 
 ![Un pont sur le Dnipro](images/kyiv/p3/mere_patrie/dnipro.jpg)
 
-![Un zoom les immeuble. En haut une publicité pour les supermarchés Silpo.](images/kyiv/p3/mere_patrie/silpo.jpg)
+![Un zoom sur les immeubles. En haut une publicité pour les supermarchés Silpo.](images/kyiv/p3/mere_patrie/silpo.jpg)
 
 ![Des immeubles au bord du Dnipro.](images/kyiv/p3/mere_patrie/immeubles.jpg)
 
@@ -179,15 +178,17 @@ On prend aussi des photos de nous :
 
 ![Coline fait une drôle de tête car le soleil tape très fort.](images/kyiv/p3/mere_patrie/coline.jpg)
 
-![Je fais une tète normale car j'ai des lunettes de soleil.](images/kyiv/p3/mere_patrie/emile.jpg)
+![Je fais une tète un peu plus normale car j'ai des lunettes de soleil.](images/kyiv/p3/mere_patrie/emile.jpg)
 
-![Alice.](images/kyiv/p3/mere_patrie/alice.jpg)
+![Alice (pas de lunettes non plus).](images/kyiv/p3/mere_patrie/alice.jpg)
 
 ![Coline et Alice.](images/kyiv/p3/mere_patrie/coline_alice.jpg)
 
-En 2021, on avait pu monter sur les tanks devant la statue. Cette fois-ci il n'y a personne d'autre qui le fait, donc j'insiste pour que Vova demande la permission.
+En 2021, on avait pu monter sur les tanks devant la statue. Cette fois-ci il n'y
+a personne d'autre qui le fait, donc j'insiste pour que Vova demande la
+permission, que l'ont obtient.
 
-![Alic et Coline entre les tanks.](images/kyiv/p3/mere_patrie/coline_alice_tanks.jpg)
+![Alice et Coline entre les tanks.](images/kyiv/p3/mere_patrie/coline_alice_tanks.jpg)
 
 ![Tous dessus, Vova prend les photos.](images/kyiv/p3/mere_patrie/trois_sur_le_tank.jpg)
 
@@ -195,17 +196,17 @@ En 2021, on avait pu monter sur les tanks devant la statue. Cette fois-ci il n'y
 
 On se dirige ensuite vers la sortie en empruntant un tunnel dans lequel il y a des statues.
 
-![TODO : traduire + expliquer](images/kyiv/p3/mere_patrie/flamme.jpg)
+![En russe : "Gloire éternelle aux héros." Phrase destinée aux soldats soviétiques de la Seconde Guerre Mondiale, qui rappelle l'histoire du lieu.](images/kyiv/p3/mere_patrie/flamme.jpg)
 
 ![Alice dans le tunnel.](images/kyiv/p3/mere_patrie/tunel.jpg)
 
 ![Une ambulance de fortune avec les statues commémorant la Second Guerre Mondiale.](images/kyiv/p3/mere_patrie/tunnel_ambulance.jpg)
 
 
-Une fois sortis, on va voir une autre exposition en plein-air de materiel militaire.
+Une fois sortis, on va voir une autre exposition en plein air de materiel militaire.
 
 
-![En 2023 j'ai pu monter dans cet hélicoptère pour 20 hryvnas (50 cts), mais cette année il est trop tard et le guichet est fermé.](images/kyiv/p3/mere_patrie/helicoptere.jpg)
+![En 2023 j'avais pu monter dans cet hélicoptère pour 20 hryvnias (50 cts), mais cette année il est trop tard et le guichet est fermé.](images/kyiv/p3/mere_patrie/helicoptere.jpg)
 
 ![Un chat profite du calme sous l’hélicoptère.](images/kyiv/p3/mere_patrie/helicoptere_chat.jpg)
 
@@ -218,4 +219,6 @@ Une fois sortis, on va voir une autre exposition en plein-air de materiel milita
 
 ![Un tas de guêpes sur un véhicule militaire. Ces véhicules ne bougent jamais et sont pleins de petits trous et espaces. Il sont remplis de nids de guêpes. ](images/kyiv/p3/mere_patrie/guepes.jpg)
 
-Après toutes ces visites, on retrouve la famille d'Antonina pour un repas au res
+Après toutes ces visites, on retrouve la famille d'Antonina pour un repas au restaurants.
+
+[Page : ]
