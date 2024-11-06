@@ -3,12 +3,12 @@
 À Kyiv, notre Airbnb se situe sur Khreshatik. Khreshatik est la grande avenue de
 Kyiv, équivalente aux Champs-Élysées à Paris.
 
-En 1941, l'armée rouge en retraite piège une bonne partie des bâtiments, et
-déclenche l'explosion 5 jours après la prise de contrôle de Kyiv par les
+En 1941, l'Armée rouge en retraite piège une bonne partie des bâtiments, et
+déclenche l'explosion cinq jours après la prise de contrôle de Kyiv par les
 allemands. Khreshatik est ensuite reconstruite dans un style stalinien, avec
-beaucoup de décorations, et des choix pas toujours utilitaristes  : On sent que
+beaucoup de décorations, et des choix pas toujours utilitaristes  : on sent que
 le projet de modernisation de l'avenue avait vocation à apporter du prestige à
-la ville, plus qu'un grand nombre de logements, contrairement par exemple
+la ville, plus qu'un grand nombre de logements, contrairement par exemple à
 [khrouchtchevkas](https://fr.wikipedia.org/wiki/Khrouchtchevka).
 
 ![Un grand immeuble très typique.](images/kyiv/p1/khreshatik/immeuble_3.jpg)
@@ -42,7 +42,7 @@ comme un salon, cages d'escalier à n'en pas finir).
 
 ![La vue depuis notre appartement. On peut voir des morceaux de décorations tombés.](images/kyiv/p1/khreshatik/vue_appartement_khreshatik.jpg)
 
-On a aussi vue sur le Tsoume (ЦУМ), le "Magasin central universel" (Центральний
+On a aussi vue sur le Tsoume (ЦУМ), le « Magasin central universel » (Центральний
 універсальний магазин), un magasin de type "departement store" comme les
 Galeries Lafayette en France. C'est d'ailleurs le seul sur ce format en Ukraine.
 Il a été complètement rénové en 2017 après une très longue fermeture. C'est
@@ -60,10 +60,10 @@ departement store occidentaux.
 
 ![Un bâtiment du conseil municipal, une peu comme une mairie.](images/kyiv/p1/khreshatik/ministere.jpg)
 
-Dans une rue perpendiculaire, on mange a Puzata Khata, la "maison bedonnante".
+Dans une rue perpendiculaire, on mange à Puzata Khata, la « maison bedonnante ».
 C'est une chaîne de restaurants en self-service qui sert de la nourriture
-Ukrainienne bon marché. C'est un équivalent de Flunch en France, mais sans le
-coté ringard.
+ukrainienne bon marché. C'est un équivalent de Flunch en France, mais sans le
+côté ringard.
 
 ![Puzata Khata.](images/kyiv/p1/khreshatik/pekha_ext.jpg)
 
@@ -78,12 +78,12 @@ est reçu, ouvert, ou juste envoyé.
 
 # La guerre à Kyiv
 
-À Kyiv, la guerre est plus présente qu'à Lviv. Pendant les 3 nuits passées tout
+À Kyiv, la guerre est plus présente qu'à Lviv. Pendant les trois nuits passées tous
 les cinq à Kyiv, plusieurs alertes de bombardement aérien seront déclenchées
 chaque nuit.
 
 Les alertes sont les mêmes que celles du premier mercredi du mois en France,
-sauf que c'est pas un essai, et qu'on a aussi une application sur le téléphone
+sauf que ce n'est pas un essai, et qu'on a aussi une application sur le téléphone
 car les alertes ne sont pas audibles de partout.
 
 Une alerte ne signifie pas forcément un bombardement, les munitions utilisées
@@ -91,8 +91,8 @@ par les Russes ont une très grande portée, une alerte peut être déclenchée 
 Kyiv alors que les missiles visent Dnipro, car les missile peuvent frapper l'un
 ou l'autre sans manière de le savoir à l'avance.
 
-On a beaucoup de chance, car l'abri souterrain de notre immeuble était très
-bien. Tout les immeubles n'ont pas un abri, et il n'est pas forcement
+On a eu beaucoup de chance, car l'abri souterrain de notre immeuble était très
+bien. Tous les immeubles n'ont pas un abri, et quand il y en a un, il n'est pas forcement
 confortable.
 
 ![Alice et Coline pendant une alerte.](images/kyiv/p1/khreshatik/abri/bancs.jpg)
@@ -123,7 +123,7 @@ Vova est allé en voir près de chez son cousin.
 Au bout de l'avenue Khreshatik, il y a la place de l’indépendance, Maïdane.
 Cette place est extrêmement importante pour les Ukrainiens, car elle fut le lieu
 de la révolution de dignité, les manifestations qui ont chassé du pouvoir
-Yanoukovitche en 2014 et confirmé le maintien de la démocratie Ukrainienne
+Yanoukovitche en 2014 et confirmé le maintien de la démocratie ukrainienne
 ainsi que son indépendance totale de la Russie.
 
 ![Un côté de la place avec le monument de l'indépendance, la verrerie du centre commercial Globousse, l'hotel Ukraine en beige, l'académie nationale de musique en blanc et le parterre des Héros devant.](images/kyiv/p1/maidane/plan_large_2.jpg)
@@ -152,7 +152,7 @@ nombreux, on voit leur nombre grandir à chaque voyage.
 
 # Les passages souterrains
 
-Il y a aussi à Maïdane un centre commercial souterrain, "Globousse" avec plusieurs sorties et
+Il y a aussi à Maïdane un centre commercial souterrain, « Globousse » avec plusieurs sorties et
 passages. Les passages souterrains sont courants à Kyiv et permettent de se
 passer de passage piéton.
 
