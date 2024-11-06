@@ -2,7 +2,7 @@
 
 En août 2024, je retourne en Ukraine en guerre pour la deuxième fois. Cette fois
 nous voyageons en groupe, avec ma femme Antonina, mes deux soeurs Alice et
-Coline, et le frere d'Antonina, Vova.
+Coline, et le frère d'Antonina, Vova.
 
 Cet article raconte notre voyage, avec beaucoup de photos, prises grace à
 l'appareil photo que Coline a amené. La plupart des photos ont été prises par
@@ -18,8 +18,7 @@ n'ont pas de repos. Nous prenons un risque minime pour partager leur quotidien
 quelques jours, et garder un lien avec eux et l'Ukraine.
 
 Ce voyage est aussi assez particulier, car comme Antonina est enceinte, nous ne
-sommes pas sur de pouvoir revenir en Ukraine tout les deux avant très longtemps,
-car c'est un voyage très compliqué à faire avec un nouveau né.
+sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtemps&nbsp;: c'est un voyage très compliqué à faire avec un nouveau né.
 
 ![Moi, Émile](images/casting/emile.jpg)
 
