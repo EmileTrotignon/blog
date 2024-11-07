@@ -1,24 +1,24 @@
 # Materiya
 
-Entre Maïdane et l'arche des Nations, se situe la Maison de l'Ukraine. Il s'agit
+Entre Maïdane et l'Arche des nations, se situe la Maison de l'Ukraine. Il s'agit
 d'un centre d'exposition, anciennement le musée Lénine de Kyiv. C'est un
-bâtiment à plusieurs étage, avec un grand trou qui traverse les étages, ce qui
+bâtiment à plusieurs étages, avec un grand trou qui les traverse, ce qui
 permettait à l'énorme statue de Lénine de ne pas rayer le plafond. L'oncle
 d'Antonina nous a raconté que la statue de Lénine a été sortie en hélicoptère
 par le toit, mais je n'ai pas trouvé de photo de l’événement.
 
 ![La maison de l'Ukraine.](images/kyiv/p2/exposition_materiya/maison_ukraine_exterieur.jpg)
 
-![La maison de l'Ukraine lorsque c'était encore le musée Lénine.](images/kyiv/p2/exposition_materiya/lenin_museum.jpg)
+![La maison de l'Ukraine, lorsque c'était encore le musée Lénine.](images/kyiv/p2/exposition_materiya/lenin_museum.jpg)
 
-![La place de devant la maison de l'Ukraine, avec des drapeaux Ukrainiens mélangés à ceux de l'OTAN, bien décolorés par le soleil.](images/kyiv/p2/drapeaux.jpg)
+![La place de devant la maison de l'Ukraine, avec des drapeaux ukrainiens mélangés à ceux de l'OTAN, bien décolorés par le soleil.](images/kyiv/p2/drapeaux.jpg)
 
-Antonina a fait un stage à l'ONG [Ukraine Crisis Media Center](https://uacrisis.org/fr/),
-centre des média qui a ses bureaux ici, lors de son année de césure.
+Antonina a fait un stage à l'ONG [Ukraine Crisis Media Center.](https://uacrisis.org/fr/),
+centre des médias qui a ses bureaux ici, lors de son année de césure.
 
 ![L'entrée des bureaux d'un Media Center qui n'est pas celui où Antonina a fait son stage (l'entrée de ce dernier étant particulièrement discrète).](images/kyiv/p2/exposition_materiya/media_center.jpg)
 
-Lors de notre voyage, une exposition sur les textiles ukrainiens y a lieu.
+Lors de notre voyage, une exposition sur les textiles ukrainiens y a eu lieu.
 
 ![L'entrée de la maison de l'Ukraine.](images/kyiv/p2/exposition_materiya/escaliers_interieur.jpg)
 
@@ -31,12 +31,12 @@ Lors de notre voyage, une exposition sur les textiles ukrainiens y a lieu.
 ![Je prends des photos.](images/kyiv/p2/exposition_materiya/emile_photographe.jpg)
 
 Malheureusement, beaucoup de photos incluent un écriteau, mais très légèrement trop
-flou pour être lu, j'essaye d'inclure les information lorsque j'arrive à les
+flou pour être lu. J'essaye d'inclure les information lorsque j'arrive à les
 déchiffrer.
 
 L'exposition est super, il a beaucoup de très belles tapisseries.
 
-![Une presentation de la méthode de la tapisserie : un carton peint se situe derriere le métier a tisser et sert de modèle.](images/kyiv/p2/exposition_materiya/demonstration_tapisserie.jpg)
+![Une presentation de la méthode de la tapisserie : un carton peint se situe derriere le métier à tisser et sert de modèle.](images/kyiv/p2/exposition_materiya/demonstration_tapisserie.jpg)
 
 ## En bas
 
@@ -62,7 +62,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Un carton avec des oiseaux, peut-être prévu pour la fabrication d'une tapisserie.](images/kyiv/p2/exposition_materiya/motif_oiseaux.jpg)
 
-!["Passé ukrainien", Nina Sayenko, 1992, d'après une esquisse de son père Oleksandre Sayenko, 1921. "Laine tissée à la main, fourni par la famille Sayenko."](images/kyiv/p2/exposition_materiya/tapis_sabre_seaux.jpg)
+!["Passé ukrainien", Nina Sayenko, 1992, d'après une esquisse de son père Oleksandre Sayenko, 1921. "Laine tissée à la main, fourni par la famille Sayenko.".](images/kyiv/p2/exposition_materiya/tapis_sabre_seaux.jpg)
 
 ![Un tapis avec un cavalier, O. Sayenko, 1924.](images/kyiv/p2/exposition_materiya/tapis_cavalier.jpg)
 
@@ -96,7 +96,7 @@ Ukrainienne importante, et opposante dans les années 60.
 
 ![Manteaux par Lioudmila Semykina.](images/kyiv/p2/exposition_materiya/manteaux.jpg)
 
-![Ma tapisserie préferée, la photo ne lui rend pas vraiment justice. La texture des franges est rugueuse. "L'orée du bois natal", Oleh Machkevytch, 1980](images/kyiv/p2/exposition_materiya/cheval_blanc.jpg)
+![Ma tapisserie préferée. La photo ne lui rend pas vraiment justice. La texture des franges est rugueuse. "L'orée du bois natal", Oleh Machkevytch, 1980.](images/kyiv/p2/exposition_materiya/cheval_blanc.jpg)
 
 ![Un ruban brodé et une esquisse de mode par Lyoubov Pantchenko.](images/kyiv/p2/exposition_materiya/ruban_brode.jpg)
 
@@ -106,15 +106,15 @@ Ukrainienne importante, et opposante dans les années 60.
 
 ![Broderies par Bojena Tchaharova, 2010-2015. Les tapisseries un peu absurdes arborent des citations d'hommes politiques et d'oligarques, difficiles à comprendre pour quelqu'un qui ne suit pas l'actualité politique ukrainienne depuis 30 ans.](images/kyiv/p2/exposition_materiya/messages.jpg)
 
-!["Maria Schneider-Seniouk", Maroussia Tchouraï, 1972.](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
+!["Maria Schneider-Seniouk", Maroussia Tchouraï, 1972](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
 
 ![Stepane Hanja, 2021. Représente un musicien jouant de la bandura, instrument traditionnel ukrainien.](images/kyiv/p2/exposition_materiya/tapisserie_bandura.jpg)
 
 !["Elle filait finement, elle tissait musicalement", Oleksandra Prokopenko, 1967.](images/kyiv/p2/exposition_materiya/tapisserie_textile.jpg)
 
-![Des rameurs, 1974.](images/kyiv/p2/exposition_materiya/rameurs.jpg)
+![Des rameurs, 1974](images/kyiv/p2/exposition_materiya/rameurs.jpg)
 
-![Vue sur l’intérieur.](images/kyiv/p2/exposition_materiya/archi_escalator.jpg)
+![Vue sur l’intérieur](images/kyiv/p2/exposition_materiya/archi_escalator.jpg)
 
 ## En haut
 
@@ -128,14 +128,14 @@ On prend aussi beaucoup de photos du bâtiment lui-même.
 ![Alice va voir la grande tapisserie.](images/kyiv/p2/exposition_materiya/alice_zoom.jpg)
 
 
-![On a tout vu, on s'ennuie maintenant](images/kyiv/p2/exposition_materiya/trio_zoom.jpg)
+![On a tout vu, on s'ennuie maintenant.](images/kyiv/p2/exposition_materiya/trio_zoom.jpg)
 
 
 ![Le plafond vu de près.](images/kyiv/p2/exposition_materiya/plafond.jpg)
 
 ![Avec l'objectif grand angle.](images/kyiv/p2/exposition_materiya/grand_angle_plafond.jpg)
 
-![On voit le rez-de-chaussée](images/kyiv/p2/exposition_materiya/trou_grand_angle.jpg)
+![On voit le rez-de-chaussée.](images/kyiv/p2/exposition_materiya/trou_grand_angle.jpg)
 
 ![On redescend.](images/kyiv/p2/exposition_materiya/coline_escaliers.jpg)
 
