@@ -53,12 +53,18 @@ Kyiv, qui est plus exotique pour un français.
 
 ![Un autre clocher](images/lviv/clocher.jpg)
 
-Le centre de Lviv est tres piéton et vivant, il y a beaucoup de boutiques des
-restaurants et de l'activité.
+Le centre de Lviv est tres piéton et vivant, il y a beaucoup de boutiques, des
+restaurants et de l'activité. C'est même franchement un endroit touristique.
 
 ![Les rails du tram](images/lviv/rails_eglise.jpg)
 
 ![Il y même des mascottes qui font payer des photos.](images/lviv/mascottes.jpg)
+
+![L'oie est le symbole de la Galicie, la région de Lviv, ici à l'entrée d'un magasin de souvenirs.](images/lviv/oie_militaire.jpg)
+
+![L'intérieur du grand magasin de la marque [Aviation de la Galicie](https://www.aviatsiyahalychyny.com/en/about-us/)](images/lviv/aviatsiyahalychyny.jpg)
+
+![Une Lada recouverte de tapis qui sert de publicité pour un café.](images/lviv/voiture_tapis.jpg)
 
 ![Le pouvoir est quelque chose de fragile, et Alice a du mal à se tenir en équilibre sous la couronne.](images/lviv/alice_couronne.jpg)
 
@@ -66,13 +72,58 @@ restaurants et de l'activité.
 
 ![Vova boit du fromage avec une paille.](images/lviv/fromage_a_la_paille.jpg)
 
-Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très bons chocolats chaud.
+Un certain nombre de restaurants ont été conçus pour être des activités
+touristiques. Le contraste en frappant avec Paris ou un restaurant touristique
+est en general un parasite qui profite de l'attractivité d'un monument ou lieu
+pour fournir un très mauvais service (une exception qui me vient en tête est le
+Bouillon Chartier).
+
+On peut mentionner Rebernia, un immense restaurant dans le sous-sol du bâtiment
+médiéval de l'arsenal qui sert des travers de porc au barbecue.
+
+![Le grill rotatif de Rebernia.](images/lviv/rebernia_grill.jpg)
+
+Le restaurant fourni de grand bavoirs humoristiques, et pas de couverts (ils
+sont dessinés sur la nappe).
+
+![Alice dans son bavoir.](images/lviv/rebernia_alice.jpg)
+
+![On a trop faim, on mange tout avant de prendre une photo. ](images/lviv/rebernia_fini.jpg)
+
+On va aussi dans un bar thème chimie :
+
+![Le bar](images/lviv/bar_alchimiste/bar.jpg)
+
+![Notre commande, des éprouvettes avec chacune un cocktail différent, à partager.](images/lviv/bar_alchimiste/boisson.jpg)
+
+À la sortie du bar, il y a un magasin de souvenirs avec des plein de choses
+étranges, notamment des animaux (pas à vendre).
+
+![Un serpent.](images/lviv/bar_alchimiste/serpent.jpg)
+
+![Un serpent mais mort.](images/lviv/bar_alchimiste/serpent_mort.jpg)
+
+![Une mygale.](images/lviv/bar_alchimiste/mygale.jpg)
+
+On va aussi à la boutique Piana Vichnia, qui vend de la liqueur de cerise, en
+bouteille ou à emporter dans un gobelet.
+
+![Piana Vichnia](images/lviv/piana_vichnia.jpg)
+
+![Antonina est enceinte, elle ne peut pas boire de liqueur, mais il y a aussi des sucettes.](images/lviv/piana_vichnia_sucette.jpg)
+
+Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très bons
+chocolats chaud.
 
 ![Qui est la plus belle ?](images/lviv/coline_et_antonina.jpg)
 
 ![La vue depuis le café.](images/lviv/toits.jpg)
 
 ![Un tram très typique et mignon, défiguré par Pepsi.](images/lviv/tram_pepsi.jpg)
+
+![Puis par Kitkat.](images/lviv/tram_kitkat.jpg)
+
+![Puis par personne, il est normal !](images/lviv/tram_normal.jpg)
 
 ![Une rue passante dans le centre de Lviv](images/lviv/rue_passante.jpg)
 

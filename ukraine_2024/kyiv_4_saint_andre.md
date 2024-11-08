@@ -50,6 +50,8 @@ Ensuite, on prend la descente Saint-André, une rue très en pente sur laquelle 
 espérait trouver un grand nombre de marchants de souvenirs. Malheureusement, il
 n'y a quasiment personne ce jour-ci, peut-être à cause de la chaleur.
 
+![La descente Saint-André.](images/kyiv/p4/saint_andre/descente_saint_andre.jpg)
+
 ![Vova descent.](images/kyiv/p4/saint_andre/vova.jpg)
 
 Cette rue est aussi le lieu de cette [vidéo
