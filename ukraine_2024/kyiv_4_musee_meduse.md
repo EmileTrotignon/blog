@@ -1,6 +1,6 @@
 # Le musée de la méduse
 
-Après une visite de Podil sous la canicule, on cherche une visite en intérieur.
+Après s'être baladé dans Podil sous la canicule, on cherche une visite en intérieur.
 Depuis mon premier voyage en Ukraine, j'étais intrigué par un bâtiment nommé "musée de la méduse" sur Maïdane, la très importante place de
 l'indépendance.
 
