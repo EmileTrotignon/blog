@@ -84,7 +84,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![_Notre Âme ne meurt pas, notre Liberté ne meurt pas_, tapisserie par Stepane Hanja, 2018.](images/kyiv/p2/exposition_materiya/tapis_cavaliers.jpg)
 
-![Une tapisserie représentant Cassandre : _Réveille toi, Troie, la mort vient sur toi_.](images/kyiv/p2/exposition_materiya/cassandre.jpg)
+![Une tapisserie représentant Cassandre : "Réveille toi, Troie, la mort vient sur toi".](images/kyiv/p2/exposition_materiya/cassandre.jpg)
 
 Il y a une pièce avec des costumes réalisée par [Lioudmila
 Semykina](https://fr.wikipedia.org/wiki/Lioudmila_Semykina), une artiste

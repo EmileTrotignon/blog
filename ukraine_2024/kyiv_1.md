@@ -6,7 +6,7 @@ Kyiv, équivalente aux Champs-Élysées à Paris.
 En 1941, l'Armée Rouge en retraite piège une bonne partie des bâtiments, et
 déclenche l'explosion cinq jours après la prise de contrôle de Kyiv par les
 Allemands. Khreshatik est ensuite reconstruite dans un style stalinien, avec
-beaucoup de décorations, et des choix pas toujours utilitaristes&nbsp;: on sent que
+beaucoup de décorations, et des choix pas toujours utilitaristes : on sent que
 le projet de modernisation de l'avenue avait vocation à apporter du prestige à
 la ville, plus qu'un grand nombre de logements, contrairement par exemple à
 [khrouchtchevkas](https://fr.wikipedia.org/wiki/Khrouchtchevka).
@@ -46,7 +46,7 @@ On a aussi vue sur le Tsoume (ЦУМ), le « Magasin central universel » (Це�
 універсальний магазин), un magasin de type "departement store" comme les
 Galeries Lafayette en France. C'est d'ailleurs le seul sur ce format en Ukraine.
 Il a été complètement rénové en 2017 après une très longue fermeture. C'est
-aujourd'hui un lieu de shopping de luxe&nbsp;; ce n'était pas le cas sous l'URSS, où
+aujourd'hui un lieu de shopping de luxe ; ce n'était pas le cas sous l'URSS, où
 c'était un magasin plutôt classique. Une évolution assez similaire à celle des
 departement store occidentaux.
 
@@ -79,7 +79,7 @@ est reçu, ouvert, ou juste envoyé.
 # La guerre à Kyiv
 
 À Kyiv, la guerre est plus présente qu'à Lviv. Pendant les trois nuits passées tous
-les cinq à Kyiv, plusieurs alertes de bombardement aérien ont été déclenchées.
+les cinq à Kyiv, plusieurs alertes de bombardement aérien ont eu lieu.
 
 Les alertes sont les mêmes que celles du premier mercredi du mois en France,
 sauf que ce n'est pas un essai. Il y a aussi une application sur le téléphone
@@ -104,7 +104,7 @@ désagréables concernant la vie en Ukraine pendant la guerre, qui affecte
 grandement le sommeil. Il n'est pas envisageable pour beaucoup
 de gens de descendre systématiquement dans un abri car le sommeil se retrouve
 encore plus perturbé. Il n'est pas non plus forcément possible de juste les
-ignorer et de se rendormir.
+ignorer et de se rendormir, même lorsque l'ont est "habitué".
 
 ![La machine qui fait plein de bruit dans l'abri.](images/kyiv/p1/khreshatik/abri/machine.jpg)
 
@@ -125,7 +125,7 @@ de la révolution de dignité, les manifestations qui ont chassé du pouvoir
 Yanoukovitche en 2014 et confirmé le maintien de la démocratie ukrainienne
 ainsi que son indépendance totale de la Russie.
 
-![Un côté de la place avec le monument de l'indépendance, la verrerie du centre commercial Globousse, l'hôtel Ukraine en beige, l'Académie nationale de musique en blanc et le Parterre des Héros devant.](images/kyiv/p1/maidane/plan_large_2.jpg)
+![Un côté de la place avec le monument de l'indépendance, la verrerie du centre commercial Globousse, l'hôtel Ukraine en beige, l'Académie Nationale de Musique en blanc et le parterre des Héros devant.](images/kyiv/p1/maidane/plan_large_2.jpg)
 
 ![L'autre coté de la place avec des immeubles d'habitation.](images/kyiv/p1/maidane/plan_large.jpg)
 
@@ -161,7 +161,7 @@ passer de passage piéton.
 
 ![Dans un passage souterrain sous Maïdane.](images/kyiv/p1/maidane/passage_souterrain.jpg)
 
-![Attention aux mauvaises rencontres&nbsp;!](images/kyiv/p1/emile_souterrain.jpg)
+![Attention aux mauvaises rencontres !](images/kyiv/p1/emile_souterrain.jpg)
 
 ![Je suis un maître de la photo.](images/kyiv/p1/souterrain_exposition.jpg)
 

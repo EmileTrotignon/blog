@@ -4,21 +4,24 @@ Aujourd'hui, Vova, Alice et Coline prennent le train de nuit pour Lviv pour
 rentrer en Pologne. Vova rentre parce que ses cours vont commencer, et Alice et
 Coline vont visiter la Pologne. Comme on n'est plus que deux, on rend notre
 grand appartement et on prend une chambre à l'hôtel Ukraine, sur Maïdane. Comme
-les trains de nuit partent le soir, on monte tous dans la chambre pour stocker les
-valises pendant la journée.
+les trains de nuit partent le soir, on monte tous dans la chambre pour stocker
+les valises pendant la journée.
 
 ![L'hôtel Ukraine](images/kyiv/p5/hotel_ukraine/hotel_ukraine.jpg)
 
-L'hôtel Ukraine est le grand hôtel soviétique de Kyiv, construit dans les années&nbsp;50. Il s'appelle alors hôtel Moscou, avant d’être renommé en 2001 pour les 10&nbsp;ans de l'indépendance. En 2014, lors de la révolution de la dignité son lobby
-sert d’hôpital de fortune, et certains pensent que les snipers qui ont tiré sur la foule se
-trouvaient sur son toit, sans qu'on en ai retrouvé la moindre preuve.
+L'hôtel Ukraine est le grand hôtel soviétique de Kyiv, construit dans les
+années&nbsp;50. Il s'appelle alors hôtel Moscou, avant d’être renommé en 2001
+pour les 10&nbsp;ans de l'indépendance. En 2014, lors de la révolution de la
+dignité son lobby sert d’hôpital de fortune, et certains pensent que les snipers
+qui ont tiré sur la foule se trouvaient sur son toit, sans qu'on en ai retrouvé
+la moindre preuve.
 
-On avait vraiment envie d'y allé après avoir lu un [article dans le
+On avait vraiment envie d'y aller après avoir lu un [article dans le
 Monde](https://www.lemonde.fr/m-le-mag/article/2024/05/24/l-hotel-ukraine-de-kiev-a-vendre-pour-financer-l-effort-de-guerre_6235125_4500055.html)
 qui raconte son histoire, et qui explique qu'il rencontre de grandes difficultés
 financières et risque d’être vendu.
 
-On ressent le caractère soviétique vintage de l'hôtel.
+On ressent vraiment le caractère soviétique vintage de l'hôtel.
 
 ![l’ascenseur a de gros boutons.](images/kyiv/p5/hotel_ukraine/boutons.jpg)
 
@@ -28,7 +31,7 @@ On ressent le caractère soviétique vintage de l'hôtel.
 
 ![Le hall présent à chaques étages. Sous l'URSS, le bureau servait à un réceptionniste chargé de demander à chacun la raison de ses allées et venues.](images/kyiv/p5/hotel_ukraine/couloir.jpg)
 
-On a un lit&nbsp;:
+On a un lit :
 
 ![(J'ai sommeil.)](images/kyiv/p5/hotel_ukraine/dodo.jpg)
 
@@ -77,6 +80,7 @@ Puis la nuit.
 ![Le pont Podilskyi et le Dnipro.](images/kyiv/p5/hotel_ukraine/dnipro_nuit.jpg)
 
 Certaines de ces photos sont prise dans les jours suivants le départ de mes
-soeurs et de mon beau frère, je les groupe ici par thème.
+soeurs et de mon beau frère, je les groupe ici par thème et pas forcément
+chronologiquement.
 
 ![On pose les valises et on repart.](images/kyiv/p5/hotel_ukraine/valise.jpg)

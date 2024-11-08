@@ -41,7 +41,8 @@ marque, mais cette fois on achètera rien.
 
 ![Pas cette fois !](images/kyiv/p4/podil/coline_chemise.jpg)
 
-On marche ensuite le long du Dnipro, qu'on ne peut pas voir à cause de l'immense rocade, mais qui est visible sur les photos depuis Saint-André.
+On marche ensuite le long du Dnipro, qu'on ne peut pas voir à cause de l'immense
+rocade, mais qui est visible sur les photos depuis Saint-André.
 
 ![Un silo au bord du Dnipro.](images/kyiv/p4/podil/silo.jpg)
 

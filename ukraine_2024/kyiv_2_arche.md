@@ -9,12 +9,14 @@ réellement été lorsque l'on connaît les nombreux crimes commis par le pouvoi
 Moscovite de l'URSS à l'encontre du peuple Ukrainien
 ([génocide](https://fr.wikipedia.org/wiki/Holodomor),
 [russification](https://fr.wikipedia.org/wiki/Russification_de_l%27Ukraine)).
-Certains surnomment cette Arche "le Joug". D'ailleurs, en 2018, avant qu'elle soit renommée, une fissure a été peinte sur l'Arche par des activistes des droits de
-l'homme pour protester contre l'agression russe de l'Ukraine.
+Certains surnomment cette Arche "le Joug". D'ailleurs, en 2018, avant qu'elle
+soit renommée, une fissure a été peinte sur l'Arche par des activistes des
+droits de l'homme pour protester contre l'agression russe de l'Ukraine.
 
-L'Arche est donc renommée en 2022, et les parties les plus visiblement pro-russes
-démantelées : la statue d'un ouvrier Russe et d'un Ukrainien, ainsi qu'une stèle
-commémorant le [traité de Pereïaslav](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Pere%C3%AFaslav_(1654))
+L'Arche est donc renommée en 2022, et les parties les plus visiblement
+pro-russes démantelées : la statue d'un ouvrier Russe et d'un Ukrainien, ainsi
+qu'une stèle commémorant le [traité de
+Pereïaslav](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Pere%C3%AFaslav_(1654))
 qui rattache l'Ukraine à l'Empire Russe.
 
 ![Les escaliers qui mènent à l'Arche.](images/kyiv/p1/arche/escaliers.jpg)
@@ -23,7 +25,9 @@ qui rattache l'Ukraine à l'Empire Russe.
 
 ![Un gros plan de l'Arche.](images/kyiv/p1/arche/arche_gros_plan.jpg)
 
-À gauche de l'Arche il y a un pont piéton, qui a [manqué d’être détruit par un missile russe en 2022](https://www.youtube.com/watch?v=AyUqrFEsU3k), et duquel on a un très beau point de vue sur Kyiv.
+À gauche de l'Arche il y a un pont piéton, qui a [manqué d’être détruit par un
+missile russe en 2022](https://www.youtube.com/watch?v=AyUqrFEsU3k), et duquel
+on a un très beau point de vue sur Kyiv.
 
 ![Photo de l'Arche depuis le pont.](images/kyiv/p1/arche/arche_pont_de_verre.jpg)
 

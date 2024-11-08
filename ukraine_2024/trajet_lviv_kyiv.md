@@ -22,7 +22,7 @@ dort dans un coupé avec trois inconnues.
 
 ![Antonina a les pieds très propres.](images/trajet_lviv_kyiv/coupe_orteils.jpg)
 
-Le matin, on se réveille très tôt&nbsp;: le train arrive, et il faut s'habiller
+Le matin, on se réveille très tôt : le train arrive, et il faut s'habiller
 et ranger le coupé.
 
 On se lève avec un superbe levé de soleil, c'est le moment de prendre des

@@ -1,12 +1,13 @@
 # Le musée de la méduse
 
-Après s'être baladé dans Podil sous la canicule, on cherche une visite en intérieur.
-Depuis mon premier voyage en Ukraine, j'étais intrigué par un bâtiment nommé "musée de la méduse" sur Maïdane, la très importante place de
+Après s'être baladé dans Podil sous la canicule, on cherche une visite en
+intérieur. Depuis mon premier voyage en Ukraine, j'étais intrigué par un
+bâtiment nommé "musée de la méduse" sur Maïdane, la très importante place de
 l'indépendance.
 
 ![L'entrée du musée de la méduse.](images/kyiv/p4/musee_de_la_meduse/musei_meduze.jpg)
 
-On décide donc d'y entrer&nbsp;; il s'agit effectivement d'un musée de la méduse.
+On décide donc d'y entrer ; il s'agit effectivement d'un musée de la méduse.
 Il y a des aquariums avec plein de méduses différentes éclairées par de la
 lumière colorée.
 

@@ -3,14 +3,15 @@
 À Kyiv se situe la statue de la mère Ukraine. Il s'agit d'une gigantesque statue
 de femme de 64 mètres de haut, sur un socle de 40 mètres. Elle a été construite
 à l'époque soviétique pour commémorer la Seconde Guerre Mondiale et s'appelait
-alors la statue de la mère Patrie.
+alors la statue de la Mère Patrie.
 
-En 2023, des travaux étaient en cours, et on ne pouvait pas la voir de près. Cette
-année, j'y emmène Vova, Coline et Alice sans savoir si on pourra s'approcher, ou
-visiter le musée à son pied. Antonina reste se reposer à l'appartement.
+En 2023, des travaux étaient en cours, et on ne pouvait pas la voir de près.
+Cette année, j'y emmène Vova, Coline et Alice sans savoir si on pourra
+s'approcher, ou visiter le musée à son pied. Antonina reste se reposer à
+l'appartement.
 
-Pas loin de la statue se situe une exposition en plein air avec des véhicules de la
-guerre du Donbass, tous d'avant l'invasion à grande échelle.
+Pas loin de la statue se situe une exposition en plein air avec des véhicules de
+la guerre du Donbass, tous d'avant l'invasion à grande échelle.
 
 ![Un BMP, véhicule de combat d'infanterie utilisé par les Russes comme les Ukrainiens.](images/kyiv/p3/mere_patrie/bmp.jpg)
 ![Un cannon anti-aérien.](images/kyiv/p3/mere_patrie/flak.jpg)
@@ -28,7 +29,8 @@ Cette fois-ci, on peut s'approcher plus de la statue !
 
 Sous la statue se situe un grand musée. Je l'avais visité avec Antonina en 2021 :
 il contenait une exposition très kitsch sur la Seconde Guerre Mondiale, et une
-sur la guerre dans le Donbass. En 2023, on n'avait pas pu y retourner, mais cette fois le musée est ouvert.
+sur la guerre dans le Donbass. En 2023, on n'avait pas pu y retourner, mais
+cette fois le musée est ouvert.
 
 ![Devant l'entrée du musée](images/kyiv/p3/mere_patrie/entree_musee.jpg)
 
@@ -88,7 +90,8 @@ Russe](https://fr.wikipedia.org/wiki/Ordre_imp%C3%A9rial_et_militaire_de_Saint-G
 présent dans plusieurs décorations militaires russes, notamment [pour la Seconde
 Guerre Mondiale](https://fr.wikipedia.org/wiki/Ordre_de_la_Gloire) Il est
  aujourd'hui très utilisé dans le cadre du culte de la victoire en Russie, et il
-est interdit en Ukraine de le cadre des [lois de décommunisation](https://fr.wikipedia.org/wiki/D%C3%A9communisation_en_Ukraine),
+est interdit en Ukraine de le cadre des [lois de
+décommunisation](https://fr.wikipedia.org/wiki/D%C3%A9communisation_en_Ukraine),
 qui ne s'appliquent pas aux monuments dédiés à la Seconde Guerre Mondiale.
 
 ![La salle du musée dédiée à la Shoah. Cette salle suit la manière soviétique de traiter la Shoah : on parle de citoyens de l'URSS assassinés, sans spécifier qu'ils l'avaient été parce que Juifs.](images/kyiv/p3/mere_patrie/expo_ww2/barbele.jpg)
@@ -184,8 +187,8 @@ On prend aussi des photos de nous :
 
 ![Coline et Alice.](images/kyiv/p3/mere_patrie/coline_alice.jpg)
 
-En 2021, on avait pu monter sur les tanks devant la statue. Comme il n'y
-a personne d'autre qui le fait, j'insiste pour que Vova demande la
+En 2021, on avait pu monter sur les tanks devant la statue. Comme cette fois-ci
+il n'y a personne d'autre qui le fait, j'insiste pour que Vova demande la
 permission, que l'ont obtient.
 
 ![Alice et Coline entre les tanks.](images/kyiv/p3/mere_patrie/coline_alice_tanks.jpg)
@@ -202,9 +205,7 @@ On se dirige ensuite vers la sortie en empruntant un tunnel dans lequel il y a d
 
 ![Une ambulance de fortune avec les statues commémorant la Second Guerre Mondiale.](images/kyiv/p3/mere_patrie/tunnel_ambulance.jpg)
 
-
 Une fois sortis, on va voir une autre exposition en plein air de materiel militaire.
-
 
 ![En 2023 j'avais pu monter dans cet hélicoptère pour 20 hryvnias (50 cts d'euro), mais cette année on arrive trop tard et le guichet est fermé.](images/kyiv/p3/mere_patrie/helicoptere.jpg)
 
@@ -215,7 +216,6 @@ Une fois sortis, on va voir une autre exposition en plein air de materiel milita
 ![Un missile russe abattu avec écris PTN-PNKh, abbreviation de "Poutine va te faire foutre".](images/kyiv/p3/mere_patrie/ptnpnkh.jpg)
 
 ![Un cannon d'artillerie sur chenilles.](images/kyiv/p3/mere_patrie/howtizer.jpg)
-
 
 ![Un tas de guêpes sur un véhicule militaire. Ces véhicules ne bougent jamais et sont pleins de petits trous et espaces. Il sont remplis de nids de guêpes.](images/kyiv/p3/mere_patrie/guepes.jpg)
 

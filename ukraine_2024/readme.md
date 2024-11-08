@@ -18,7 +18,8 @@ n'ont pas de repos. Nous prenons un risque minime pour partager leur quotidien
 quelques jours, et garder un lien avec eux et l'Ukraine.
 
 Ce voyage est aussi assez particulier, car comme Antonina est enceinte, nous ne
-sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtemps&nbsp;: c'est un voyage très compliqué à faire avec un nouveau né.
+sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtemps
+: c'est un voyage très compliqué à faire avec un nouveau né.
 
 ![Moi, Émile](images/casting/emile.jpg)
 

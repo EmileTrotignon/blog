@@ -53,15 +53,17 @@ autoportrait de Taras Chevtchenko qui est reproduit sur le billet de 100&nbsp;hr
 
 ![Un exemplaire de _Maroussia_ (en français)](images/kyiv/p4/musee_de_la_literature/maroussia.jpg)
 
-_Maroussia_ est un livre de littérature jeunesse écrit par l'écrivaine ukrainienne Maria Vilinska, sous le
-pseudonyme masculin Marko Vovtchok. Il est ensuite traduit et adapté par
-l'éditeur français de Jules Verne [Pierre-Jules
-Hetzel](https://fr.wikipedia.org/wiki/Pierre-Jules_Hetzel). Celui-ci le publie sous son
-pseudonyme d'écrivain, P.J Stahl, avec tout de même la mention "d'après une légende de Markovovtchok". Il s'agit d'un roman patriotique, qui raconte l'histoire
-d'une jeune ukrainienne, Maroussia, qui habite dans une Ukraine qui essaye de se
-libérer de la domination polonaise sans tomber dans le piège russe.
+_Maroussia_ est un livre de littérature jeunesse écrit par l'écrivaine
+ukrainienne Maria Vilinska, sous le pseudonyme masculin Marko Vovtchok. Il est
+ensuite traduit et adapté par l'éditeur français de Jules Verne [Pierre-Jules
+Hetzel](https://fr.wikipedia.org/wiki/Pierre-Jules_Hetzel). Celui-ci le publie
+sous son pseudonyme d'écrivain, P.J Stahl, avec tout de même la mention "d'après
+une légende de Markovovtchok". Il s'agit d'un roman patriotique, qui raconte
+l'histoire d'une jeune ukrainienne, Maroussia, qui habite dans une Ukraine qui
+essaye de se libérer de la domination polonaise sans tomber dans le piège russe.
 
-Il rencontre un très grand succès en France, aussi bien commercial que critique. Il reçoit les éloges de Jules Verne et Flaubert, ainsi qu'un prix de l'Académie
+Il rencontre un très grand succès en France, aussi bien commercial que critique.
+Il reçoit les éloges de Jules Verne et Flaubert, ainsi qu'un prix de l'Académie
 française.
 
 La publication de _Maroussia_ sous le nom de P.J Stahl et non Marko Vovtchok
