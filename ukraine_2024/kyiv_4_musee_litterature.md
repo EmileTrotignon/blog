@@ -70,4 +70,4 @@ Wikipedia](https://fr.wikipedia.org/wiki/Maroussia)
 
 Après toutes ces visites, on rentre dormir à l'appartement.
 
-[Page suivante : l'hôtel ukrainien](kyiv_5_hotel_ukraine.md)
+[Page suivante : l'hôtel Ukraine](kyiv_5_hotel_ukraine.md)
