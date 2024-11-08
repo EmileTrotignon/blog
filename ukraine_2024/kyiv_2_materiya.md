@@ -46,7 +46,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Antonina dans la lumière.](images/kyiv/p2/exposition_materiya/antonina_lumiere.jpg)
 
-![Un homme semble jouer de deux flûtes à la fois. Il s'agit peut être de gros joints ou de [trembitas](https://fr.wikipedia.org/wiki/Trembita_(instrument)).](images/kyiv/p2/exposition_materiya/tapis_deux_trembita.jpg)
+![Un homme semble jouer de deux flûtes à la fois. Il s'agit peut-être de gros joints ou de [trembitas](https://fr.wikipedia.org/wiki/Trembita_(instrument)).](images/kyiv/p2/exposition_materiya/tapis_deux_trembita.jpg)
 
 ![Un couple au milieu des blés, 1970.](images/kyiv/p2/exposition_materiya/tapis_couple_ble.jpg)
 
@@ -62,7 +62,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Un carton avec des oiseaux, peut-être prévu pour la fabrication d'une tapisserie.](images/kyiv/p2/exposition_materiya/motif_oiseaux.jpg)
 
-!["Passé ukrainien", Nina Sayenko, 1992, d'après une esquisse de son père Oleksandre Sayenko, 1921. "Laine tissée à la main, fourni par la famille Sayenko.".](images/kyiv/p2/exposition_materiya/tapis_sabre_seaux.jpg)
+![_Passé ukrainien_, Nina Sayenko, 1992, d'après une esquisse de son père Oleksandre Sayenko, 1921. "Laine tissée à la main, fourni par la famille Sayenko.".](images/kyiv/p2/exposition_materiya/tapis_sabre_seaux.jpg)
 
 ![Un tapis avec un cavalier, O. Sayenko, 1924.](images/kyiv/p2/exposition_materiya/tapis_cavalier.jpg)
 
@@ -82,9 +82,9 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Un tapis avec des astronautes à cheval.](images/kyiv/p2/exposition_materiya/tapis_astronaute.jpg)
 
-!["Notre Âme ne meurt pas, notre Liberté ne meurt pas", tapisserie par Stepane Hanja, 2018.](images/kyiv/p2/exposition_materiya/tapis_cavaliers.jpg)
+![_Notre Âme ne meurt pas, notre Liberté ne meurt pas_, tapisserie par Stepane Hanja, 2018.](images/kyiv/p2/exposition_materiya/tapis_cavaliers.jpg)
 
-![Une tapisserie représentant Cassandre : "Réveille toi, Troie, la mort vient sur toi".](images/kyiv/p2/exposition_materiya/cassandre.jpg)
+![Une tapisserie représentant Cassandre : _Réveille toi, Troie, la mort vient sur toi_.](images/kyiv/p2/exposition_materiya/cassandre.jpg)
 
 Il y a une pièce avec des costumes réalisée par [Lioudmila
 Semykina](https://fr.wikipedia.org/wiki/Lioudmila_Semykina), une artiste
@@ -96,7 +96,7 @@ Ukrainienne importante, et opposante dans les années 60.
 
 ![Manteaux par Lioudmila Semykina.](images/kyiv/p2/exposition_materiya/manteaux.jpg)
 
-![Ma tapisserie préferée. La photo ne lui rend pas vraiment justice. La texture des franges est rugueuse. "L'orée du bois natal", Oleh Machkevytch, 1980.](images/kyiv/p2/exposition_materiya/cheval_blanc.jpg)
+![Ma tapisserie préferée. La photo ne lui rend pas vraiment justice. La texture des franges est rugueuse. _L'orée du bois natal_, Oleh Machkevytch, 1980.](images/kyiv/p2/exposition_materiya/cheval_blanc.jpg)
 
 ![Un ruban brodé et une esquisse de mode par Lyoubov Pantchenko.](images/kyiv/p2/exposition_materiya/ruban_brode.jpg)
 
@@ -106,15 +106,15 @@ Ukrainienne importante, et opposante dans les années 60.
 
 ![Broderies par Bojena Tchaharova, 2010-2015. Les tapisseries un peu absurdes arborent des citations d'hommes politiques et d'oligarques, difficiles à comprendre pour quelqu'un qui ne suit pas l'actualité politique ukrainienne depuis 30 ans.](images/kyiv/p2/exposition_materiya/messages.jpg)
 
-!["Maria Schneider-Seniouk", Maroussia Tchouraï, 1972](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
+![_Maria Schneider-Seniouk_, Maroussia Tchouraï, 1972](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
 
 ![Stepane Hanja, 2021. Représente un musicien jouant de la bandura, instrument traditionnel ukrainien.](images/kyiv/p2/exposition_materiya/tapisserie_bandura.jpg)
 
-!["Elle filait finement, elle tissait musicalement", Oleksandra Prokopenko, 1967.](images/kyiv/p2/exposition_materiya/tapisserie_textile.jpg)
+![_Elle filait finement, elle tissait musicalement_, Oleksandra Prokopenko, 1967.](images/kyiv/p2/exposition_materiya/tapisserie_textile.jpg)
 
-![Des rameurs, 1974](images/kyiv/p2/exposition_materiya/rameurs.jpg)
+![Des rameurs, 1974.](images/kyiv/p2/exposition_materiya/rameurs.jpg)
 
-![Vue sur l’intérieur](images/kyiv/p2/exposition_materiya/archi_escalator.jpg)
+![Vue sur l’intérieur.](images/kyiv/p2/exposition_materiya/archi_escalator.jpg)
 
 ## En haut
 
