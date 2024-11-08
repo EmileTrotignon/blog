@@ -75,4 +75,4 @@ deux, mais dont la place est plus vide.
 
 ![Une rue qui descend vers Maïdane. On sent la canicule.](images/kyiv/p4/sophie_et_michel/rue.jpg)
 
-[Page suivante : Saint André](kyiv_4_saint_andre.md)
+[Page suivante : Saint-André](kyiv_4_saint_andre.md)
