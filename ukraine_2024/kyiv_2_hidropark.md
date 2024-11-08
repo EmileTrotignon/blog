@@ -1,30 +1,30 @@
 # Le métro
 
 Après ce jour-ci, comme il faut très chaud, on rejoint le cousin de Vova et un
-ami à lui se baigner a Hidropark, un complexe de loisir incluant des plages sur
+ami à lui se baigner à Hidropark, un complexe de loisir incluant des plages sur
 le Dnipro.
 
 Pour ce faire, on prend le métro. Le métro est assez particulier à Kyiv. Il n'y
 a que trois lignes, mais elles sont très longues. Les trains sont aussi plus
 gros, c'est presque plus proche du RER à Paris.
 
-Le photos ci-dessous ne sont pas toutes de cette après-midi, ni toutes de la même ligne.
+Les photos ci-dessous ne sont pas toutes de cette après-midi là, ni toutes de la même ligne.
 
 ![Un métro lors de son arrivée à quai.](images/kyiv/p2/metro/metro_arrivee.jpg)
 
-Selon les stations, il est par endroit très profond (surtout en centre-ville),
+Selon les stations, il est par endroit très profond (surtout en centre-ville) ;
 la station la plus profonde est la deuxième plus profonde au monde, avec 102
 mètres sous terre.
 
 ![On accède aux stations profondes uniquement par escalator, il n'existe pas d'escaliers ni d’ascenseurs.](images/kyiv/p2/metro/metro_profond.jpg)
 
-![Vu d'en bas la profondeur est marquante.](images/kyiv/p2/metro/escalator_d_en_bas.jpg)
+![Vu d'en bas, la profondeur est marquante.](images/kyiv/p2/metro/escalator_d_en_bas.jpg)
 
 ![On laisse passer les pressés.](images/kyiv/p2/metro/escalator_groupe.jpg)
 
 ![On arrive sur le quai.](images/kyiv/p2/metro/en_bas_des_escalators.jpg)
 
-![Les quais sont souvent au milieu des rails et pas autour comme le plus souvent à Paris.](images/kyiv/p2/metro/quai.jpg)
+![Les quais sont habituellement au milieu des rails et pas autour comme le plus souvent à Paris.](images/kyiv/p2/metro/quai.jpg)
 
 ![Certaines stations ont de très belles décorations.](images/kyiv/p2/metro/metro_carrelage.jpg)
 
@@ -37,16 +37,16 @@ mètres sous terre.
 # Hidropark
 
 Hidropark est sur des îles du Dnipro, il faut donc en traverser un bras. Le
-métro qui traverse le Dnipro est un métro aérien, on peut donc admirer la
+métro qui traverse le Dnipro est un métro aérien, on peut admirer la
 traversée.
 
 ![Image satellite que je n'ai pas pris moi-même.](images/kyiv/p2/hidropark/map.png)
 
-![C'est long, et ce n'est même pas le fleuve complet.](images/kyiv/p2/hidropark/traversee_dnipro.mp4)
+![C'est long, et ce n'est même pas le fleuve entier.](images/kyiv/p2/hidropark/traversee_dnipro.mp4)
 
 ![La sortie du métro.](images/kyiv/p2/hidropark/metro.jpg)
 
-Évidemment, dès qu'on est arrivés, le ciel commence à se couvrir.
+Évidemment, dès qu'on arrive, le ciel commence à se couvrir.
 
 ![Vova, son cousin et leur ami.](images/kyiv/p2/hidropark/pont.jpg)
 
@@ -54,7 +54,7 @@ traversée.
 
 ![La plage d'un peu plus près.](images/kyiv/p2/hidropark/plage.jpg)
 
-![Alice et Coline sur la plage](images/kyiv/p2/hidropark/alice.jpg)
+![Alice et Coline sur la plage.](images/kyiv/p2/hidropark/alice.jpg)
 
 ## Le parc de musculation
 
@@ -62,7 +62,7 @@ traversée.
 étonnante. Il existe de l'équipement sportif en plein air en France, mais il
 s'agit en général de barres de tractions, il n'y a jamais de poids à soulever.
 Le parc de musculation d'Hidropark a, lui, énormément de machines à soulever des
-poids, et des bancs pour le développé-couché ou autre exercice. L'équipement à
+poids, et des bancs pour le développé-couché ou autres exercices. L'équipement a
 été construit par des volontaires avec du matériel industriel de récupération, à
 partir de la fin des années 60. Vous pouvez en lire un peu plus
 [ici](https://apnews.com/general-news-683274437618435bb03b869b617d93c5), mais

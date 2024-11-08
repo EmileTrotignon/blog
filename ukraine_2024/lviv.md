@@ -2,12 +2,12 @@
 
 Il n'est plus possible de se rendre en Ukraine par avion. Je l'avais fait en
 2021, mais dans un espace aérien disputé, le risque de descendre un avion de
-ligne est beaucoup trop élevé, les opérateurs de defenses anti-aériennes devant
+ligne est beaucoup trop élevé, les opérateurs de défenses anti-aériennes devant
 prendre des décisions très rapides.
 
 Pour se rendre en Ukraine, nous prenons donc l'avion jusqu'à Cracovie. Un bus
 part pour Lviv depuis l'aéroport. Nous passerons quelques jours pour visiter
-Lviv avant de prendre le train pour Kyiv ou sont nos amis et notre famille.
+Lviv avant de prendre le train pour Kyiv, où sont nos amis et notre famille.
 
 ![L'avion au départ de "Paris"-Beauvais](images/trajet_paris_lviv/paris_avion.jpg)
 
@@ -19,9 +19,9 @@ la monnaie ni en Pologne ni en Ukraine).
 
 ![Dans le bus.](images/trajet_paris_lviv/dans_le_bus.jpg)
 
-Le trajet est très long, 9 heures plus l'imprévu de l'attente à la frontière.
+Le trajet est très long, neuve heures, plus l'imprévu de l'attente à la frontière.
 
-![Le poste frontière Ukrainien avec le drapeau devant](images/trajet_paris_lviv/frontiere_drapeau.jpg)
+![Le poste frontière ukrainien avec le drapeau devant](images/trajet_paris_lviv/frontiere_drapeau.jpg)
 
 ![L'endroit moins solennel par lequel on passe](images/trajet_paris_lviv/frontiere_1.jpg)
 
@@ -31,21 +31,21 @@ Après une attente assez longue, on passe la frontière.
 
 # Lviv
 
-On arrive a Lviv assez tard, on va à notre hotel, puis on juste assez de temps
+On arrive à Lviv assez tard, on va à notre hôtel, puis on juste assez de temps
 pour aller acheter à manger avant le couvre-feu. Comme c'était assez fatiguant
 on n'a pas vraiment de photos de cette soirée.
 
 Le lendemain on commence à visiter Lviv. Lviv a longtemps fait partie de
 l'empire austro-hongrois, et cela se ressent dans l'architecture : c'est une
-très belle ville dans un style européen (c'est à dire pas soviétique).
+très belle ville dans un style européen (c'est-à-dire pas soviétique).
 
-![Sculpture dans une alcove](images/lviv/alcove_sculpture.jpg)
+![Sculpture dans une alcove.](images/lviv/alcove_sculpture.jpg)
 
 Cela est très apprécié des Ukrainiens, ce qui a fait de Lviv un centre
 touristique. Personnellement je préfère l'urbanisme fou et un peu brutal de
 Kyiv, qui est plus exotique pour un français.
 
-![L'opéra de Lviv](images/lviv/lviv_opera.jpg)
+![L'opéra de Lviv.](images/lviv/lviv_opera.jpg)
 
 ![Un bâtiment officiel.](images/lviv/batiment_officiel.jpg)
 

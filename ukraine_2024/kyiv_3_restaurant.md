@@ -6,7 +6,7 @@ c'est un aussi une manière de le célébrer avec eux.
 
 Le restaurant que l'on a choisi est Tsarske Selo, le "village royal". C'est un
 restaurant auquel on est allés avec Antonina en 2021 et 2023, dans un style très
-traditionnel Ukrainien, avec un décor campagnard.
+traditionnel ukrainien, avec un décor campagnard.
 
 ![Le décor du restaurant.](images/kyiv/p3/tsarske_selo/decor_1.jpg)
 

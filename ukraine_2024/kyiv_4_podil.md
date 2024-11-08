@@ -1,7 +1,7 @@
 # Podil
 
 Une fois en bas de Saint-André, on arrive à Podil, un quartier historique de
-Kyiv ou beaucoup de bâtiments et le tracé des rues datent du XIXieme siècle.
+Kyiv où beaucoup de bâtiments ainsi que le tracé des rues datent du XIX~e siècle.
 
 ![Il y a des jolis immeubles.](images/kyiv/p4/podil/immeuble_blanc.jpg)
 
@@ -15,13 +15,13 @@ Kyiv ou beaucoup de bâtiments et le tracé des rues datent du XIXieme siècle.
 ![L'église de la Dormition-de-la-Mère-de-Dieu Pyrohochtcha](images/kyiv/p4/podil/eglise_ancienne.jpg)
 
 L'église Pyrohochtcha me tape dans l'oeil car c'est une des seules églises que
-l'on croise à ne pas etre en style baroque. En réalité, comme toute les églises
-anciennes de Kyiv, des décorations baroques lui ont été ajouté au XVIIIième
+l'on croise qui n'est pas de style baroque. En réalité, comme toutes les églises
+anciennes de Kyiv, des décorations baroques lui ont été ajouté au XVIII~e
 siècle. Cependant, le pouvoir soviétique la détruit en 1935, et elle est
-reconstruite en 1998, dans un style plus ancien, que je trouve de meilleur gout,
+reconstruite en 1998, dans un style plus ancien, que je trouve de meilleur goût,
 mais dont l'authenticité est discutée.
 
-![L'église Pyrohochtcha au XVIIIième siecle.](images/kyiv/p4/podil/eglise_18ieme.png)
+![L'église Pyrohochtcha au XVIII~e siecle.](images/kyiv/p4/podil/eglise_18ieme.png)
 
 Il y a aussi plusieurs fresques :
 
@@ -31,17 +31,18 @@ Il y a aussi plusieurs fresques :
 
 ![Un drôle de monsieur moustachu.](images/kyiv/p4/podil/graffiti_moustachu.jpg)
 
-![Une poupée traditionnelle ukrainienne "motanka" servant traditionnellement plus de talisman que de jouet.](images/kyiv/p4/podil/graffiti_poupee.jpg)
+![Une poupée traditionnelle ukrainienne "motanka", qui sert traditionnellement plus de talisman que de jouet.](images/kyiv/p4/podil/graffiti_poupee.jpg)
 
 ![Coline devant un café étonnant.](images/kyiv/p4/podil/le_gazza.jpg)
 
-On rentre dans un magasin de chemise brodé ukrainiennes (vichivannka) de la
+On rentre dans un magasin de chemises brodées ukrainiennes (vichivannka) de la
 marque [etnodim](https://etnodim.com/). Antonina et moi sommes très fan de cette
 marque, mais cette fois on achètera rien.
 
 ![Pas cette fois !](images/kyiv/p4/podil/coline_chemise.jpg)
 
-On marche ensuite le long du Dnipro, qu'on ne peut pas voir à cause de l'immense rocade que l'on peut voir sur les photos depuis Saint André.
+On marche ensuite le long du Dnipro, qu'on ne peut pas voir à cause de l'immense
+rocade, mais qui est visible sur les photos depuis Saint-André.
 
 ![Un silo au bord du Dnipro.](images/kyiv/p4/podil/silo.jpg)
 
