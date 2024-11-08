@@ -4,7 +4,7 @@ Subtyping is a powerful concept that feels very intuitive but has weird
 consequences. These consequences are often referred to by the complicated terms
 "covariance" and "contravariance". I will explain what this means bellow.
 
-## Introduction : OCaml notations
+## Introduction: OCaml notations
 
 I will use notations from the OCaml langage. You may skip this section if you
 are familiar with it.
@@ -22,14 +22,14 @@ are familiar with it.
 value of type `B`, providing a value of type `A` instead is fine.
 
 In OOP vocabulary, we would say that `A` inherits `B`, but there are other kinds
-of subtyping than OOP-style inheritance : in OCaml, subtyping shows up with
+of subtyping than OOP-style inheritance: in OCaml, subtyping shows up with
 classes but also polymorphic variants.
 
 If `A < B`, then a value of type `A` can be considered to be a value of type `B`.
 
 Let us consider the example of the types `square` and `rectangle`.
 Naturally, we have `square < rectangle`.
-If you have :
+If you have:
 
 ```ocaml
 val f : rectangle -> int
@@ -37,13 +37,13 @@ val f : rectangle -> int
 val v : square
 ```
 
-Then `f v` is well-typed.
+then `f v` is well-typed.
 Depending on the language, some kind of explicit instruction to consider that
 `v` is of type `Rectangle` may be needed.
 
 ## Covariance
 
-Lets imagine that we have the following values :
+Lets imagine that we have the following values:
 
 ```ocaml
 val high1 : (int -> square) -> square
@@ -86,7 +86,7 @@ whether we are talking a sub-type or a super-type.
 
 ## Contravariance
 
-Lets imagine that we have the following values :
+Lets imagine that we have the following values:
 
 ```ocaml
 val high1 : (square -> int) -> int
@@ -123,20 +123,20 @@ This time, we will ask the question of the type `ref`.
 In OCaml, `t ref` designated a mutable variable of type `t`.
 
 In essence, a mutable value is a pair of a setter function and a getter
-function. We can write this the following way :
+function. We can write this the following way:
 
 ```ocaml
 type 'a ref = {get: unit -> 'a; set: 'a -> unit}
 ```
 
 What we want to know is, assuming `square < rectangle`, can we assert
-`square ref < rectangle ref` or `rectangle ref < square ref` ?
+`square ref < rectangle ref` or `rectangle ref < square ref`?
 
 By applying the results of the two above paragraphs, we can already conclude
 that the answer is no. Both assertions are false. Lets show it in a more
 convincing by example.
 
-Lets assume the following environment :
+Lets assume the following environment:
 
 ```ocaml
 val new_rectangle : unit -> rectangle
@@ -198,7 +198,7 @@ For instance, if you have an array of squares, you may pass it to a function
 expecting an array of rectangle. If the function tries to write a rectangle to
 the array, an exception will be triggered. This is in my opinion a very bad
 situation. Whether a function will write to an array or not is not necessarely
-apparent from its interface, and it must happen quite often that unexpected
+apparent from its interface, and it must happens quite often that unexpected
 exception are raised, when a more powerful type system would have eliminated
 them.
 
@@ -209,13 +209,13 @@ invariant makes them "incompatible" with subtyping, and this is a definitely an
 issue that needs to be solved. There is however a quite easy way to solve it,
 that does not involve making the type system incomplete.
 
-Remember that the `'a ref` was defined as such earlier :
+Remember that the `'a ref` was defined as such earlier:
 
 ```ocaml
 type 'a ref = {get: unit -> 'a; set: 'a -> unit}
 ```
 
-Using the same idea we can define the array type as such :
+Using the same idea we can define the array type as such:
 
 ```ocaml
 type 'a array = {get: int -> 'a; set: 'a -> int -> unit; length: int}
@@ -231,7 +231,7 @@ type of `set` is contravariant. An array type deprived of its set function will
 therefore be covariant, and an array type deprived of its get function will be
 contravariant.
 
-We can write :
+We can write:
 
 ```ocaml
 type 'a read_only_array = {get: int -> 'a; length: int}
@@ -264,7 +264,7 @@ let reset_square_array (arr: square write_only_array) : unit =
   done
 ```
 
-Here you can use both functions on both `squares` and `rectangles` :
+Here you can use both functions on both `squares` and `rectangles`:
 
 ```ocaml
 let main () =
@@ -284,7 +284,7 @@ A more powerful type system would make the calls to `write_only_array` and
 regular functions). This would be very comfortable to use, and I believe this is
 what Java should have done.
 
-This type system would allow to following syntax :
+This type system would allow to following syntax:
 
 ```ocaml
 val squares : square array
