@@ -4,25 +4,25 @@ Pour se rendre à Kyiv, on prend le train de nuit. C'est une expérience que je
 trouve très réconfortante, et qui est objectivement très pratique, puisque l'on
 voyage pendant que l'on dort.
 
-On se rend à la gare de Lviv à 23h.
+On se rend à la gare de Lviv à 23&nbsp;h.
 
-![Une statue dans la gare](images/trajet_lviv_kyiv/gare_de_lviv.jpg)
+![Une statue dans la gare.](images/trajet_lviv_kyiv/gare_de_lviv.jpg)
 
 ![Une carte du réseau ferroviaire ukrainien. Aucun marquage spécial n'est fait pour les zones occupées.](images/trajet_lviv_kyiv/carte_ukraine.jpg)
 
-On comme on est cinq, on a une cabine pour 4 (un "coupé"), et Vova est puni et
-dort dans un coupé avec 3 inconnus.
-![Notre coupé](images/trajet_lviv_kyiv/le_coupe.jpg)
+Comme on est cinq, on a une cabine pour quatre (un "coupé"), et Vova est puni et
+dort dans un coupé avec trois inconnues.
+![Notre coupé.](images/trajet_lviv_kyiv/le_coupe.jpg)
 
 ![Le coupé est petit mais convivial.](images/trajet_lviv_kyiv/vue_d_en_haut.jpg)
 
 ![Il y a une échelle, mais c'est plus amusant de grimper comme ça.](images/trajet_lviv_kyiv/coline_grimpe.jpg)
 
-![Coline est impressionnée par le nombre de billets. Chaque billet vaut 4.44€.](images/trajet_lviv_kyiv/coline_billets.jpg)
+![Coline est impressionnée par le nombre de billets. Chaque billet vaut 4,44&nbsp;€44.](images/trajet_lviv_kyiv/coline_billets.jpg)
 
 ![Antonina a les pieds très propres.](images/trajet_lviv_kyiv/coupe_orteils.jpg)
 
-Le matin, on se réveille très tôt car le train arrive tôt et il faut s'habiller
+Le matin, on se réveille très tôt&nbsp;: le train arrive, et il faut s'habiller
 et ranger le coupé.
 
 On se lève avec un superbe levé de soleil, c'est le moment de prendre des
@@ -30,7 +30,7 @@ photos.
 
 ![Je prends des photos avec l'appareil photo de Coline.](images/trajet_lviv_kyiv/emile_photographe.jpg)
 
-On achète du thé que le chef de voiture nous amène.
+On achète du thé que la cheffe de voiture nous amène.
 
 ![C'est bon, c'est chaud.](images/trajet_lviv_kyiv/the.jpg)
 
