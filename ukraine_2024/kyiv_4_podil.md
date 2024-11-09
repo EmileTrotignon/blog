@@ -25,7 +25,7 @@ mais dont l'authenticité est discutée.
 
 Il y a aussi plusieurs fresques :
 
-![Archange Michel, protège le ciel de l'Ukraine !](images/kyiv/p4/podil/graffiti_archange_michel.jpg)
+!["Archange Michel, protège le ciel de l'Ukraine !"](images/kyiv/p4/podil/graffiti_archange_michel.jpg)
 
 ![Un ours.](images/kyiv/p4/podil/graffiti_ours.jpg)
 

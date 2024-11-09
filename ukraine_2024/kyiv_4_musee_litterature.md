@@ -8,9 +8,9 @@ fermé.
 On regarde alors sur Google Maps quel est le musée ouvert le plus proche : c'est
 le musée national de la littérature.
 
-Il se situe dans un batiment néoclassique. Les collections ont l'air de n'avoir
-pas bougées depuis la construction du musée. Ne sachant pas parler Ukrainien, la
-litterature n'est pas le sujet le plus interessant.
+Il se situe dans un bâtiment néoclassique. Les collections ont l'air de ne pas
+avoir bougé depuis la construction du musée. Ne sachant pas parler Ukrainien, la
+littérature n'est pas le sujet le plus intéressant.
 
 ![Un tapis à l'entrée du musée.](images/kyiv/p4/musee_de_la_literature/tapis.jpg)
 
@@ -43,9 +43,9 @@ autoportrait de Taras Chevtchenko qui est reproduit sur le billet de 100&nbsp;hr
 
 ![Un autre portrait de Chevtchenko plus vieux.](images/kyiv/p4/musee_de_la_literature/shevchenko_vieux.jpg)
 
-![Une oeuvre constitué d'une maquette au premier plan mais d'un tableau en fond.](images/kyiv/p4/musee_de_la_literature/maquette_aquarelle.jpg)
+![Une oeuvre constituée d'une maquette au premier plan mais d'un tableau en fond.](images/kyiv/p4/musee_de_la_literature/maquette_aquarelle.jpg)
 
-![Un poème calligraphié signée Ivan Franko, un auteur très célèbre. Probablement auteur du texte mais pas la calligraphie.](images/kyiv/p4/musee_de_la_literature/poeme_ivan_franko.jpg)
+![Un poème calligraphié signé Ivan Franko, un auteur très célèbre. Probablement auteur du texte mais pas de la calligraphie.](images/kyiv/p4/musee_de_la_literature/poeme_ivan_franko.jpg)
 
 ![Une vieille carte de l'Ukraine.](images/kyiv/p4/musee_de_la_literature/carte.jpg)
 
@@ -58,7 +58,7 @@ ukrainienne Maria Vilinska, sous le pseudonyme masculin Marko Vovtchok. Il est
 ensuite traduit et adapté par l'éditeur français de Jules Verne [Pierre-Jules
 Hetzel](https://fr.wikipedia.org/wiki/Pierre-Jules_Hetzel). Celui-ci le publie
 sous son pseudonyme d'écrivain, P.J Stahl, avec tout de même la mention "d'après
-une légende de Markovovtchok". Il s'agit d'un roman patriotique, qui raconte
+une légende de Marko Vovtchok". Il s'agit d'un roman patriotique, qui raconte
 l'histoire d'une jeune ukrainienne, Maroussia, qui habite dans une Ukraine qui
 essaye de se libérer de la domination polonaise sans tomber dans le piège russe.
 

@@ -8,7 +8,7 @@ Dorée](https://fr.wikipedia.org/wiki/Porte_dor%C3%A9e_(Kiev)) :
 
 ![La Porte Dorée.](images/kyiv/p4/sophie_et_michel/porte_doree.jpg)
 
-La Porte Dorée est une porte des fortifications historique de Kyiv. Sa forme
+La Porte Dorée est une porte des fortifications historiques de Kyiv. Sa forme
 actuelle est quasiment entièrement une reconstitution :
 
 ![La Porte Dorée à la fin du XIXième siecle. ](images/kyiv/p4/sophie_et_michel/porte_doree_vieux.png)
