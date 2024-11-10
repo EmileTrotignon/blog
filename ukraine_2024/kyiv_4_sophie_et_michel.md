@@ -38,6 +38,8 @@ prendre en photo devant, alors on perpétue la tradition.
 
 ![Gros plan !](images/kyiv/p4/sophie_et_michel/maison_des_acteur_zoom.jpg)
 
+![Un grande fresque.](images/kyiv/p4/sophie_et_michel/fresque_dragon.jpg)
+
 On arrive ensuite devant les églises Sainte-Sophie et Saint-Michel.
 
 Ces deux églises sont construites sur un modèle de monastère. L'église elle-même

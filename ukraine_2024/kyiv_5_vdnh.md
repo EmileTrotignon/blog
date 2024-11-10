@@ -63,7 +63,6 @@ sportives.
 
 ![Il y a aussi un terrain de basket, avec les pavillons derrière](images/kyiv/p5/VDNH/basket.jpg)
 
-
 On va ensuite dans un stand de tir de type fête foraine.
 
 ![Je charge un plomb dans le fusil.](images/kyiv/p5/VDNH/tir/charge.jpg)

@@ -49,12 +49,14 @@ Kyiv, qui est plus exotique pour un français.
 
 ![Un bâtiment officiel.](images/lviv/batiment_officiel.jpg)
 
-![Un clocher avec l'arrière de l'arsenal, un bâtiment médiéval avec un restaurant au sous-sol et un musée à l’étage.](images/lviv/clocher_arsenal.jpg)
+![Un clocher avec un bâtiment médiéval.](images/lviv/clocher_arsenal.jpg)
 
 ![Un autre clocher](images/lviv/clocher.jpg)
 
 Le centre de Lviv est tres piéton et vivant, il y a beaucoup de boutiques, des
 restaurants et de l'activité. C'est même franchement un endroit touristique.
+
+![Le monument à Chevtchenko, l'écrivain Ukrainien le plus célèbre.](images/lviv/monument_shevchenko.jpg)
 
 ![Les rails du tram](images/lviv/rails_eglise.jpg)
 
@@ -71,6 +73,10 @@ restaurants et de l'activité. C'est même franchement un endroit touristique.
 ![On vient de leur dire qu'Antonina est enceinte.](images/lviv/lviv_restaurant.jpg)
 
 ![Vova boit du fromage avec une paille.](images/lviv/fromage_a_la_paille.jpg)
+
+![Antonina est très heureuse de faire découvrir cette exclusivité de McDonald Ukraine : un beignet croustillant à la cerise.](images/lviv/beignet_cerise_mcdo.jpg)
+
+![On boit du kvasse, une boisson fermenté non alcoolisée à base de pain. Cette marque le vend non-stérilisé, la fermentation peut continuer et il devient donc de moins en moins sucrée et de plus en pétillant. C'est en général impossible de l'ouvrir sans en mettre de partout.](images/lviv/kvasse.jpg)
 
 Un certain nombre de restaurants ont été conçus pour être des activités
 touristiques. Le contraste en frappant avec Paris ou un restaurant touristique
@@ -130,6 +136,8 @@ chocolats chaud.
 ![Une autre rue](images/lviv/batiment_biblioteka.jpg)
 
 ![Alice marche de manière déterminée](images/lviv/alice_marche.jpg)
+
+![Mais elle n'achetera pas cette chemise.](images/lviv/alice_etnodim.jpg)
 
 La guerre est visible et présente à Lviv, même si il y a moins de bombardements que dans le reste de l'Ukraine.
 
@@ -209,5 +217,9 @@ d'aller très vite en France.
 ![Un toit rouge.](images/lviv/toit_rouge.jpg)
 
 ![Un toit tout rouillé](images/lviv/toits_rouilles.jpg)
+
+On visite aussi la Maison des Scientifique, un lieu qui n'a rien à voir avec la science mais qui est simplement un très beau batiment.
+
+![L’intérieur de la Maison des Scientifique](images/lviv/maison_des_scientifiques.jpg)
 
 [Page suivante: le musée ethnographique.](lviv_musee.md)

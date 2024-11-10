@@ -1,46 +1,50 @@
-# Khreshatik
+# L'arrivée à Kyiv
 
-À Kyiv, notre Airbnb se situe sur Khreshatik. Khreshatik est la grande avenue de
+## Khrechatik
+
+À Kyiv, notre Airbnb se situe sur Khrechatik. Khrechatik est la grande avenue de
 Kyiv, équivalente aux Champs-Élysées à Paris.
 
 En 1941, l'Armée Rouge en retraite piège une bonne partie des bâtiments, et
 déclenche l'explosion cinq jours après la prise de contrôle de Kyiv par les
-Allemands. Khreshatik est ensuite reconstruite dans un style stalinien, avec
+Allemands. Khrechatik est ensuite reconstruite dans un style stalinien, avec
 beaucoup de décorations, et des choix pas toujours utilitaristes : on sent que
 le projet de modernisation de l'avenue avait vocation à apporter du prestige à
 la ville, plus qu'un grand nombre de logements, contrairement par exemple à
 [khrouchtchevkas](https://fr.wikipedia.org/wiki/Khrouchtchevka).
 
-![Un grand immeuble très typique.](images/kyiv/p1/khreshatik/immeuble_3.jpg)
+![Un grand immeuble très typique.](images/kyiv/p1/khrechatik/immeuble_3.jpg)
 
-![Le quatrième étage n'a pas le droit à une terrasse. Antonina pense se rappeler que l'un des balcons n'était même pas accessible.](images/kyiv/p1/khreshatik/arcades.jpg)
+![Le quatrième étage n'a pas le droit à une terrasse. Antonina pense se rappeler que l'un des balcons n'était même pas accessible.](images/kyiv/p1/khrechatik/arcades.jpg)
 
-![Un immeuble avec une arche.](images/kyiv/p1/khreshatik/arche_plan_large.jpg)
+![Un immeuble avec une arche.](images/kyiv/p1/khrechatik/arche_plan_large.jpg)
 
-![Un gros plan sur l'arche.](images/kyiv/p1/khreshatik/arche.jpg)
+![Un gros plan sur l'arche.](images/kyiv/p1/khrechatik/arche.jpg)
 
-![La décoration de l'arche.](images/kyiv/p1/khreshatik/decoration.jpg)
+![La décoration de l'arche.](images/kyiv/p1/khrechatik/decoration.jpg)
 
-![Un immeuble à l'intersection de la place Maïdane et de Khreshatik.](images/kyiv/p1/khreshatik/immeuble_folkmart.jpg)
+![Un immeuble à l'intersection de la place Maïdane et de Khrechatik.](images/kyiv/p1/khrechatik/immeuble_folkmart.jpg)
 
-![Un autre immeuble.](images/kyiv/p1/khreshatik/immeuble.jpg)
+![Un autre immeuble.](images/kyiv/p1/khrechatik/immeuble.jpg)
 
-![Encore un immeuble.](images/kyiv/p1/khreshatik/immeuble2.jpg)
+![Encore un immeuble.](images/kyiv/p1/khrechatik/immeuble2.jpg)
 
-Khreshatik est une grande avenue avec des trottoirs très larges, bordés de
+![Plus loin sur Khrechatik, le haut d'un immeuble dans un autre style.](images/kyiv/p1/khrechatik/immeuble_blanc.jpg)
+
+Khrechatik est une grande avenue avec des trottoirs très larges, bordés de
 marronniers qui sont le symbole de Kyiv.
 
-![Des kiosques qui servent des glaces infectes.](images/kyiv/p1/khreshatik/kiosques.jpg)
+![Des kiosques qui servent des glaces infectes.](images/kyiv/p1/khrechatik/kiosques.jpg)
 
 Notre appartement est dans un immeuble typique. Les décorations sont en mauvais
 état, les parties communes de l'immeuble sont trop grandes (couloirs larges
 comme un salon, cages d'escalier à n'en pas finir...).
 
-![L'immeuble où est notre appartement.](images/kyiv/p1/khreshatik/notre_immeuble.jpg)
+![L'immeuble où est notre appartement.](images/kyiv/p1/khrechatik/notre_immeuble.jpg)
 
-![Les filles dans la cuisine avec du beurre au chocolat, friandise soviétique qu'elles ont beaucoup appréciée.](images/kyiv/p1/khreshatik/beurre.jpg)
+![Les filles dans la cuisine avec du beurre au chocolat, friandise soviétique qu'elles ont beaucoup appréciée.](images/kyiv/p1/khrechatik/beurre.jpg)
 
-![La vue depuis notre appartement. On peut voir des morceaux de décorations tombés.](images/kyiv/p1/khreshatik/vue_appartement_khreshatik.jpg)
+![La vue depuis notre appartement. On peut voir des morceaux de décorations tombés.](images/kyiv/p1/khrechatik/vue_appartement.jpg)
 
 On a aussi vue sur le Tsoume (ЦУМ), le « Magasin central universel » (Центральний
 універсальний магазин), un magasin de type "departement store" comme les
@@ -50,33 +54,35 @@ aujourd'hui un lieu de shopping de luxe ; ce n'était pas le cas sous l'URSS, o�
 c'était un magasin plutôt classique. Une évolution assez similaire à celle des
 departement store occidentaux.
 
-![Le Tsoume.](images/kyiv/p1/khreshatik/tsoum.jpg)
+![Le Tsoume.](images/kyiv/p1/khrechatik/tsoum.jpg)
 
-![Une femme avec un costume de drapeau ukrainien se fait prendre en photo sur Khreshatik.](images/kyiv/p1/khreshatik/miss_ukraine.jpg)
+![Une femme avec un costume de drapeau ukrainien se fait prendre en photo sur Khrechatik.](images/kyiv/p1/khrechatik/miss_ukraine.jpg)
 
-![Un livreur à mobylette entre les feuilles de marronniers.](images/kyiv/p1/khreshatik/kashtane_mobilette.jpg)
+![Une feuille de marronnier par terre. La feuille de marronnier est un des symboles de Kyiv.](images/kyiv/p1/khrechatik/kashtane_liste.jpg)
 
-![Photo prise d'en bas de l'immeuble par Coline et moi.](images/kyiv/p1/khreshatik/khreshatik_appartement_fenetre.jpg)
+![Un livreur à mobylette entre les marronniers.](images/kyiv/p1/khrechatik/kashtane_mobilette.jpg)
 
-![Un bâtiment du conseil municipal, une peu comme une mairie.](images/kyiv/p1/khreshatik/ministere.jpg)
+![Photo prise d'en bas de l'immeuble par Coline et moi.](images/kyiv/p1/khrechatik/appartement_fenetre.jpg)
+
+![Un bâtiment du conseil municipal, une peu comme une mairie.](images/kyiv/p1/khrechatik/ministere.jpg)
 
 Dans une rue perpendiculaire, on mange à Puzata Khata, la "maison bedonnante".
 C'est une chaîne de restaurants en self-service qui sert de la nourriture
 ukrainienne bon marché. C'est un équivalent de Flunch en France, mais sans le
 côté ringard (et meilleur d'après Alice).
 
-![Puzata Khata.](images/kyiv/p1/khreshatik/pekha_ext.jpg)
+![Puzata Khata.](images/kyiv/p1/khrechatik/pekha_ext.jpg)
 
-![Notre repas.](images/kyiv/p1/khreshatik/pekha.jpg)
+![Notre repas.](images/kyiv/p1/khrechatik/pekha.jpg)
 
 On tombe aussi sur une installation artistique discrète. Il s'agit d'un accusé
 de réception de messagerie, pour rappeler la difficulté de communiquer avec des
 proches qui sont au front. On appuie sur un bouton pour changer si le message
 est reçu, ouvert, ou juste envoyé.
 
-![Message reçu mais pas ouvert.](images/kyiv/p1/khreshatik/accuse_reception.jpg)
+![Message reçu mais pas ouvert.](images/kyiv/p1/khrechatik/accuse_reception.jpg)
 
-# La guerre à Kyiv
+## La guerre à Kyiv
 
 À Kyiv, la guerre est plus présente qu'à Lviv. Pendant les trois nuits passées tous
 les cinq à Kyiv, plusieurs alertes de bombardement aérien ont eu lieu.
@@ -94,9 +100,9 @@ On a eu beaucoup de chance, car l'abri souterrain de notre immeuble était très
 bien. Tous les immeubles n'ont pas un abri, et quand il y en a un, il n'est pas forcement
 confortable.
 
-![Alice et Coline pendant une alerte.](images/kyiv/p1/khreshatik/abri/bancs.jpg)
+![Alice et Coline pendant une alerte.](images/kyiv/p1/khrechatik/abri/bancs.jpg)
 
-![Présentation de l'abri.](images/kyiv/p1/khreshatik/abri/abri_vlog.webm)
+![Présentation de l'abri.](images/kyiv/p1/khrechatik/abri/abri_vlog.webm)
 
 Les alertes aériennes ne sont pas
 insignifiantes pour les Ukrainiens. Il s'agit d'une des choses les plus
@@ -106,20 +112,30 @@ de gens de descendre systématiquement dans un abri car le sommeil se retrouve
 encore plus perturbé. Il n'est pas non plus forcément possible de juste les
 ignorer et de se rendormir, même lorsque l'ont est "habitué".
 
-![La machine qui fait plein de bruit dans l'abri.](images/kyiv/p1/khreshatik/abri/machine.jpg)
+![La machine qui fait plein de bruit dans l'abri.](images/kyiv/p1/khrechatik/abri/machine.jpg)
 
-![L'alerte est finie, on remonte (avec des beaux t-shirts qui datent des études de ma femme).](images/kyiv/p1/khreshatik/abri/remonte.jpg)
+![L'alerte est finie, on remonte (avec des beaux t-shirts qui datent des études de ma femme).](images/kyiv/p1/khrechatik/abri/remonte.jpg)
 
 Personnellement je n'ai pas vu d'immeubles détruits par les bombardements, mais
 Vova est allé en voir près de chez son cousin.
 
 ![Un immeuble détruit au printemps 2024.](images/kyiv/p1/vova_immeuble_detruit.jpg)
 
+![Une page de Don Juan, en Ukrainien, pas loin de l'immeuble.](images/kyiv/p1/page_livre.jpg)
+
 ![La crèche où Antonina était lorsqu'elle avait 2 ans.](images/kyiv/p1/creche.jpg)
 
-# Maïdane
+Il y a aussi pas mal de communication autour de la guerre dans la rue.
 
-Au bout de l'avenue Khreshatik, il y a la place de l’indépendance, Maïdane.
+![Une mosaïque détruite par les Russes. Sa créatrice est [Alla Horska](https://fr.wikipedia.org/wiki/Alla_Horska), célèbre artiste Ukrainienne des années 60 assassinée par le KGB à 41 ans.](images/kyiv/p1/fresque_faucon.jpg)
+
+![Un graffiti près de chez les cousins d'Antonina : "soit tu es avec l'armée, soit tu es contre l'armée" puis "frappe les réfractaire" (qui évitent la mobilisation).](images/kyiv/p1/graffiti_armee.jpg)
+
+![Plus léger, pas très loin du précédent : "Si tu as mal pris ce que j'ai dit, excuse moi"](images/kyiv/p1/graffiti_miroir.jpg)
+
+## Maïdane
+
+Au bout de l'avenue Khrechatik, il y a la place de l’indépendance, Maïdane.
 Cette place est extrêmement importante pour les Ukrainiens, car elle fut le lieu
 de la révolution de dignité, les manifestations qui ont chassé du pouvoir
 Yanoukovitche en 2014 et confirmé le maintien de la démocratie ukrainienne
@@ -147,9 +163,7 @@ nombreux, on voit leur nombre grandir à chaque voyage.
 
 ![Des immeubles à Maïdane.](images/kyiv/p1/maidane/colone_globus.jpg)
 
-![Maïdane la nuit.](images/kyiv/p1/maidane/nuit.jpg)
-
-# Les passages souterrains
+## Les passages souterrains
 
 Il y a aussi à Maïdane un centre commercial souterrain, "Globousse" avec plusieurs sorties et
 passages. Les passages souterrains sont courants à Kyiv et permettent de se

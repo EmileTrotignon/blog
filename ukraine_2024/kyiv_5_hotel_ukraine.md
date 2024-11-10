@@ -47,7 +47,7 @@ Et une super vue sur Maïdane et sur Kyiv.
 
 ![La statue sur le monument de l'indépendance.](images/kyiv/p5/hotel_ukraine/statue.jpg)
 
-![La tourelle du bâtiment à l'angle de Maïdane et Khreshatik.](images/kyiv/p5/hotel_ukraine/tourelle.jpg)
+![La tourelle du bâtiment à l'angle de Maïdane et Khrechatik.](images/kyiv/p5/hotel_ukraine/tourelle.jpg)
 
 ![Un énorme bâtiment.](images/kyiv/p5/hotel_ukraine/batiment.jpg)
 
@@ -69,11 +69,15 @@ On prend aussi de très belle photo au coucher du soleil.
 
 ![L'église Saint-Sophie.](images/kyiv/p5/hotel_ukraine/sainte_sophie_coucher.jpg)
 
+![Le monument de l'indépendance.](images/kyiv/p5/hotel_ukraine/monument_coucher.jpg)
+
 Puis la nuit.
 
 ![L'église Saint-Michel et le ministère des affaires étrangères.](images/kyiv/p5/hotel_ukraine/saint_michel_nuit.jpg)
 
-![Le bout de la place Maïdane](images/kyiv/p5/hotel_ukraine/maidan_zoom_nuit.jpg)
+![Le bout de la place Maïdane.](images/kyiv/p5/hotel_ukraine/maidan_zoom_nuit.jpg)
+
+![Un plan plus large de la place Maïdane.](images/kyiv/p5/hotel_ukraine/maidan_nuit.jpg)
 
 ![Le centre de la Culture et des Arts, aussi connu sous le nom soviétique de "Palais d'Octobre"](images/kyiv/p5/hotel_ukraine/colonnes.jpg)
 
@@ -85,4 +89,4 @@ chronologiquement.
 
 ![On pose les valises et on repart.](images/kyiv/p5/hotel_ukraine/valise.jpg)
 
-[Page suivante : Roshen et la bibliothèque nationale](kyiv_5_hotel_roshen_bibliotheque.md)
+[Page suivante : Roshen et la bibliothèque nationale](kyiv_5_roshen_bibliotheque.md)

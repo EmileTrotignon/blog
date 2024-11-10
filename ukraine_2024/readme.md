@@ -45,7 +45,7 @@ sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtem
 
 #### Arrivée à Kyiv
 
-- [Maïdane et Khreshatik](kyiv_1.md)
+- [Maïdane et Khrechatik](kyiv_1.md)
 
 #### Première journée
 

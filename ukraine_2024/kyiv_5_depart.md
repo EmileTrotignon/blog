@@ -31,6 +31,10 @@ On passe par Saint-Michel éclairé par une Lune rousse.
 
 ![Les statue de la place Saint-Michel et la lune rousse.](images/kyiv/p5/depart/statue_saint_michel.jpg)
 
+Puis on arrive à Maïdane.
+
+![Maïdane la nuit.](images/kyiv/p1/maidane/nuit.jpg)
+
 ![Au revoir Kyiv...](images/kyiv/p5/depart/retour.jpg)
 
 À suivre : Kyiv à deux, puis Slavouta.

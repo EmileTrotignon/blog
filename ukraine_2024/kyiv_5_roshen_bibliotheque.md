@@ -1,3 +1,4 @@
+# Roshen et la Bibliothèque Nationale
 
 Pour notre dernière journée, on souhaite se rendre au parc de VDNH. C'est un
 parc assez loin sur la ligne bleue du métro. Officiellement, elle s'appelle
@@ -26,7 +27,7 @@ de confiserie éponyme : "Roshen".
 
 Il devient président de l'Ukraine en 2014, puis revend Roshen en 2016.
 
-# Roshen
+## Roshen
 
 Devant l'usine Roshen, une fontaine est installée, plusieurs enfants y jouent.
 
@@ -45,7 +46,7 @@ peu décevant, en tout cas Antonina ne le trouve pas assez bien fourni.
 
 Ensuite on se dirige vers la bibliothèque nationale.
 
-# La bibliothèque nationale
+## La bibliothèque nationale
 
 J'avais remarqué l'architecture impressionnante de la bibliothèque nationale en
 2023, puis pendant l'année j'avais vu des photos de l'intérieur, très
@@ -74,5 +75,5 @@ D'autres photos sont disponibles [ici](https://www.village.com.ua/village/busine
 
 Cela fait, on reprend le métro pour le parc VDNH.
 
-[Page suivante : VDNH](kyiv_5_vdnh)
+[Page suivante : VDNH](kyiv_5_vdnh.md)
 
