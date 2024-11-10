@@ -1,19 +1,19 @@
 # Le départ d'Alice, Coline et Vova
 
-Après VDNH, on pars manger dans un restaurant assez classe ou Antonina avait été
-lors qu'un déplacement professionnel.
+Après VDNH, on part manger dans un restaurant assez classe où Antonina avait été
+lors d'un déplacement professionnel.
 
-C'est un restaurant fondé par Eugene Klopotenko, un chef ukrainien célèbre. On
+C'est un restaurant fondé par Eugène Klopotenko, un chef ukrainien célèbre. On
 avait assisté a un cours de cuisine du borche qu'il avait donné à Paris dans la
-maison de l'Ukraine des Jeux Olympique.
+maison de l'Ukraine des Jeux Olympiques.
 
-![Eugene Klopotenko à la Maison de l'Ukraine des JO à Paris.](images/kyiv/p5/depart/klopotenko.jpg)
+![Eugène Klopotenko à la Maison de l'Ukraine des JO à Paris.](images/kyiv/p5/depart/klopotenko.jpg)
 
-Il est devenu célèbre pour avoir gagné l'emission Master Chef Ukraine, avant de
-lancer l'initiative pour classer le borche patrimoine immatériel de
-l'humanité de l'UNESCO.
+Il est devenu célèbre pour avoir gagné l'émission Master Chef Ukraine, avant de
+lancer l'initiative pour classer le borche patrimoine culturel immatériel de
+l'humanité de l'UNESCO. L'initiative aboutit en 2022.
 
-C'est un restaurant de cuisine ukrainienne modernisée
+C'est un restaurant de cuisine ukrainienne modernisée.
 
 ![Une photo du repas.](images/kyiv/p5/depart/repas.jpg)
 

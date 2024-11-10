@@ -1,8 +1,8 @@
 # VDNH
 
 Le parc VDNH (ou VDNG) (prononcé _vé-dé-ène-hé_), acronyme de _Exposition des
-Réalisations de l'Économie Nationale du RSS d'Ukraine_ est un grand parc
-d'exposition, ouvert en 1958.
+Réalisations de l'Économie Nationale de la RSS d'Ukraine_ est un grand parc
+d'expositions, ouvert en 1958.
 
 ![L'entrée de VDNH et le parking qui est devant.](images/kyiv/p5/VDNH/parking.jpg)
 
@@ -20,7 +20,7 @@ symbolique de la puissance de l'État.
 
 ![La flèche en haut d'un des pavillons.](images/kyiv/p5/VDNH/fleche.jpg)
 
-![Il un plein de pavillons de ce type. On ne rentre pas dedans, j'imagine qu'ils sont ouvert seulement pour des expositions.](images/kyiv/p5/VDNH/batiment.jpg)
+![Il un plein de pavillons de ce type. On ne rentre pas dedans, j'imagine qu'ils sont ouverts seulement pour des expositions.](images/kyiv/p5/VDNH/batiment.jpg)
 
 On loue une sorte de scooter électrique, plus pour jouer que pour se déplacer
 car on ne peut pas tous monter dessus.
@@ -61,7 +61,7 @@ sportives.
 
 ![Et moi le cochon pendu.](images/kyiv/p5/VDNH/sport/cochon_pendu.jpg)
 
-![Il y a aussi un terrain de basket, avec les pavillons derriere](images/kyiv/p5/VDNH/basket.jpg)
+![Il y a aussi un terrain de basket, avec les pavillons derrière](images/kyiv/p5/VDNH/basket.jpg)
 
 
 On va ensuite dans un stand de tir de type fête foraine.
@@ -72,7 +72,7 @@ On va ensuite dans un stand de tir de type fête foraine.
 
 ![Vova aussi.](images/kyiv/p5/VDNH/tir/vova_vise.jpg)
 
-Malgré le sexisme de ces photographies, les filles tirent aussi, on voit qu'elle
+Malgré le sexisme de ces photographies, les filles tirent aussi, on voit qu'elles
 ont aussi des lunettes de protection.
 
 Après cela, il commence a se faire tard, et le soleil se couche, il y a une très
@@ -106,11 +106,11 @@ belle lumière, je vais prendre plein de photos.
 
 ![C’était peut-être cette photo de l'arche.](images/kyiv/p5/VDNH/arche.jpg)
 
-![Ou elle ?](images/kyiv/p5/VDNH/arche_coucher.jpg)
+![Ou celle-ci ?](images/kyiv/p5/VDNH/arche_coucher.jpg)
 
 ![En fait non c'est d'encore plus loin, les bassins ne collent pas.](images/kyiv/p5/VDNH/arche_bassin_vide.jpg)
 
-Comme je prend plein de photo, tout le monde m'attend et s'ennui.
+Comme je prend plein de photos, tout le monde m'attend et s'ennuie.
 
 ![Antonina et Vova se baladent.](images/kyiv/p5/VDNH/antonina_vova.jpg)
 
@@ -130,7 +130,7 @@ Comme je prend plein de photo, tout le monde m'attend et s'ennui.
 
 ![En contre-jour avec des grues.](images/kyiv/p5/VDNH/skyline_contrejour.jpg)
 
-[Page suivante]
+[Page suivante: le départ d'Alice, Coline et Vova](kyiv_5_depart.md)
 
 
 
