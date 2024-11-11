@@ -25,3 +25,5 @@ traditionnel ukrainien, avec un décor campagnard.
 ![Le borche, une soupe de betteraves, est servi dans un bol en pain. ](images/kyiv/p3/tsarske_selo/borsh_pain.jpg)
 
 ![Comme on dit qu'on vient pour un mariage, on a le droit à plusieurs chanson des musiciens du restaurant. Ils nous font même danser, même si je n'ai pas la vidéo.](images/kyiv/p3/tsarske_selo/chanson.mp4)
+
+[Page suivante : Sophie et Michel](kyiv_4_sophie_et_michel.md)

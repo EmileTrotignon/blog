@@ -16,13 +16,13 @@ par le toit, mais je n'ai pas trouvé de photo de l’événement.
 Antonina a fait un stage à l'ONG [Ukraine Crisis Media Center.](https://uacrisis.org/fr/),
 centre des médias qui a ses bureaux ici, lors de son année de césure.
 
-![L'entrée des bureaux d'un Media Center qui n'est pas celui où Antonina a fait son stage (l'entrée de ce dernier étant particulièrement discrète).](images/kyiv/p2/exposition_materiya/media_center.jpg)
+![L'entrée des bureaux d'un Media Center qui n'est pas celui où Antonina a fait son stage (l'entrée de ce dernier est particulièrement discrète).](images/kyiv/p2/exposition_materiya/media_center.jpg)
 
 Lors de notre voyage, une exposition sur les textiles ukrainiens y a eu lieu.
 
 ![L'entrée de la maison de l'Ukraine.](images/kyiv/p2/exposition_materiya/escaliers_interieur.jpg)
 
-![Une grande tenture est pendu au plafond pour l'exposition.](images/kyiv/p2/exposition_materiya/tenture_d_en_bas.jpg)
+![Une grande tenture est pendue au plafond pour l'exposition.](images/kyiv/p2/exposition_materiya/tenture_d_en_bas.jpg)
 
 ![Le rez de chaussée avec Coline de dos.](images/kyiv/p2/exposition_materiya/grand_angle_rez_de_chaussee.jpg)
 
@@ -42,7 +42,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Une tapisserie avec une scène de chasse.](images/kyiv/p2/exposition_materiya/tapisserie_chasse.jpg)
 
-![Une tapisserie avec un vers de [Chevtchenko](https://fr.wikipedia.org/wiki/Taras_Chevtchenko. "Nourris-toi, terre noire, d'une volonté claire." La terre noire une particularité géologique de l'Ukraine qui rend la terre particulièrement fertile.](images/kyiv/p2/exposition_materiya/tapisserie_shevchenko.jpg)
+![Une tapisserie avec un vers de [Chevtchenko](https://fr.wikipedia.org/wiki/Taras_Chevtchenko). "Nourris-toi, terre noire, d'une volonté claire." La terre noire une particularité géologique de l'Ukraine qui rend la terre particulièrement fertile.](images/kyiv/p2/exposition_materiya/tapisserie_shevchenko.jpg)
 
 ![Antonina dans la lumière.](images/kyiv/p2/exposition_materiya/antonina_lumiere.jpg)
 
@@ -86,7 +86,7 @@ L'exposition est super, il a beaucoup de très belles tapisseries.
 
 ![Une tapisserie représentant Cassandre : "Réveille toi, Troie, la mort vient sur toi".](images/kyiv/p2/exposition_materiya/cassandre.jpg)
 
-Il y a une pièce avec des costumes réalisée par [Lioudmila
+Il y a une pièce avec des costumes réalisés par [Lioudmila
 Semykina](https://fr.wikipedia.org/wiki/Lioudmila_Semykina), une artiste
 Ukrainienne importante, et opposante dans les années 60.
 
@@ -106,9 +106,9 @@ Ukrainienne importante, et opposante dans les années 60.
 
 ![Broderies par Bojena Tchaharova, 2010-2015. Les tapisseries un peu absurdes arborent des citations d'hommes politiques et d'oligarques, difficiles à comprendre pour quelqu'un qui ne suit pas l'actualité politique ukrainienne depuis 30 ans.](images/kyiv/p2/exposition_materiya/messages.jpg)
 
-![_Maria Schneider-Seniouk_, Maroussia Tchouraï, 1972](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
+![_Maroussia Tchouraï_, par Maria Schneider-Seniouk, 1972](images/kyiv/p2/exposition_materiya/maroussia_tchuraie.jpg)
 
-![Stepane Hanja, 2021. Représente un musicien jouant de la bandura, instrument traditionnel ukrainien.](images/kyiv/p2/exposition_materiya/tapisserie_bandura.jpg)
+![Par Stepane Hanja, 2021. Représente un musicien jouant de la bandura, instrument traditionnel ukrainien.](images/kyiv/p2/exposition_materiya/tapisserie_bandura.jpg)
 
 ![_Elle filait finement, elle tissait musicalement_, Oleksandra Prokopenko, 1967.](images/kyiv/p2/exposition_materiya/tapisserie_textile.jpg)
 

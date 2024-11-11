@@ -16,11 +16,11 @@ Elle se situe sur le sommet d'une colline ; on profite de la vue.
 
 ![Un zoom sur la grande roue.](images/kyiv/p4/saint_andre/roue.jpg)
 
-On voit aussi le fameux "Pont Orelsan" lieu du tournage de [_Basique_](https://www.youtube.com/watch?v=2bjk26RwjyU)
+On voit aussi le fameux _Pont Orelsan_ lieu du tournage de [_Basique_](https://www.youtube.com/watch?v=2bjk26RwjyU).
 
 ![Le pont Orelsan.](images/kyiv/p4/saint_andre/pont_orelsan.jpg)
 
-Son vrai nom est le [pont
+Son vrai nom est le [Pont
 Podilskyi](https://fr.wikipedia.org/wiki/Pont_Podilskyi). Sa construction
 mouvementée est encore en cours, mais certaines voies sont ouvertes depuis 2023.
 

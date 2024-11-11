@@ -48,9 +48,9 @@ et sales, et donc pas très impressionnantes. La vue vaut tout de même la peine
 
 ![Une plage pour se baigner dans le Dnipro.](images/kyiv/p1/arche/dnipro_plage.jpg)
 
-Après le pont, il y a un parc avec une fontaine et une statue de
-[Saint Volodymyr](https://fr.wikipedia.org/wiki/Vladimir_Ier) qui se convertit
-au christianisme.
+Après le pont, il y a un parc avec une fontaine et une statue de [Saint
+Volodymyr](https://fr.wikipedia.org/wiki/Vladimir_Ier) qui fut le premier prince
+de Kyiv à se convertir au christianisme.
 
 ![Fontaine.](images/kyiv/p1/arche/fontaine.jpg)
 

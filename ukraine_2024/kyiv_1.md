@@ -10,7 +10,7 @@ déclenche l'explosion cinq jours après la prise de contrôle de Kyiv par les
 Allemands. Khrechatik est ensuite reconstruite dans un style stalinien, avec
 beaucoup de décorations, et des choix pas toujours utilitaristes : on sent que
 le projet de modernisation de l'avenue avait vocation à apporter du prestige à
-la ville, plus qu'un grand nombre de logements, contrairement par exemple à
+la ville, plus qu'un grand nombre de logements, contrairement par exemple aux
 [khrouchtchevkas](https://fr.wikipedia.org/wiki/Khrouchtchevka).
 
 ![Un grand immeuble très typique.](images/kyiv/p1/khrechatik/immeuble_3.jpg)
@@ -44,15 +44,15 @@ comme un salon, cages d'escalier à n'en pas finir...).
 
 ![Les filles dans la cuisine avec du beurre au chocolat, friandise soviétique qu'elles ont beaucoup appréciée.](images/kyiv/p1/khrechatik/beurre.jpg)
 
-![La vue depuis notre appartement. On peut voir des morceaux de décorations tombés.](images/kyiv/p1/khrechatik/vue_appartement.jpg)
+![La vue depuis notre appartement. On peut voir des morceaux de décorations tombés de la façade.](images/kyiv/p1/khrechatik/vue_appartement.jpg)
 
 On a aussi vue sur le Tsoume (ЦУМ), le « Magasin central universel » (Центральний
-універсальний магазин), un magasin de type "departement store" comme les
+універсальний магазин), un magasin de type _departement store_ comme les
 Galeries Lafayette en France. C'est d'ailleurs le seul sur ce format en Ukraine.
 Il a été complètement rénové en 2017 après une très longue fermeture. C'est
 aujourd'hui un lieu de shopping de luxe ; ce n'était pas le cas sous l'URSS, où
 c'était un magasin plutôt classique. Une évolution assez similaire à celle des
-departement store occidentaux.
+_departement store_ occidentaux.
 
 ![Le Tsoume.](images/kyiv/p1/khrechatik/tsoum.jpg)
 
@@ -97,8 +97,9 @@ Kyiv alors que les missiles visent Dnipro, car les missile peuvent frapper l'un
 ou l'autre sans manière de le savoir à l'avance.
 
 On a eu beaucoup de chance, car l'abri souterrain de notre immeuble était très
-bien. Tous les immeubles n'ont pas un abri, et quand il y en a un, il n'est pas forcement
-confortable.
+bien. Tous les immeubles n'ont pas un abri, et quand il y en a un, il n'est pas
+forcement confortable. Sans abri, on aurait dû marcher 300 mètres jusqu'au métro
+à chaque alerte.
 
 ![Alice et Coline pendant une alerte.](images/kyiv/p1/khrechatik/abri/bancs.jpg)
 
@@ -110,7 +111,7 @@ désagréables concernant la vie en Ukraine pendant la guerre, qui affecte
 grandement le sommeil. Il n'est pas envisageable pour beaucoup
 de gens de descendre systématiquement dans un abri car le sommeil se retrouve
 encore plus perturbé. Il n'est pas non plus forcément possible de juste les
-ignorer et de se rendormir, même lorsque l'ont est "habitué".
+ignorer et de se rendormir, même lorsque l'on est "habitué".
 
 ![La machine qui fait plein de bruit dans l'abri.](images/kyiv/p1/khrechatik/abri/machine.jpg)
 
@@ -129,27 +130,27 @@ Il y a aussi pas mal de communication autour de la guerre dans la rue.
 
 ![Une mosaïque détruite par les Russes. Sa créatrice est [Alla Horska](https://fr.wikipedia.org/wiki/Alla_Horska), célèbre artiste Ukrainienne des années 60 assassinée par le KGB à 41 ans.](images/kyiv/p1/fresque_faucon.jpg)
 
-![Un graffiti près de chez les cousins d'Antonina : "soit tu es avec l'armée, soit tu es contre l'armée" puis "frappe les réfractaire" (qui évitent la mobilisation).](images/kyiv/p1/graffiti_armee.jpg)
+![Un graffiti près de chez les cousins d'Antonina : "Soit tu es avec l'armée, soit tu es contre l'armée !" puis "Frappe les réfractaires !" (qui évitent la mobilisation).](images/kyiv/p1/graffiti_armee.jpg)
 
-![Plus léger, pas très loin du précédent : "Si tu as mal pris ce que j'ai dit, excuse moi"](images/kyiv/p1/graffiti_miroir.jpg)
+![Plus léger, pas très loin du précédent : "Si tu penses que je t'ai offensé, excuse-moi."](images/kyiv/p1/graffiti_miroir.jpg)
 
 ## Maïdane
 
 Au bout de l'avenue Khrechatik, il y a la place de l’indépendance, Maïdane.
 Cette place est extrêmement importante pour les Ukrainiens, car elle fut le lieu
-de la révolution de dignité, les manifestations qui ont chassé du pouvoir
+de la Révolution de la Dignité, les manifestations qui ont chassé du pouvoir
 Yanoukovitche en 2014 et confirmé le maintien de la démocratie ukrainienne
 ainsi que son indépendance totale de la Russie.
 
 ![Un côté de la place avec le monument de l'indépendance, la verrerie du centre commercial Globousse, l'hôtel Ukraine en beige, l'Académie Nationale de Musique en blanc et le parterre des Héros devant.](images/kyiv/p1/maidane/plan_large_2.jpg)
 
-![L'autre coté de la place avec des immeubles d'habitation.](images/kyiv/p1/maidane/plan_large.jpg)
+![L'autre coté de la place.](images/kyiv/p1/maidane/plan_large.jpg)
 
 ![Le monument de l'indépendance et l'hôtel Ukraine. En 2014, selon certains, les snipers qui tiraient sur les manifestants occupant la place se seraient positionnés sur le toit de l'hôtel. Au même moment, le lobby de l'hôtel servait d’hôpital et de morgue de fortune.](images/kyiv/p1/maidane/hotel_ukraine_monument_independance.jpg)
 
 ![Le socle du monument de l'indépendance.](images/kyiv/p1/maidane/detail_monument.jpg)
 
-![Un panneau explicatif sur la révolution de la dignité.](images/kyiv/p1/maidane/panneau_revolution_maidane.jpg)
+![Un panneau explicatif sur la Révolution de la Dignité.](images/kyiv/p1/maidane/panneau_revolution_maidane.jpg)
 
 Depuis le début de l'invasion totale, les proches de soldats tombés viennent
 placer un petit drapeau dans la pelouse de Maïdane. Ils sont maintenant très
@@ -159,7 +160,7 @@ nombreux, on voit leur nombre grandir à chaque voyage.
 
 ![Une autre vue sur le parterre avec le ministère de la politique agricole en fond.](images/kyiv/p1/maidane/parterre_des_heros_2.jpg)
 
-![Des hérissons anti-char](images/kyiv/p1/maidane/herissons_peinture.jpg)
+![Des hérissons anti-char.](images/kyiv/p1/maidane/herissons_peinture.jpg)
 
 ![Des immeubles à Maïdane.](images/kyiv/p1/maidane/colone_globus.jpg)
 

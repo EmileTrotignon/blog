@@ -6,7 +6,7 @@ Antonina nous indique un musée de l'histoire de Kyiv, on s'y rend mais il est
 fermé.
 
 On regarde alors sur Google Maps quel est le musée ouvert le plus proche : c'est
-le musée national de la littérature.
+le Musée National de la Littérature.
 
 Il se situe dans un bâtiment néoclassique. Les collections ont l'air de ne pas
 avoir bougé depuis la construction du musée. Ne sachant pas parler Ukrainien, la
@@ -54,7 +54,7 @@ autoportrait de Taras Chevtchenko qui est reproduit sur le billet de 100&nbsp;hr
 ![Un exemplaire de _Maroussia_ (en français)](images/kyiv/p4/musee_de_la_literature/maroussia.jpg)
 
 _Maroussia_ est un livre de littérature jeunesse écrit par l'écrivaine
-ukrainienne Maria Vilinska, sous le pseudonyme masculin Marko Vovtchok. Il est
+Ukrainienne Maria Vilinska, sous le pseudonyme masculin Marko Vovtchok. Il est
 ensuite traduit et adapté par l'éditeur français de Jules Verne [Pierre-Jules
 Hetzel](https://fr.wikipedia.org/wiki/Pierre-Jules_Hetzel). Celui-ci le publie
 sous son pseudonyme d'écrivain, P.J Stahl, avec tout de même la mention "d'après
@@ -68,7 +68,7 @@ française.
 
 La publication de _Maroussia_ sous le nom de P.J Stahl et non Marko Vovtchok
 suscite des controverses qui sont détaillées dans [l'article
-Wikipedia](https://fr.wikipedia.org/wiki/Maroussia)
+Wikipedia](https://fr.wikipedia.org/wiki/Maroussia).
 
 Après toutes ces visites, on rentre dormir à l'appartement.
 

@@ -36,7 +36,7 @@ Il y a aussi plusieurs fresques :
 ![Coline devant un café étonnant.](images/kyiv/p4/podil/le_gazza.jpg)
 
 On rentre dans un magasin de chemises brodées ukrainiennes (vichivannka) de la
-marque [etnodim](https://etnodim.com/). Antonina et moi sommes très fan de cette
+marque [Etnodim](https://etnodim.com/). Antonina et moi sommes très fan de cette
 marque, mais cette fois on achètera rien.
 
 ![Pas cette fois !](images/kyiv/p4/podil/coline_chemise.jpg)

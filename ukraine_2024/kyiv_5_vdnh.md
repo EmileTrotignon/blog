@@ -125,7 +125,7 @@ Comme je prend plein de photos, tout le monde m'attend et s'ennuie.
 
 ![Un immeuble juste dehors.](images/kyiv/p5/VDNH/immeuble.jpg)
 
-![La skyline de Kyiv](images/kyiv/p5/VDNH/skyline.jpg)
+![La skyline de Kyiv.](images/kyiv/p5/VDNH/skyline.jpg)
 
 ![En contre-jour avec des grues.](images/kyiv/p5/VDNH/skyline_contrejour.jpg)
 

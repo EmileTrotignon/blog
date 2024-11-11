@@ -76,12 +76,12 @@ restaurants et de l'activité. C'est même franchement un endroit touristique.
 
 ![Antonina est très heureuse de faire découvrir cette exclusivité de McDonald Ukraine : un beignet croustillant à la cerise.](images/lviv/beignet_cerise_mcdo.jpg)
 
-![On boit du kvasse, une boisson fermenté non alcoolisée à base de pain. Cette marque le vend non-stérilisé, la fermentation peut continuer et il devient donc de moins en moins sucrée et de plus en pétillant. C'est en général impossible de l'ouvrir sans en mettre de partout.](images/lviv/kvasse.jpg)
+![On boit du kvasse, une boisson fermenté non alcoolisée à base de pain. Cette marque le vend non-stérilisé, la fermentation peut continuer et il devient donc de moins en moins sucrée et de plus en pétillant. C'est en général extrêmement pétillant et donc impossible à ouvrir sans en mettre de partout.](images/lviv/kvasse.jpg)
 
 Un certain nombre de restaurants ont été conçus pour être des activités
 touristiques. Le contraste en frappant avec Paris ou un restaurant touristique
-est en general un parasite qui profite de l'attractivité d'un monument ou lieu
-pour fournir un très mauvais service (une exception qui me vient en tête est le
+est en general un parasite qui profite de l'attractivité d'un monument pour
+fournir un très mauvais service (une exception qui me vient en tête est le
 Bouillon Chartier).
 
 On peut mentionner Rebernia, un immense restaurant dans le sous-sol du bâtiment
@@ -111,7 +111,7 @@ On va aussi dans un bar thème chimie :
 
 ![Une mygale.](images/lviv/bar_alchimiste/mygale.jpg)
 
-On va aussi à la boutique Piana Vichnia, qui vend de la liqueur de cerise, en
+On va aussi à la boutique Piana Vichnia (La Griotte Ivre), qui vend de la liqueur de cerise, en
 bouteille ou à emporter dans un gobelet.
 
 ![Piana Vichnia](images/lviv/piana_vichnia.jpg)
@@ -131,11 +131,11 @@ chocolats chaud.
 
 ![Puis par personne, il est normal !](images/lviv/tram_normal.jpg)
 
-![Une rue passante dans le centre de Lviv](images/lviv/rue_passante.jpg)
+![Une rue passante dans le centre de Lviv.](images/lviv/rue_passante.jpg)
 
 ![Une autre rue](images/lviv/batiment_biblioteka.jpg)
 
-![Alice marche de manière déterminée](images/lviv/alice_marche.jpg)
+![Alice marche de manière déterminée.](images/lviv/alice_marche.jpg)
 
 ![Mais elle n'achetera pas cette chemise.](images/lviv/alice_etnodim.jpg)
 
@@ -164,14 +164,15 @@ Il y a pas mal de graffitis intéressants.
 On se balade dans les hauteurs de Lviv, qui sont plus calmes et où on a de très
 beaux points de vue sur la ville.
 
-![Une rue très calme](images/lviv/rue_calme.jpg)
+![Une rue très calme.](images/lviv/rue_calme.jpg)
 
 ![Il fait beau, les tournesols sont en fleur.](images/lviv/tournesols.jpg)
 
-![Un immeuble](images/lviv/balcons.jpg)
+![Un immeuble.](images/lviv/balcons.jpg)
 
-![Vova prend la pause sous un drapeau.](images/lviv/vova_drapeau.jpg)
-![Et devant la vue](images/lviv/vova.jpg)
+![Vova prend la pose sous un drapeau.](images/lviv/vova_drapeau.jpg)
+
+![Et devant la vue.](images/lviv/vova.jpg)
 
 ![Alice a de super lunettes pour aller très vite sur un vélo. Mais pas de vélo.](images/lviv/alice.jpg)
 
@@ -179,11 +180,11 @@ beaux points de vue sur la ville.
 
 ![Mais elle est contente qu'on la prenne en photo.](images/lviv/antonina_contente.jpg)
 
-![Tous ensemble](images/lviv/vue_groupe.jpg)
+![Tous ensemble.](images/lviv/vue_groupe.jpg)
 
 On monte jusqu'à un parc avec des balançoires.
 
-![Alice se balance](images/lviv/parc_balancoires/alice_se_balance.jpg)
+![Alice se balance.](images/lviv/parc_balancoires/alice_se_balance.jpg)
 
 ![Antonina se balance et fait un appel professionnel en même temps.](images/lviv/parc_balancoires/antonina_se_balance_1.jpg)
 
@@ -191,15 +192,15 @@ On monte jusqu'à un parc avec des balançoires.
 
 ![Je me concentre pour aller très vite.](images/lviv/parc_balancoires/emile_se_balance.jpg)
 
-![Puis je fuis](images/lviv/parc_balancoires/emile_fuit.jpg)
+![Puis je fuis.](images/lviv/parc_balancoires/emile_fuit.jpg)
 
-![Des fleurs rouges dans le parc](images/lviv/parc_balancoires/fleurs.jpg)
+![Des fleurs rouges dans le parc.](images/lviv/parc_balancoires/fleurs.jpg)
 
-![Vova se balance](images/lviv/parc_balancoires/vova_se_balance.jpg)
+![Vova se balance.](images/lviv/parc_balancoires/vova_se_balance.jpg)
 
-![Puis il saute](images/lviv/parc_balancoires/vova_saute.jpg)
+![Puis il saute.](images/lviv/parc_balancoires/vova_saute.jpg)
 
-![Une jolie maison](images/lviv/parc_balancoires/maison.jpg)
+![Une jolie maison.](images/lviv/parc_balancoires/maison.jpg)
 
 Il y a de très belles vues sur Lviv depuis ce parc.
 
@@ -216,10 +217,10 @@ d'aller très vite en France.
 
 ![Un toit rouge.](images/lviv/toit_rouge.jpg)
 
-![Un toit tout rouillé](images/lviv/toits_rouilles.jpg)
+![Un toit tout rouillé.](images/lviv/toits_rouilles.jpg)
 
-On visite aussi la Maison des Scientifique, un lieu qui n'a rien à voir avec la science mais qui est simplement un très beau batiment.
+On visite aussi la Maison des Scientifiques, un lieu qui n'a rien à voir avec la science mais qui est simplement un très beau batiment.
 
-![L’intérieur de la Maison des Scientifique](images/lviv/maison_des_scientifiques.jpg)
+![L’intérieur de la Maison des Scientifiques.](images/lviv/maison_des_scientifiques.jpg)
 
-[Page suivante: le musée ethnographique.](lviv_musee.md)
+[Page suivante: le musée ethnographique](lviv_musee.md)

@@ -21,7 +21,7 @@ On avait vraiment envie d'y aller après avoir lu un [article dans le
 Monde](https://www.lemonde.fr/m-le-mag/article/2024/05/24/l-hotel-ukraine-de-kiev-a-vendre-pour-financer-l-effort-de-guerre_6235125_4500055.html)
 qui raconte son histoire, et qui explique qu'il rencontre de grandes difficultés
 financières et risquait d’être vendu. La vente de l'hôtel a été conclue le 19
-septembre 2024. L'acheteur est un homme d'affaires ukrainien, Maksym Krippa.
+septembre 2024. L'acheteur est un homme d'affaires ukrainien, Maksyme Krippa.
 
 On ressent vraiment le caractère soviétique vintage de l'hôtel.
 
@@ -61,7 +61,7 @@ On prend des photos d'Alice.
 
 ![Penchée.](images/kyiv/p5/hotel_ukraine/alice_3.jpg)
 
-On prend aussi de très belle photo au coucher du soleil.
+On prend aussi de très belles photos au coucher du soleil.
 
 ![La statue du monument de l'indépendance.](images/kyiv/p5/hotel_ukraine/statue_coucher.jpg)
 

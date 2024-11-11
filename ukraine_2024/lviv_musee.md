@@ -17,7 +17,7 @@ ethnographiques au rez-de-chaussée, et des oeuvres d'art à l'étage.
 
 ![Des tapis.](images/lviv/musee_ethnographique/tapis.jpg)
 
-![Encore un tapi.](images/lviv/musee_ethnographique/tapis_2.jpg)
+![Encore un tapis.](images/lviv/musee_ethnographique/tapis_2.jpg)
 
 ![Les Ukrainiens ont en réalité inventé Starbucks en 1437.](images/lviv/musee_ethnographique/starbucks.jpg)
 

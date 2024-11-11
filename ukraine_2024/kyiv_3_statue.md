@@ -5,16 +5,18 @@ de femme de 64 mètres de haut, sur un socle de 40 mètres. Elle a été constru
 à l'époque soviétique pour commémorer la Seconde Guerre Mondiale et s'appelait
 alors la statue de la Mère Patrie.
 
-En 2023, des travaux étaient en cours, et on ne pouvait pas la voir de près.
-Cette année, j'y emmène Vova, Coline et Alice sans savoir si on pourra
-s'approcher, ou visiter le musée à son pied. Antonina reste se reposer à
-l'appartement.
+En 2023, des travaux pour remplacer le marteau et la faucille étaient en cours,
+et on ne pouvait pas la voir de près. Cette année, j'y emmène Vova, Coline et
+Alice sans savoir si on pourra s'approcher, ou visiter le musée à son pied.
+Antonina reste se reposer à l'appartement.
 
 Pas loin de la statue se situe une exposition en plein air avec des véhicules de
 la guerre du Donbass, tous d'avant l'invasion à grande échelle.
 
 ![Un BMP, véhicule de combat d'infanterie utilisé par les Russes comme les Ukrainiens.](images/kyiv/p3/mere_patrie/bmp.jpg)
+
 ![Un cannon anti-aérien.](images/kyiv/p3/mere_patrie/flak.jpg)
+
 ![En s'approchant un peu plus, on voit l'immense drapeau qui est devant la statue.](images/kyiv/p3/mere_patrie/coline_vova_drapeau.jpg)
 
 ![Puis la statue elle-même.](images/kyiv/p3/mere_patrie/statue_plan_large.jpg)
@@ -94,11 +96,11 @@ est interdit en Ukraine de le cadre des [lois de
 décommunisation](https://fr.wikipedia.org/wiki/D%C3%A9communisation_en_Ukraine),
 qui ne s'appliquent pas aux monuments dédiés à la Seconde Guerre Mondiale.
 
-![La salle du musée dédiée à la Shoah. Cette salle suit la manière soviétique de traiter la Shoah : on parle de citoyens de l'URSS assassinés, sans spécifier qu'ils l'avaient été parce que Juifs.](images/kyiv/p3/mere_patrie/expo_ww2/barbele.jpg)
+![La salle du musée dédiée à la Shoah. Cette salle suit la manière soviétique de traiter la Shoah : on parle de citoyens de l'URSS assassinés, sans insister sur le fait qu'ils l'avaient été parce que Juifs.](images/kyiv/p3/mere_patrie/expo_ww2/barbele.jpg)
 
-L'exposition seconde guerre a une petite annexe au deuxième étage.
+L'exposition Seconde Guerre Mondiale a une petite annexe au deuxième étage.
 
-![Une salle avec une table mise sans convive, comme pour un repas de commémoration des morts de tradition orthodoxe.](images/kyiv/p3/mere_patrie/expo_ww2/repas.jpg)
+![Une salle avec une table mise sans convives, dressée comme pour un repas de commémoration des morts de tradition orthodoxe.](images/kyiv/p3/mere_patrie/expo_ww2/repas.jpg)
 
 ![Des instruments de musique, probablement ceux de l'Armée Rouge.](images/kyiv/p3/mere_patrie/expo_ww2/musique.jpg)
 
@@ -115,7 +117,7 @@ même une exposition de drones russes abattus.
 
 ![L'arrière du Shahed.](images/kyiv/p3/mere_patrie/drones/shahed_arriere.jpg)
 
-![L'arrière du Shahed (Guérane-2 en russe) avec une inscription écrite par un soldat Russe.](images/kyiv/p3/mere_patrie/drones/shahed_texte.jpg)
+![L'aileron du Shahed (Guéragne-2 en russe) avec une inscription écrite par un soldat Russe.](images/kyiv/p3/mere_patrie/drones/shahed_texte.jpg)
 
 L'inscription dit "Pour le pont et pour les Belgorodiens". Le pont fait
 référence au pont de Kerch construit illégalement qui relie la Crimée occupée
@@ -145,8 +147,8 @@ trident ukrainien.
 
 ### Troisième étage : le socle
 
-À l'étage suivant, qui est le socle de la statue, il y a une très belle
-et très soviétique mosaïque.
+À l'étage suivant, qui est le socle de la statue, il y a une mosaïque très belle
+et très soviétique.
 
 ![Un detail de la mosaïque.](images/kyiv/p3/mere_patrie/mosaique_zoom.jpg)
 
@@ -221,4 +223,4 @@ Une fois sortis, on va voir une autre exposition en plein air de materiel milita
 
 Après toutes ces visites, on retrouve la famille d'Antonina pour un repas au restaurant.
 
-[Page : ]
+[Page suivante : Tsarske Selo](kyiv_3_restaurant.md)

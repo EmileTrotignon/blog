@@ -10,22 +10,25 @@ On se rend à la gare de Lviv à 23&nbsp;h.
 
 ![Une carte du réseau ferroviaire ukrainien. Aucun marquage spécial n'est fait pour les zones occupées.](images/trajet_lviv_kyiv/carte_ukraine.jpg)
 
+![Notre train. Comme toujours en Ukraine, le quai est très bas, il faut être musclé pour monter sa valise.](images/trajet_lviv_kyiv/train_depart.jpg)
+
 Comme on est cinq, on a une cabine pour quatre (un "coupé"), et Vova est puni et
 dort dans un coupé avec trois inconnues.
+
 ![Notre coupé.](images/trajet_lviv_kyiv/le_coupe.jpg)
 
 ![Le coupé est petit mais convivial.](images/trajet_lviv_kyiv/vue_d_en_haut.jpg)
 
 ![Il y a une échelle, mais c'est plus amusant de grimper comme ça.](images/trajet_lviv_kyiv/coline_grimpe.jpg)
 
-![Coline est impressionnée par le nombre de billets. Chaque billet vaut 4,44&nbsp;€44.](images/trajet_lviv_kyiv/coline_billets.jpg)
+![Coline est impressionnée par le nombre de billets. Chaque billet vaut 4,44&nbsp;€.](images/trajet_lviv_kyiv/coline_billets.jpg)
 
 ![Antonina a les pieds très propres.](images/trajet_lviv_kyiv/coupe_orteils.jpg)
 
 Le matin, on se réveille très tôt : le train arrive, et il faut s'habiller
 et ranger le coupé.
 
-On se lève avec un superbe levé de soleil, c'est le moment de prendre des
+On se lève avec un superbe lever de soleil, c'est le moment de prendre des
 photos.
 
 ![Je prends des photos avec l'appareil photo de Coline.](images/trajet_lviv_kyiv/emile_photographe.jpg)

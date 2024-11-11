@@ -7,7 +7,7 @@ rouge, bleue, et verte. À cause d'inondations en 2023, une station de ce métro
 est fermée à la circulation et remplacée par un bus relais. On descend donc à
 coté du grand centre commercial [Ocean
 Plaza](https://en.wikipedia.org/wiki/Ocean_Plaza), on en profite aussi pour voir
-la [soucoupe volante](https://publicdelivery.org/kiev-ufo/) une curiosité
+la [soucoupe volante](https://publicdelivery.org/kiev-ufo/), une curiosité
 architecturale.
 
 Ensuite on prend le bus, jusqu'à la prochaine station de métro (ce n'est pas

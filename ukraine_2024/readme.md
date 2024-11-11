@@ -56,7 +56,7 @@ sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtem
 #### Deuxième journée
 
 - [La statue de l'Ukraine mère](kyiv_3_statue.md)
-- [Tsarske Celo](kyiv_3_restaurant.md)
+- [Tsarske Selo](kyiv_3_restaurant.md)
 
 #### Troisième journée
 
@@ -68,4 +68,7 @@ sommes pas sûrs de pouvoir revenir en Ukraine tous les deux avant très longtem
 
 #### Quatrième journée
 
-+ [L'hotel Ukraine](kyiv_5_hotel_ukraine.md)
+- [L'hotel Ukraine](kyiv_5_hotel_ukraine.md)
+- [Roshen et la Bibliothèque Nationale](kyiv_5_roshen_bibliotheque.md)
+- [VDNH](kyiv_5_vdnh.md)
+- [Le départ](kyiv_5_depart.md)
