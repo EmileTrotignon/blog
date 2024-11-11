@@ -63,6 +63,8 @@ On achète du thé que la cheffe de voiture nous amène.
 
 ![La gare a un très grand hall.](images/trajet_lviv_kyiv/gare_kyiv_interieur.jpg)
 
+![Un autre angle sur le hall](images/trajet_lviv_kyiv/gare_kyiv_interieur_2.jpg)
+
 ![Elle est belle de l’extérieur.](images/trajet_lviv_kyiv/gare_kyiv_exterieur.jpg)
 
 ![L'autre sortie, plus moderne, a moins de charme.](images/trajet_lviv_kyiv/gare_kyiv_moderne.jpg)
