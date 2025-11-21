@@ -236,7 +236,7 @@ by caring about performance.
 
 ## What if you do not have bind?
 
-The following signature is called a functor:
+The following signature is called an applicative functor:
 
 ```ocaml
 module type Functor = sig
@@ -245,6 +245,8 @@ module type Functor = sig
   val return : 'a -> 'a t
 
   val map : ('a -> 'b) -> 'a t -> 'b t
+
+  val prod : 'a t -> 'b t -> ('a * 'b) t
 end
 ```
 It is not to be confused with the language feature of the same name and is a
@@ -286,12 +288,60 @@ command line argument that returns an `'a`, and there is no way to run that in
 Cmdliner, for the reason of such command-line interfaces being indesirable.
 
 We can view this in terms of parsing; Cmdliner parses command line argument: a
-monad would allow to parse a context-sensitive grammar, where a functor
+monad would allow to parse a context-sensitive grammar, where an applicative functor
 restricts possible grammars to context-free ones.
 
-To be more precise, `Cmdliner` is actually an applicative functor, which is
-slightly more powerful than the presented functor, but still does not have bind,
-and also only allows to parse context-free grammar.
+You may notice there is also a `prod` function in the presented signature. The
+`prod` function allows to do a regular computation that depends on multiple
+special ones, but that enforces that the special computation do not depend on
+each other. Its corresponding let-syntax is `and+`. This is useful in the
+context of commandline interface definition, it allows you to define commandline
+application with multiple arguments:
+
+```bash
+divide --dividend 124 --divisor 2
+```
+
+```ocaml
+let+ dividend = option_int "dividend"
+and+ divisor = option_int "divisor" in
+dividend / divisor
+```
+
+which is equivalent to :
+
+```ocaml
+map (prod (option_int "dividend") (option_int "divisor"))
+  (fun (dividend, divisor) -> dividend / divisor)
+```
+
+In the context of monad, you can implement `prod` using `bind`, which makes
+sense because if `e2` does not mention `x`, then :
+
+```ocaml
+let x = e1
+and y = e2 in
+...
+```
+
+is equivalent to
+
+```ocaml
+let x = e1 in
+let y = e2 in
+...
+```
+
+The difference between the two is that the first enforces that `e2` does not
+mention `x`, but appart from that they are similar. If you had a monadic
+`Cmdliner`, you could write:
+
+```ocaml
+let* dividend = option_int "dividend" in
+let* divisor = option_int "divisor" in
+dividend / divisor
+```
+and that would have the same behaviour as the applicative version.
 
 ## Conclusion
 
@@ -299,3 +349,6 @@ To sum things up, a monad is in interface that provides a way to make special
 computations that can depend on other special computations of the same kind.
 Computations are nicely expressed by let-bindings instead of anonymous
 functions, and in OCaml we have them even for special computations.
+
+Applicative functors is a weaker interface that provides a way to make a special
+computations that are guaranteed not to depend on other special computations.
