@@ -39,9 +39,9 @@ bind m return = m
 bind (bind m g) h = bind m (fun x -> bind (g x) h)
 ```
 
-I believe this is not really important to understand. It just means that the
-functions are going to behave like you would expect them to. It is not very
-relevant to my explanations below.
+I believe this is not really important to understand at first. A reasonable
+heuristic is that the functions are going to behave like you would expect them
+to. It is not very relevant to my explanations below.
 
 It is still probably worth it as a small exercise to try and prove that it is
 true for common monads with simple implementations like `Result`.
@@ -51,16 +51,17 @@ true for common monads with simple implementations like `Result`.
 Let operators are a fancy syntax to use monads. It is quite easy to use them,
 but what is less widely understood is why they make sense.
 
-To try and get there, we will look at a regular let expression:
+To try and get there, we will look at a regular let statement:
 
 ```ocaml
 let <pattern> = <expr1> in
 <expr2>
 ```
 
-Lets name the type of `expr1` `'a` and the type of `expr2` `'b`. `expr2` has a
-free-variable bound to `<pattern>`. That free variable is of type `'a`. This can
-be interpreted as `<pattern>` and `expr2` together being of type `'a -> 'b`.
+Lets name the type of `expr1` be `'a` and the type of `expr2` be `'b`. `expr2`
+has a free-variable bound to `<pattern>`. That free variable is of type `'a`.
+This can be interpreted as `<pattern>` and `expr2` together being of type `'a ->
+'b`.
 
 If we indeed chose to look at things this way, we can get this as the type of
 the let itself:
@@ -118,21 +119,12 @@ explain everything: why this signature? What happens if you have `map` and not
 
 Here we will explain why the monad signature is important and its meaning.
 
-First we can notice that `map` is not strictly necessary because you can
-implement it with `bind` and `return`:
-
-```ocaml
-let map f m = bind m (fun v -> return (f v))
-```
-
-We will explain later in English what this means.
-
 To explain what a monad is, we will look at its `'a t` in a other way. Most of
 the time, we look at a type `'a t` as a `t` that contains an `'a`. That makes
-a lot of sense for `'a list`.
+a lot of sense for `'a list` or `'a ref`, but not really for most monads.
 
-In the case of a monad we need to look at it as a way to compute an `'a`. This
-makes sense for common monads:
+In the case of a monad we need to look at it as a way to compute an `'a`, with a
+twist. This makes sense for common monads:
 
 - `'a Lwt.t` is a way to compute an `'a` asynchronously.
 - `'a Option.t` is a way to compute an `'a` that may fail.
@@ -145,8 +137,8 @@ Even `'a list` can be seen a way to compute an `'a` that may have multiple
 results. We can call this a "non deterministic computation" as its results are
 multiple or none and the "result" is not determined.
 
-We will use this monad in the following explanation. For lists, `map`
-is well known, but `bind` less so. `bind` is actually the same as
+We will use this monad in the following explanation. For lists, `map` is
+commonly used, but `bind` less so. `bind` is actually the same as
 `concat_map : 'a list -> ('a -> 'b list) -> 'b list`.
 
 
@@ -167,9 +159,22 @@ Lets look at bind:
 So `bind` is a way to make a non-deterministic computation that depends on
 another non-deterministic computation.
 
-Understanding `return` is even simpler: it turns a regular compution into
-a non-determistic one. It is a bit artificial: it is going to give only
+Understanding `return` is even simpler: it turns a regular computation into
+a non-deterministic one. It is a bit artificial: it is going to give only
 one possible result.
+
+You might notice that `map` is not strictly necessary because you can
+implement it with `bind` and `return`:
+
+```ocaml
+let map f m = bind m (fun v -> return (f v))
+```
+
+This makes sense, if you can make a non-deterministic computation out of a
+regular one and you can have a non-deterministic computation depend on another
+non-deterministic computation, then you can have a non-deterministic computation
+that depends on a regular one.
+
 
 ## Example: Sudoku
 
@@ -255,17 +260,29 @@ computation that depends on another special computation. `map` does a regular
 computation that depends on a special one. Therefore if you only have `map` you
 cannot chain special computations. This can be useful to model certain things.
 
-For instance, in the OCaml environnement, Cmdliner works like that. Cmdliner is
-a library to specify command line interfaces. I will explain a simplified
-version of this library. You can express command line option declaratively,
-which returns an `'a Arg.t`. The `'a` of the `'a t` is the value associated with
-the command line argument. For a simple flag it would be `bool`, but you can
-have more complex arguments that take values. We can view `'a Arg.t` as a
-special way to compute an `'a`: the user will input it on the command line.
-There is however a limitation: there is a `let+`/`map` function, but not a
-`let*`/`bind` one, because you cannot declare a command line argument that
-depend on the result of another one. This make sense because allowing this would
-permit some very weird interfaces like the following:
+You have similar laws to monads, a highlight of them is that the order of the
+arguments of `prod` should not matter. Having the above interface but where the
+order matters can be useful, see
+[Tyre](https://ocaml.org/p/tyre/latest/doc/tyre/Tyre/index.html#let-operators),
+but then its not an applicative functor.
+
+An intuition for the constraint is that order ("I have to run after this") is a
+kind of dependency. In certain cases its alright to have this type of dependency
+but not another: For instance, for tyre, which is a regexp combinator library,
+order has to be decided, because `ab` is different from `ba`. Regexp engines usually don't allow to know values to decide what to match.
+
+## Example: Cmdliner
+
+Cmdliner is a library to specify command line interfaces, that is an applicative
+functor. I will explain a simplified version of this library. You can express
+command line option declaratively, which returns an `'a Arg.t`. The `'a` of the
+`'a t` is the value associated with the command line argument. For a simple flag
+it would be `bool`, but you can have more complex arguments that take values. We
+can view `'a Arg.t` as a special way to compute an `'a`: the user will input it
+on the command line. There is however a limitation: there is a `let+`/`map`
+function, but not a `let*`/`bind` one, because you cannot declare a command line
+argument that depend on the result of another one. This make sense because
+allowing this would permit some very weird interfaces like the following:
 
 ```
 cmd --my_option=<text_1> --<text_2> ...
@@ -288,8 +305,8 @@ command line argument that returns an `'a`, and there is no way to run that in
 Cmdliner, for the reason of such command-line interfaces being indesirable.
 
 We can view this in terms of parsing; Cmdliner parses command line argument: a
-monad would allow to parse a context-sensitive grammar, where an applicative functor
-restricts possible grammars to context-free ones.
+monad would allow to parse a context-sensitive grammar, where an applicative
+functor restricts possible grammars to context-free ones.
 
 You may notice there is also a `prod` function in the presented signature. The
 `prod` function allows to do a regular computation that depends on multiple
@@ -332,16 +349,26 @@ let y = e2 in
 ...
 ```
 
-The difference between the two is that the first enforces that `e2` does not
-mention `x`, but appart from that they are similar. If you had a monadic
-`Cmdliner`, you could write:
+A critical difference is that `let and` does not explicitly enforce order, where
+`let let` does, because you could be reading `x` from `e2`, even if you are not.
+
+This is very important for some monads: for instance with a concurrency monad
+both would be very different, because this is a monad whose whole jobs is
+scheduling and being explicit about which task have to finish before others can
+run.
+
+Another difference between the two is that the first enforces that `e2` does not
+mention `x`.
+
+If you had a monadic `Cmdliner`, you could write:
 
 ```ocaml
 let* dividend = option_int "dividend" in
 let* divisor = option_int "divisor" in
 dividend / divisor
 ```
-and that would have the same behaviour as the applicative version.
+and that would have the same behavior as the applicative version, because order
+does not matter for CLI arguments.
 
 ## Conclusion
 
@@ -350,5 +377,5 @@ computations that can depend on other special computations of the same kind.
 Computations are nicely expressed by let-bindings instead of anonymous
 functions, and in OCaml we have them even for special computations.
 
-Applicative functors is a weaker interface that provides a way to make a special
+Applicative functor is a weaker interface that provides a way to make special
 computations that are guaranteed not to depend on other special computations.

@@ -188,7 +188,7 @@ to be invariant for the same reason. This is especially important for the type
 
 ## Java
 
-In this section, I will start rambling about how aweful Java is.
+In this section, I will start rambling about how awful Java is.
 
 Java consider its array type to be covariant. We saw earlier that it is in
 fact invariant. This means that some typing errors will manifest themselves at
@@ -202,117 +202,59 @@ apparent from its interface, and it must happens quite often that unexpected
 exception are raised, when a more powerful type system would have eliminated
 them.
 
+However, you do have proper handling of variance and covariance, just not for
+array. The reason being that is was added later. The first version of java
+supporting generics (we call that polymorphism in the functional world) was
+released in 2004, 8 years after the first release of the language. There was of
+course always a generic type, the array, but no other could be defined. And
+contrary to Golang where common data structures where provided, here, if you
+needed a hashmap, you had to accept losing type information or implementing a
+new hashmap class for each types.
+
 I do understand that in a language such as Java, where subtyping is really
 pervasive (that is a mistake by itself in my opinion, but beyond the scope of
 this discussion), you need to be able to use subtyping with arrays. Arrays being
 invariant makes them "incompatible" with subtyping, and this is a definitely an
-issue that needs to be solved. There is however a quite easy way to solve it,
-that does not involve making the type system incomplete.
+issue that needed to be solved, and it was with what Java calls wildcards.
 
-Remember that the `'a ref` was defined as such earlier:
-
-```ocaml
-type 'a ref = {get: unit -> 'a; set: 'a -> unit}
+```java
+<T> void fillList(List<? super T> list, T value) {
+    for (int i = 0; i < list.size(); i++) list.set(i, value);
+}
 ```
 
-Using the same idea we can define the array type as such:
+Here, `?` is whats called a wildcard. It is a kind of unnamed type variable that
+is declared to be a supertype of `T`.
 
-```ocaml
-type 'a array = {get: int -> 'a; set: 'a -> int -> unit; length: int}
+Adding an illegal read does get you a type error:
+```java
+static <T> T fillList2(List<? super T> list, T value) {
+    T v = list.get(0);
+    for (int i = 0; i < list.size(); i++) list.set(i, value);
+    return v;
+}
 ```
 
-We need to pass integers for the indexes. Out of bounds errors will be handled
-by an exception.
-
-With this definition, we once agan see why `'a array` is invariant in `'a`.
-
-However, we can also notice that the type of `get` is covariant in `'a`, and the
-type of `set` is contravariant. An array type deprived of its set function will
-therefore be covariant, and an array type deprived of its get function will be
-contravariant.
-
-We can write:
-
-```ocaml
-type 'a read_only_array = {get: int -> 'a; length: int}
-type 'a write_only_array = {set: 'a -> int -> unit; length: int}
-
-let make_read_only (arr : 'a array) : 'a read_only_array =
-  {get=arr.get; length=arr.length}
-
-let make_write_only (arr : 'a array) : 'a write_only_array =
-  {set=arr.set; length=arr.length}
+```
+ERROR!
+Main.java:10: error: incompatible types: CAP#1 cannot be converted to T
+          T v = list.get(0);
+                        ^
+  where T is a type-variable:
+    T extends Object declared in method <T>fillList2(List<? super T>,T)
+  where CAP#1 is a fresh type-variable:
+    CAP#1 extends Object super: T from capture of ? super T
+1 error
 ```
 
-And then we can convert arrays to either write only or read only, and use them
-as covariant or contravariant types.
+If you want a function that does reads you can use `extends` instead of `super`:
 
-Lets look at at example.
-
-```ocaml
-val squares : square array
-val rectangles : rectangle array
-
-let print_rect_array (arr: rectangle read_only_array) : unit =
-  for i=0 to arr.length - 1 do
-    print_rect (arr.get (i))
-  done
-
-let reset_square_array (arr: square write_only_array) : unit =
-  for i=0 to arr.length - 1 do
-    arr.set (new_square ()) i
-  done
+```java
+static <T> boolean eqFirstElt(List<? extends T> list, T value) {
+    return value == list.get(0);
+}
 ```
 
-Here you can use both functions on both `squares` and `rectangles`:
-
-```ocaml
-let main () =
-  (* directly well-typed *)
-  print_rect_array (read_only_array rectangles) ;
-  (* well-typed by covariance *)
-  print_rect_array (read_only_array square) ;
-
-  (* directly well-typed *)
-  reset_square_array (write_only_array squares) ;
-  (* well-typed by contravariance *)
-  reset_square_array (write_only_array rectangle)
-```
-
-A more powerful type system would make the calls to `write_only_array` and
-`read_only_array` implicit (they would be language construction instead of
-regular functions). This would be very comfortable to use, and I believe this is
-what Java should have done.
-
-This type system would allow to following syntax:
-
-```ocaml
-val squares : square array
-val rectangles : rectangle array
-
-let print_rect_array (read_only arr: rectangle array) : unit =
-  for i=0 to arr.length - 1 do
-    print_rect (arr.get (i))
-  done
-
-let reset_square_array (write_only arr: square array) : unit =
-  for i=0 to arr.length - 1 do
-    arr.set (new_square ()) i
-  done
-
-let main () =
-  (* directly well-typed *)
-  print_rect_array rectangles ;
-  (* well-typed by covariance *)
-  print_rect_array square ;
-
-  (* directly well-typed *)
-  reset_square_array squares ;
-  (* well-typed by contravariance *)
-  reset_square_array rectangle
-```
-
-I am not sure how exactly such a type system would be implemented, but it is
-still funny to notice that there are probably subtyping relationships between
-`'a array`, `'a read_only_array` and `'a write_only_array`. This of course
-depends on the variance of `'a`.
+This is a reasonable system, its just a bit puzzling that it wasn't designed
+like that from the start and that the default array type does not have access to
+it.
