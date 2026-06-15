@@ -20,7 +20,7 @@ symbolique de la puissance de l'État.
 
 ![La flèche en haut d'un des pavillons.](images/kyiv/p5/VDNH/fleche.jpg)
 
-![Il un plein de pavillons de ce type. On ne rentre pas dedans, j'imagine qu'ils sont ouverts seulement pour des expositions.](images/kyiv/p5/VDNH/batiment.jpg)
+![Il y a plein de pavillons de ce type. On ne rentre pas dedans, j'imagine qu'ils sont ouverts seulement pour des expositions.](images/kyiv/p5/VDNH/batiment.jpg)
 
 On loue une sorte de scooter électrique, plus pour jouer que pour se déplacer
 car on ne peut pas tous monter dessus.
@@ -74,7 +74,7 @@ On va ensuite dans un stand de tir de type fête foraine.
 Malgré le sexisme de ces photographies, les filles tirent aussi, on voit qu'elles
 ont aussi des lunettes de protection.
 
-Après cela, il commence a se faire tard, et le soleil se couche, il y a une très
+Après cela, il commence à se faire tard, et le soleil se couche, il y a une très
 belle lumière, je vais prendre plein de photos.
 
 ![Un pavillon avec une statue.](images/kyiv/p5/VDNH/batiment_statue.jpg)
@@ -109,7 +109,7 @@ belle lumière, je vais prendre plein de photos.
 
 ![En fait non c'est d'encore plus loin, les bassins ne collent pas.](images/kyiv/p5/VDNH/arche_bassin_vide.jpg)
 
-Comme je prend plein de photos, tout le monde m'attend et s'ennuie.
+Comme je prends plein de photos, tout le monde m'attend et s'ennuie.
 
 ![Antonina et Vova se baladent.](images/kyiv/p5/VDNH/antonina_vova.jpg)
 
@@ -117,7 +117,7 @@ Comme je prend plein de photos, tout le monde m'attend et s'ennuie.
 
 ![Alice et Coline sont sur un banc, c'est plus reposant.](images/kyiv/p5/VDNH/alice_coline.jpg)
 
-![En face du pavillon en arche, il y celui de la statue.](images/kyiv/p5/VDNH/bassin.jpg)
+![En face du pavillon en arche, il y a celui de la statue.](images/kyiv/p5/VDNH/bassin.jpg)
 
 ![Les colonnes de la sortie.](images/kyiv/p5/VDNH/colomnes_sortie.jpg)
 

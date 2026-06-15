@@ -64,7 +64,7 @@ _departement store_ occidentaux.
 
 ![Photo prise d'en bas de l'immeuble par Coline et moi.](images/kyiv/p1/khrechatik/appartement_fenetre.jpg)
 
-![Un bâtiment du conseil municipal, une peu comme une mairie.](images/kyiv/p1/khrechatik/ministere.jpg)
+![Un bâtiment du conseil municipal, un peu comme une mairie.](images/kyiv/p1/khrechatik/ministere.jpg)
 
 Dans une rue perpendiculaire, on mange à Puzata Khata, la "maison bedonnante".
 C'est une chaîne de restaurants en self-service qui sert de la nourriture
@@ -93,12 +93,12 @@ car les alertes ne sont pas audibles de partout.
 
 Une alerte ne signifie pas forcément un bombardement. Les munitions utilisées
 par les Russes ont une très grande portée, une alerte peut être déclenchée à
-Kyiv alors que les missiles visent Dnipro, car les missile peuvent frapper l'un
+Kyiv alors que les missiles visent Dnipro, car les missiles peuvent frapper l'un
 ou l'autre sans manière de le savoir à l'avance.
 
 On a eu beaucoup de chance, car l'abri souterrain de notre immeuble était très
 bien. Tous les immeubles n'ont pas un abri, et quand il y en a un, il n'est pas
-forcement confortable. Sans abri, on aurait dû marcher 300 mètres jusqu'au métro
+forcément confortable. Sans abri, on aurait dû marcher 300 mètres jusqu'au métro
 à chaque alerte.
 
 ![Alice et Coline pendant une alerte.](images/kyiv/p1/khrechatik/abri/bancs.jpg)
@@ -115,7 +115,7 @@ ignorer et de se rendormir, même lorsque l'on est "habitué".
 
 ![La machine qui fait plein de bruit dans l'abri.](images/kyiv/p1/khrechatik/abri/machine.jpg)
 
-![L'alerte est finie, on remonte (avec des beaux t-shirts qui datent des études de ma femme).](images/kyiv/p1/khrechatik/abri/remonte.jpg)
+![L'alerte est finie, on remonte (avec de beaux t-shirts qui datent des études de ma femme).](images/kyiv/p1/khrechatik/abri/remonte.jpg)
 
 Personnellement je n'ai pas vu d'immeubles détruits par les bombardements, mais
 Vova est allé en voir près de chez son cousin.
@@ -144,7 +144,7 @@ ainsi que son indépendance totale de la Russie.
 
 ![Un côté de la place avec le monument de l'indépendance, la verrerie du centre commercial Globousse, l'hôtel Ukraine en beige, l'Académie Nationale de Musique en blanc et le parterre des Héros devant.](images/kyiv/p1/maidane/plan_large_2.jpg)
 
-![L'autre coté de la place.](images/kyiv/p1/maidane/plan_large.jpg)
+![L'autre côté de la place.](images/kyiv/p1/maidane/plan_large.jpg)
 
 ![Le monument de l'indépendance et l'hôtel Ukraine. En 2014, selon certains, les snipers qui tiraient sur les manifestants occupant la place se seraient positionnés sur le toit de l'hôtel. Au même moment, le lobby de l'hôtel servait d’hôpital et de morgue de fortune.](images/kyiv/p1/maidane/hotel_ukraine_monument_independance.jpg)
 

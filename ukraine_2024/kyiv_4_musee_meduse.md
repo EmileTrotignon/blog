@@ -17,7 +17,7 @@ lumière colorée.
 
 ![Mais aussi des personnes désagréables qui essayent de gâcher les photos.](images/kyiv/p4/musee_de_la_meduse/louche.jpg)
 
-![De derriere l'aquarium, ça marche beaucoup moins bien, on me voit à peine.](images/kyiv/p4/musee_de_la_meduse/meduse_rouge.jpg)
+![De derrière l'aquarium, ça marche beaucoup moins bien, on me voit à peine.](images/kyiv/p4/musee_de_la_meduse/meduse_rouge.jpg)
 
 Et bien sûr, il y a plein de méduses :
 

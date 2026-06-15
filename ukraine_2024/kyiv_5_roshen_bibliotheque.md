@@ -5,7 +5,7 @@ parc assez loin sur la ligne bleue du métro. Officiellement, elle s'appelle
 ligne M2, mais il est d'usage d'appeler les trois lignes par leur couleur,
 rouge, bleue, et verte. À cause d'inondations en 2023, une station de ce métro
 est fermée à la circulation et remplacée par un bus relais. On descend donc à
-coté du grand centre commercial [Ocean
+côté du grand centre commercial [Ocean
 Plaza](https://en.wikipedia.org/wiki/Ocean_Plaza), on en profite aussi pour voir
 la [soucoupe volante](https://publicdelivery.org/kiev-ufo/), une curiosité
 architecturale.
@@ -19,7 +19,7 @@ comme à Paris, cela nous aurait pris une heure à pied).
 
 
 
-À coté de cette station de métro se trouve l'usine de confiserie Roshen. Il
+À côté de cette station de métro se trouve l'usine de confiserie Roshen. Il
 s'agit d'une très vieille usine de confiserie, construite en 1874. Sous l'URSS
 elle est renommée Usine de confiserie Karl Marx, puis après avoir été privatisée
 elle devient propriété de l'oligarque Porochenko qui la renomme selon sa marque
@@ -39,7 +39,7 @@ Devant l'usine Roshen, une fontaine est installée, plusieurs enfants y jouent.
 
 ![La porte du magasin d'usine.](images/kyiv/p5/roshen_bibliotheque/porte.jpg)
 
-Il y a un magasin d'usine, ou l'on va acheter des confiseries. Le magasin est un
+Il y a un magasin d'usine, où l'on va acheter des confiseries. Le magasin est un
 peu décevant, en tout cas Antonina ne le trouve pas assez bien fourni.
 
 ![Un bâtiment que j'aime beaucoup : les architectes ont jugé bon d'inclure un logo de wifi dans le bâtiment, j'imagine à l'époque où avoir le wifi était un argument commercial important.](images/kyiv/p5/roshen_bibliotheque/hotel_wifi.jpg)
@@ -69,7 +69,7 @@ complètement désert.
 On peut voir des photos de l’intérieur dans [cet
 article](https://seekyiv.com/this-kyivs-library-plays-the-role-of-a-dystopian-headquarters-in-every-western-music-video/)
 qui raconte comment la bibliothèque est le lieu de tournage de beaucoup de clips
-de musique occidentaux (peut être que les photos sont interdites pour éviter les tournages sauvages ?).
+de musique occidentaux (peut-être que les photos sont interdites pour éviter les tournages sauvages ?).
 
 D'autres photos sont disponibles [ici](https://www.village.com.ua/village/business/wherework/294463-ya-pratsyuyu-u-bibliotetsi-vernadskogo).
 

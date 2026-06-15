@@ -31,12 +31,12 @@ Lors de notre voyage, une exposition sur les textiles ukrainiens y a eu lieu.
 ![Je prends des photos.](images/kyiv/p2/exposition_materiya/emile_photographe.jpg)
 
 Malheureusement, beaucoup de photos incluent un écriteau, mais très légèrement trop
-flou pour être lu. J'essaye d'inclure les information lorsque j'arrive à les
+flou pour être lu. J'essaye d'inclure les informations lorsque j'arrive à les
 déchiffrer.
 
-L'exposition est super, il a beaucoup de très belles tapisseries.
+L'exposition est super, il y a beaucoup de très belles tapisseries.
 
-![Une presentation de la méthode de la tapisserie : un carton peint se situe derriere le métier à tisser et sert de modèle.](images/kyiv/p2/exposition_materiya/demonstration_tapisserie.jpg)
+![Une présentation de la méthode de la tapisserie : un carton peint se situe derriere le métier à tisser et sert de modèle.](images/kyiv/p2/exposition_materiya/demonstration_tapisserie.jpg)
 
 ## En bas
 

@@ -1,6 +1,6 @@
 # Le métro
 
-Après ce jour-ci, comme il faut très chaud, on rejoint le cousin de Vova et un
+Après ce jour-ci, comme il fait très chaud, on rejoint le cousin de Vova et un
 ami à lui se baigner à Hidropark, un complexe de loisir incluant des plages sur
 le Dnipro.
 
@@ -30,7 +30,7 @@ mètres sous terre.
 
 ![On remonte.](images/kyiv/p2/metro/metro_escalator.jpg)
 
-![On a pas toujours des places assises.](images/kyiv/p2/metro/vova_emile.jpg)
+![On n'a pas toujours des places assises.](images/kyiv/p2/metro/vova_emile.jpg)
 
 ![Mais quand c'est le cas on peut dormir.](images/kyiv/p2/metro/grimace.jpg)
 

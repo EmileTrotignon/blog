@@ -3,7 +3,7 @@
 Après Saint-Michel, on se dirige vers l'église Saint-André et la descente
 éponyme.
 
-L'église est un petite église baroque, très décorée, construite en 1744 par un
+L'église est une petite église baroque, très décorée, construite en 1744 par un
 architecte italien.
 
 ![L'église Saint-André de Kyiv.](images/kyiv/p4/saint_andre/saint_andre_exterieur.jpg)
@@ -47,12 +47,12 @@ On rentre dans l'église.
 ## La descente
 
 Ensuite, on prend la descente Saint-André, une rue très en pente sur laquelle on
-espérait trouver un grand nombre de marchants de souvenirs. Malheureusement, il
+espérait trouver un grand nombre de marchands de souvenirs. Malheureusement, il
 n'y a quasiment personne ce jour-ci, peut-être à cause de la chaleur.
 
 ![La descente Saint-André.](images/kyiv/p4/saint_andre/descente.jpg)
 
-![Vova descent.](images/kyiv/p4/saint_andre/vova.jpg)
+![Vova descend.](images/kyiv/p4/saint_andre/vova.jpg)
 
 Cette rue est aussi le lieu de cette [vidéo
 célèbre](https://www.youtube.com/watch?v=qHje5AhgV6E) d'une petite fille qui
@@ -63,7 +63,7 @@ se situe aussi ici.
 
 ![Une statue de Boulgakov est protégée contre les bombes.](images/kyiv/p4/saint_andre/boulgakov_protection.jpg)
 
-![Son portrait est tagué de rouge, à cause de positions anti-ukrainiennes qu'il aurait eu.](images/kyiv/p4/saint_andre/boulgakov.jpg)
+![Son portrait est tagué de rouge, à cause de positions anti-ukrainiennes qu'il aurait eues.](images/kyiv/p4/saint_andre/boulgakov.jpg)
 
 ![Une jolie allée perpendiculaire.](images/kyiv/p4/saint_andre/allee.jpg)
 

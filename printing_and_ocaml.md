@@ -1,7 +1,7 @@
 # Printing and OCaml
 
 Printing values for debugging purposes is often presented as one of the big pains of the OCaml experience, and I agree with that sentiment. There is no
-simple way to print most datatypes, it either requires some external dependecies
+simple way to print most datatypes, it either requires some external dependencies
 or writing a bit of code. One of the proposed solution for this is modular
 implicits. In this post I will argue that while modular implicits would help with
 printing a lot, they are not sufficient on their own, and it would be possible
@@ -11,7 +11,7 @@ to improve the printing experience a lot without them.
 
 Modular implicits are a very powerful feature which requires a lot of research
 and implementation work, and are not going to be available for a very long time.
-It would allow us to do as following:
+It would allow us to do the following:
 
 ```ocaml
 module type Printable = sig
@@ -38,9 +38,9 @@ and no module in the Stdlib is.
 
 There are obviously functions to print many types, but none of them are in their
 respective modules. You have `output_int`, `Format.pp_print_int`, but not
-`Int.print`. More complex types like `'a list` only have function to print them
-in `Format`, were they might be hard to find.
-This may seems like a detail because adding such functions would be very easy
+`Int.print`. More complex types like `'a list` only have functions to print them
+in `Format`, where they might be hard to find.
+This may seem like a detail because adding such functions would be very easy
 compared to implementing modular implicits, but I believe it is
 a low-hanging fruit.
 
@@ -53,7 +53,7 @@ modular **explicits**, that is a version of the above code where you have to spe
 the module: `print Int 123` is not that different from `Int.print 123`.
 
 That is to say, modular implicits give inference for printing, which is very
-good, but a lot of langages that have a typeclass-like thing for printing do not
+good, but a lot of languages that have a typeclass-like thing for printing do not
 have very good type inference, and (almost) catching up with them would only
 require small changes to the Stdlib.
 
@@ -90,13 +90,13 @@ Array.print Int.print arr
 Here ocaml is only slightly worse because you need to repeat `print`, but it is
 still very much manageable, and it would be possible to write a small syntax
 extension that removes this annoyance. It could look like that, and it does not
-need to part of the stdlib:
+need to be part of the stdlib:
 ```ocaml
 let arr = [|1; 2; 3|] in
 print_endline {%fmt|arr = %{arr : Array[Int]} |}
 ```
 
-One thing that OCaml would still be bad at is printing value with abstract types.
+One thing that OCaml would still be bad at is printing values with abstract types.
 In c++ you could do:
 
 ```c++
@@ -126,5 +126,5 @@ While adding the printing functions would not be very hard, deciding exactly
 what to add may be harder:
 What is the type of the `print` function? What exactly does it print?
 This can be quite hard to decide, as it is a design question that does not have
-a unique answer, but I think this discussion is worthwile. I will try to propose
+a unique answer, but I think this discussion is worthwhile. I will try to propose
 design ideas in the future.

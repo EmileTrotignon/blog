@@ -17,7 +17,7 @@ end
 
 In this blog post, I will try to explain two important things around monads:
 
-- Why let operators make sense?
+- Why do let operators make sense?
 - Why is this signature named, in what sense is it special?
 
 What I will not try to explain is how to use them. For that I believe that the
@@ -58,7 +58,7 @@ let <pattern> = <expr1> in
 <expr2>
 ```
 
-Lets name the type of `expr1` be `'a` and the type of `expr2` be `'b`. `expr2`
+Let the type of `expr1` be `'a` and the type of `expr2` be `'b`. `expr2`
 has a free-variable bound to `<pattern>`. That free variable is of type `'a`.
 This can be interpreted as `<pattern>` and `expr2` together being of type `'a ->
 'b`.
@@ -119,7 +119,7 @@ explain everything: why this signature? What happens if you have `map` and not
 
 Here we will explain why the monad signature is important and its meaning.
 
-To explain what a monad is, we will look at its `'a t` in a other way. Most of
+To explain what a monad is, we will look at its `'a t` in another way. Most of
 the time, we look at a type `'a t` as a `t` that contains an `'a`. That makes
 a lot of sense for `'a list` or `'a ref`, but not really for most monads.
 
@@ -130,10 +130,10 @@ twist. This makes sense for common monads:
 - `'a Option.t` is a way to compute an `'a` that may fail.
 
 It would not make sense to state that an `'a Lwt.t` contains an `'a`: it might
-not "contains" it just yet. Likewise for an `'a Option.t`, there might not be a
+not "contain" it just yet. Likewise for an `'a Option.t`, there might not be a
 single `'a` in here.
 
-Even `'a list` can be seen a way to compute an `'a` that may have multiple
+Even `'a list` can be seen as a way to compute an `'a` that may have multiple
 results. We can call this a "non deterministic computation" as its results are
 multiple or none and the "result" is not determined.
 
@@ -151,7 +151,7 @@ So `map` itself is a way to make a regular computation that depends on a
 non-deterministic computation. The final result is non-deterministic, as it
 should be.
 
-Lets look at bind:
+Let's look at bind:
 
 - `'a t` is a non-deterministic computation.
 - `'a -> 'b t` is a non-deterministic computation that depends on a regular one.
@@ -178,7 +178,7 @@ that depends on a regular one.
 
 ## Example: Sudoku
 
-Lets look a real use-case of non-deterministic computation: solving a sudoku.
+Let's look at a real use-case of non-deterministic computation: solving a sudoku.
 When you solve a sudoku, you have a set of legal digits to put in each cell, but
 choosing the wrong one may block you later.
 
@@ -231,10 +231,10 @@ every cell depends on non-deterministic computations: the choice of the digit,
 and the previous cells. The last cell does not have a non-deterministic
 computation that depends on it: we just return the list of cells afterwards.
 
-You can find exercices on the non-deterministic monad by Francois Pottier
+You can find exercises on the non-deterministic monad by Francois Pottier
 [here](https://ocaml-sf.org/learn-ocaml-public/exercise.html#id=fpottier/nondet_monad_seq).
 
-Be aware that the exercise do not use the `let*`/`let+` syntax, but an infix one.
+Be aware that the exercises do not use the `let*`/`let+` syntax, but an infix one.
 This syntax used to be very common in the OCaml ecosystem before let operators
 were available. They also try and make the non-determinism usable in reality,
 by caring about performance.
@@ -264,10 +264,10 @@ You have similar laws to monads, a highlight of them is that the order of the
 arguments of `prod` should not matter. Having the above interface but where the
 order matters can be useful, see
 [Tyre](https://ocaml.org/p/tyre/latest/doc/tyre/Tyre/index.html#let-operators),
-but then its not an applicative functor.
+but then it's not an applicative functor.
 
 An intuition for the constraint is that order ("I have to run after this") is a
-kind of dependency. In certain cases its alright to have this type of dependency
+kind of dependency. In certain cases it's alright to have this type of dependency
 but not another: For instance, for tyre, which is a regexp combinator library,
 order has to be decided, because `ab` is different from `ba`. Regexp engines usually don't allow to know values to decide what to match.
 
@@ -281,7 +281,7 @@ it would be `bool`, but you can have more complex arguments that take values. We
 can view `'a Arg.t` as a special way to compute an `'a`: the user will input it
 on the command line. There is however a limitation: there is a `let+`/`map`
 function, but not a `let*`/`bind` one, because you cannot declare a command line
-argument that depend on the result of another one. This make sense because
+argument that depends on the result of another one. This makes sense because
 allowing this would permit some very weird interfaces like the following:
 
 ```
@@ -310,7 +310,7 @@ functor restricts possible grammars to context-free ones.
 
 You may notice there is also a `prod` function in the presented signature. The
 `prod` function allows to do a regular computation that depends on multiple
-special ones, but that enforces that the special computation do not depend on
+special ones, but that enforces that the special computations do not depend on
 each other. Its corresponding let-syntax is `and+`. This is useful in the
 context of commandline interface definition, it allows you to define commandline
 application with multiple arguments:
@@ -372,7 +372,7 @@ does not matter for CLI arguments.
 
 ## Conclusion
 
-To sum things up, a monad is in interface that provides a way to make special
+To sum things up, a monad is an interface that provides a way to make special
 computations that can depend on other special computations of the same kind.
 Computations are nicely expressed by let-bindings instead of anonymous
 functions, and in OCaml we have them even for special computations.

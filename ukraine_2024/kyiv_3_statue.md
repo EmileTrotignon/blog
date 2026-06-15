@@ -15,7 +15,7 @@ la guerre du Donbass, tous d'avant l'invasion à grande échelle.
 
 ![Un BMP, véhicule de combat d'infanterie utilisé par les Russes comme les Ukrainiens.](images/kyiv/p3/mere_patrie/bmp.jpg)
 
-![Un cannon anti-aérien.](images/kyiv/p3/mere_patrie/flak.jpg)
+![Un canon anti-aérien.](images/kyiv/p3/mere_patrie/flak.jpg)
 
 ![En s'approchant un peu plus, on voit l'immense drapeau qui est devant la statue.](images/kyiv/p3/mere_patrie/coline_vova_drapeau.jpg)
 
@@ -70,7 +70,7 @@ Dans une petite salle se trouve une exposition des uniformes des chapelains de l
 ### L'exposition Seconde Guerre Mondiale
 
 Toujours au rez-de-chaussée, cette exposition est dans un esprit très soviétique
-de propagande. Beaucoup de choses y sont présentés de manière très dramatique et
+de propagande. Beaucoup de choses y sont présentées de manière très dramatique et
 sensationnelle, mais pas forcément de la manière la plus informative possible.
 
 ![un drapeau soviétique "TsIK - URSS".](images/kyiv/p3/mere_patrie/expo_ww2/drapeau_urss.jpg)
@@ -84,7 +84,7 @@ sensationnelle, mais pas forcément de la manière la plus informative possible.
 
 ![Un avion.](images/kyiv/p3/mere_patrie/expo_ww2/avion.jpg)
 
-![Different documents et photos, avec un ruban de Saint-George.](images/kyiv/p3/mere_patrie/expo_ww2/saint_george.jpg)
+![Différents documents et photos, avec un ruban de Saint-George.](images/kyiv/p3/mere_patrie/expo_ww2/saint_george.jpg)
 
 Le [ruban de Saint-George](https://fr.wikipedia.org/wiki/Ruban_de_Saint-Georges)
 est un symbole [datant de l'Empire
@@ -92,7 +92,7 @@ Russe](https://fr.wikipedia.org/wiki/Ordre_imp%C3%A9rial_et_militaire_de_Saint-G
 présent dans plusieurs décorations militaires russes, notamment [pour la Seconde
 Guerre Mondiale](https://fr.wikipedia.org/wiki/Ordre_de_la_Gloire) Il est
  aujourd'hui très utilisé dans le cadre du culte de la victoire en Russie, et il
-est interdit en Ukraine de le cadre des [lois de
+est interdit en Ukraine dans le cadre des [lois de
 décommunisation](https://fr.wikipedia.org/wiki/D%C3%A9communisation_en_Ukraine),
 qui ne s'appliquent pas aux monuments dédiés à la Seconde Guerre Mondiale.
 
@@ -138,7 +138,7 @@ l'air](https://en.wikipedia.org/wiki/2023_Belgorod_accidental_bombing).
 ![Je ne sais pas de quel modèle de drone il s'agit. On dirait qu'il est armé et peut lâcher une bombe.](images/kyiv/p3/mere_patrie/drones/drone_inconnu.jpg)
 
 Dans la même pièce il y a aussi des photos des travaux de 2023, lorsque les
-armoiries soviétiques on été retirées du bouclier de la statue pour y mettre un
+armoiries soviétiques ont été retirées du bouclier de la statue pour y mettre un
 trident ukrainien.
 
 ![Le retrait du marteau et de la faucille.](images/kyiv/p3/mere_patrie/trizoube_travaux_2.jpg)
@@ -191,7 +191,7 @@ On prend aussi des photos de nous :
 
 En 2021, on avait pu monter sur les tanks devant la statue. Comme cette fois-ci
 il n'y a personne d'autre qui le fait, j'insiste pour que Vova demande la
-permission, que l'ont obtient.
+permission, que l'on obtient.
 
 ![Alice et Coline entre les tanks.](images/kyiv/p3/mere_patrie/coline_alice_tanks.jpg)
 
@@ -205,9 +205,9 @@ On se dirige ensuite vers la sortie en empruntant un tunnel dans lequel il y a d
 
 ![Alice dans le tunnel.](images/kyiv/p3/mere_patrie/tunel.jpg)
 
-![Une ambulance de fortune avec les statues commémorant la Second Guerre Mondiale.](images/kyiv/p3/mere_patrie/tunnel_ambulance.jpg)
+![Une ambulance de fortune avec les statues commémorant la Seconde Guerre Mondiale.](images/kyiv/p3/mere_patrie/tunnel_ambulance.jpg)
 
-Une fois sortis, on va voir une autre exposition en plein air de materiel militaire.
+Une fois sortis, on va voir une autre exposition en plein air de matériel militaire.
 
 ![En 2023 j'avais pu monter dans cet hélicoptère pour 20 hryvnias (50 cts d'euro), mais cette année on arrive trop tard et le guichet est fermé.](images/kyiv/p3/mere_patrie/helicoptere.jpg)
 
@@ -215,11 +215,11 @@ Une fois sortis, on va voir une autre exposition en plein air de materiel milita
 
 ![L'Ukraine, bouclier de l’Europe.](images/kyiv/p3/mere_patrie/shield_of_europe.jpg)
 
-![Un missile russe abattu avec écris PTN-PNKh, abbreviation de "Poutine va te faire foutre".](images/kyiv/p3/mere_patrie/ptnpnkh.jpg)
+![Un missile russe abattu avec écrit PTN-PNKh, abbreviation de "Poutine va te faire foutre".](images/kyiv/p3/mere_patrie/ptnpnkh.jpg)
 
-![Un cannon d'artillerie sur chenilles.](images/kyiv/p3/mere_patrie/howtizer.jpg)
+![Un canon d'artillerie sur chenilles.](images/kyiv/p3/mere_patrie/howtizer.jpg)
 
-![Un tas de guêpes sur un véhicule militaire. Ces véhicules ne bougent jamais et sont pleins de petits trous et espaces. Il sont remplis de nids de guêpes.](images/kyiv/p3/mere_patrie/guepes.jpg)
+![Un tas de guêpes sur un véhicule militaire. Ces véhicules ne bougent jamais et sont pleins de petits trous et espaces. Ils sont remplis de nids de guêpes.](images/kyiv/p3/mere_patrie/guepes.jpg)
 
 Après toutes ces visites, on retrouve la famille d'Antonina pour un repas au restaurant.
 

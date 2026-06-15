@@ -2,11 +2,11 @@
 
 Subtyping is a powerful concept that feels very intuitive but has weird
 consequences. These consequences are often referred to by the complicated terms
-"covariance" and "contravariance". I will explain what this means bellow.
+"covariance" and "contravariance". I will explain what this means below.
 
 ## Introduction: OCaml notations
 
-I will use notations from the OCaml langage. You may skip this section if you
+I will use notations from the OCaml language. You may skip this section if you
 are familiar with it.
 
 - `val v : t` means that there is value `v` that has type `t`.
@@ -43,7 +43,7 @@ Depending on the language, some kind of explicit instruction to consider that
 
 ## Covariance
 
-Lets imagine that we have the following values:
+Let's imagine that we have the following values:
 
 ```ocaml
 val high1 : (int -> square) -> square
@@ -58,15 +58,15 @@ val g : int -> rectangle
 If you are unfamiliar with this notation : `high1` takes a function as argument,
 this function has to have type `int -> square`.
 
-It is very clear that `high1 f` is well typed, and same is true for `high2 g`.
+It is very clear that `high1 f` is well typed, and the same is true for `high2 g`.
 The question is whether `high1 g` or `high2 f` are well typed.
 
-Let's not try to resolve typing2 at first, and just study what will happen if we
+Let's not try to resolve typing at first, and just study what will happen if we
 actually run the code.
 
 If we run `high1 g`, what will happen is that `high1` will be allowed to call
 `g`, and consider its result as a `square`. However the result of `g` is not
-necesseraly a `square`, it may be any `rectangle`. Therefore `high1 g` is
+necessarily a `square`, it may be any `rectangle`. Therefore `high1 g` is
 ill-typed.
 
 If we run `high2 f`, what will happen is that `high2` will be allowed to call
@@ -86,7 +86,7 @@ whether we are talking a sub-type or a super-type.
 
 ## Contravariance
 
-Lets imagine that we have the following values:
+Let's imagine that we have the following values:
 
 ```ocaml
 val high1 : (square -> int) -> int
@@ -98,18 +98,18 @@ val f : square -> int
 val g : rectangle -> int
 ```
 
-Once again, it is very clear that `high1 f` is well typed, and same is true for
+Once again, it is very clear that `high1 f` is well typed, and the same is true for
 `high2 g`. The question is whether `high1 g` or `high2 f` are well typed.
 
 When we run `high2 f`, what will happen is that `high2` will be allowed to call
 `g : square -> int` with an argument of type `rectangle`. This is an error.
 
-When we run`high1 g`, what will happen is that `high1` will be allowed to call
+When we run `high1 g`, what will happen is that `high1` will be allowed to call
 `g : rectangle -> int` with an argument of type `square`. This is fine.
 
 This means that if `square < rectangle`, then
 `(rectangle -> int) < (square -> int)`, because a function with an argument of
-type `(square -> int)` can be called value of type `(rectangle -> int)`.
+type `(square -> int)` can be called with a value of type `(rectangle -> int)`.
 
 We call this situation contravariance.
 
@@ -120,7 +120,7 @@ More precisely, the function type `a -> b` is contravariant with `b`, because it
 
 This time, we will ask the question of the type `ref`.
 
-In OCaml, `t ref` designated a mutable variable of type `t`.
+In OCaml, `t ref` designates a mutable variable of type `t`.
 
 In essence, a mutable value is a pair of a setter function and a getter
 function. We can write this the following way:
@@ -133,10 +133,10 @@ What we want to know is, assuming `square < rectangle`, can we assert
 `square ref < rectangle ref` or `rectangle ref < square ref`?
 
 By applying the results of the two above paragraphs, we can already conclude
-that the answer is no. Both assertions are false. Lets show it in a more
-convincing by example.
+that the answer is no. Both assertions are false. Let's show it in a more
+convincing way by example.
 
-Lets assume the following environment:
+Let's assume the following environment:
 
 ```ocaml
 val new_rectangle : unit -> rectangle
@@ -174,9 +174,9 @@ printer for squares cannot print a rectangle. Therefore we do not have
 `rectangle ref < square ref`.
 
 If we assume that `square ref < rectangle ref`, then we may pass an argument of
-type `square ref` to `set_to_new`. This break the typing, because then the
+type `square ref` to `set_to_new`. This breaks the typing, because then the
 `square ref` will contain a rectangle obtained from `new_rectangle` that is not
-necessary a `square`. Therefore we do not have `square ref < rectangle ref`.
+necessarily a `square`. Therefore we do not have `square ref < rectangle ref`.
 
 We have neither `rectangle ref < square ref` nor `square ref < rectangle ref`.
 We say that the type `a ref` type is invariant with `a`, because if `a` "varies"
@@ -197,9 +197,9 @@ runtime.
 For instance, if you have an array of squares, you may pass it to a function
 expecting an array of rectangle. If the function tries to write a rectangle to
 the array, an exception will be triggered. This is in my opinion a very bad
-situation. Whether a function will write to an array or not is not necessarely
-apparent from its interface, and it must happens quite often that unexpected
-exception are raised, when a more powerful type system would have eliminated
+situation. Whether a function will write to an array or not is not necessarily
+apparent from its interface, and it must happen quite often that unexpected
+exceptions are raised, when a more powerful type system would have eliminated
 them.
 
 However, you do have proper handling of variance and covariance, just not for
@@ -207,14 +207,14 @@ array. The reason being that is was added later. The first version of java
 supporting generics (we call that polymorphism in the functional world) was
 released in 2004, 8 years after the first release of the language. There was of
 course always a generic type, the array, but no other could be defined. And
-contrary to Golang where common data structures where provided, here, if you
+contrary to Golang where common data structures were provided, here, if you
 needed a hashmap, you had to accept losing type information or implementing a
-new hashmap class for each types.
+new hashmap class for each type.
 
 I do understand that in a language such as Java, where subtyping is really
 pervasive (that is a mistake by itself in my opinion, but beyond the scope of
 this discussion), you need to be able to use subtyping with arrays. Arrays being
-invariant makes them "incompatible" with subtyping, and this is a definitely an
+invariant makes them "incompatible" with subtyping, and this is definitely an
 issue that needed to be solved, and it was with what Java calls wildcards.
 
 ```java
@@ -223,7 +223,7 @@ issue that needed to be solved, and it was with what Java calls wildcards.
 }
 ```
 
-Here, `?` is whats called a wildcard. It is a kind of unnamed type variable that
+Here, `?` is what's called a wildcard. It is a kind of unnamed type variable that
 is declared to be a supertype of `T`.
 
 Adding an illegal read does get you a type error:
@@ -255,6 +255,6 @@ static <T> boolean eqFirstElt(List<? extends T> list, T value) {
 }
 ```
 
-This is a reasonable system, its just a bit puzzling that it wasn't designed
+This is a reasonable system, it's just a bit puzzling that it wasn't designed
 like that from the start and that the default array type does not have access to
 it.

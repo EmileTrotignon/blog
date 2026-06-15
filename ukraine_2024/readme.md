@@ -4,13 +4,13 @@ En août 2024, je retourne en Ukraine en guerre pour la deuxième fois. Cette fo
 nous voyageons en groupe, avec ma femme Antonina, mes deux soeurs Alice et
 Coline, et le frère d'Antonina, Vova.
 
-Cet article raconte notre voyage, avec beaucoup de photos, prises grace à
+Cet article raconte notre voyage, avec beaucoup de photos, prises grâce à
 l'appareil photo que Coline a amené. La plupart des photos ont été prises par
 Coline ou par moi.
 
 ![Monument de l'indépendance, Maïdane, Kyiv](images/kyiv/monument_de_lindependance.jpg)
 
-Partir en vacance en Ukraine pendant la guerre est une chose étrange, mais
+Partir en vacances en Ukraine pendant la guerre est une chose étrange, mais
 extrêmement importante pour nous.
 
 Nous avons vu de la famille, des amis, qui habitent là-bas toute l'année, et qui

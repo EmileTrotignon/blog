@@ -14,12 +14,12 @@ Lviv avant de prendre le train pour Kyiv, où sont nos amis et notre famille.
 ![Le bus en question](images/trajet_paris_lviv/cracovie_bus.jpg)
 
 Coline avait oublié de prendre son billet de bus, heureusement il restait des
-places et le chauffeur du bus à accepté les 20 euros que l'ont avait (ça n'est
+places et le chauffeur du bus a accepté les 20 euros que l'on avait (ça n'est
 la monnaie ni en Pologne ni en Ukraine).
 
 ![Dans le bus.](images/trajet_paris_lviv/dans_le_bus.jpg)
 
-Le trajet est très long, neuve heures, plus l'imprévu de l'attente à la frontière.
+Le trajet est très long, neuf heures, plus l'imprévu de l'attente à la frontière.
 
 ![Le poste frontière ukrainien avec le drapeau devant](images/trajet_paris_lviv/frontiere_drapeau.jpg)
 
@@ -31,7 +31,7 @@ Après une attente assez longue, on passe la frontière.
 
 # Lviv
 
-On arrive à Lviv assez tard, on va à notre hôtel, puis on juste assez de temps
+On arrive à Lviv assez tard, on va à notre hôtel, puis on a juste assez de temps
 pour aller acheter à manger avant le couvre-feu. Comme c'était assez fatiguant
 on n'a pas vraiment de photos de cette soirée.
 
@@ -53,14 +53,14 @@ Kyiv, qui est plus exotique pour un français.
 
 ![Un autre clocher](images/lviv/clocher.jpg)
 
-Le centre de Lviv est tres piéton et vivant, il y a beaucoup de boutiques, des
+Le centre de Lviv est très piéton et vivant, il y a beaucoup de boutiques, des
 restaurants et de l'activité. C'est même franchement un endroit touristique.
 
 ![Le monument à Chevtchenko, l'écrivain Ukrainien le plus célèbre.](images/lviv/monument_shevchenko.jpg)
 
 ![Les rails du tram](images/lviv/rails_eglise.jpg)
 
-![Il y même des mascottes qui font payer des photos.](images/lviv/mascottes.jpg)
+![Il y a même des mascottes qui font payer des photos.](images/lviv/mascottes.jpg)
 
 ![L'oie est le symbole de la Galicie, la région de Lviv, ici à l'entrée d'un magasin de souvenirs.](images/lviv/oie_militaire.jpg)
 
@@ -76,11 +76,11 @@ restaurants et de l'activité. C'est même franchement un endroit touristique.
 
 ![Antonina est très heureuse de faire découvrir cette exclusivité de McDonald Ukraine : un beignet croustillant à la cerise.](images/lviv/beignet_cerise_mcdo.jpg)
 
-![On boit du kvasse, une boisson fermenté non alcoolisée à base de pain. Cette marque le vend non-stérilisé, la fermentation peut continuer et il devient donc de moins en moins sucrée et de plus en pétillant. C'est en général extrêmement pétillant et donc impossible à ouvrir sans en mettre de partout.](images/lviv/kvasse.jpg)
+![On boit du kvasse, une boisson fermentée non alcoolisée à base de pain. Cette marque le vend non-stérilisé, la fermentation peut continuer et il devient donc de moins en moins sucré et de plus en plus pétillant. C'est en général extrêmement pétillant et donc impossible à ouvrir sans en mettre de partout.](images/lviv/kvasse.jpg)
 
 Un certain nombre de restaurants ont été conçus pour être des activités
-touristiques. Le contraste en frappant avec Paris ou un restaurant touristique
-est en general un parasite qui profite de l'attractivité d'un monument pour
+touristiques. Le contraste est frappant avec Paris où un restaurant touristique
+est en général un parasite qui profite de l'attractivité d'un monument pour
 fournir un très mauvais service (une exception qui me vient en tête est le
 Bouillon Chartier).
 
@@ -89,7 +89,7 @@ médiéval de l'arsenal qui sert des travers de porc au barbecue.
 
 ![Le grill rotatif de Rebernia.](images/lviv/rebernia_grill.jpg)
 
-Le restaurant fourni de grand bavoirs humoristiques, et pas de couverts (ils
+Le restaurant fournit de grands bavoirs humoristiques, et pas de couverts (ils
 sont dessinés sur la nappe).
 
 ![Alice dans son bavoir.](images/lviv/rebernia_alice.jpg)
@@ -102,7 +102,7 @@ On va aussi dans un bar thème chimie :
 
 ![Notre commande, des éprouvettes avec chacune un cocktail différent, à partager.](images/lviv/bar_alchimiste/boisson.jpg)
 
-À la sortie du bar, il y a un magasin de souvenirs avec des plein de choses
+À la sortie du bar, il y a un magasin de souvenirs avec plein de choses
 étranges, notamment des animaux (pas à vendre).
 
 ![Un serpent.](images/lviv/bar_alchimiste/serpent.jpg)
@@ -118,8 +118,8 @@ bouteille ou à emporter dans un gobelet.
 
 ![Antonina est enceinte, elle ne peut pas boire de liqueur, mais il y a aussi des sucettes.](images/lviv/piana_vichnia_sucette.jpg)
 
-Le chocolat est une spécialité à Lviv, et on va dans café qui sert de très bons
-chocolats chaud.
+Le chocolat est une spécialité à Lviv, et on va dans un café qui sert de très bons
+chocolats chauds.
 
 ![Qui est la plus belle ?](images/lviv/coline_et_antonina.jpg)
 
@@ -137,14 +137,14 @@ chocolats chaud.
 
 ![Alice marche de manière déterminée.](images/lviv/alice_marche.jpg)
 
-![Mais elle n'achetera pas cette chemise.](images/lviv/alice_etnodim.jpg)
+![Mais elle n'achètera pas cette chemise.](images/lviv/alice_etnodim.jpg)
 
 La guerre est visible et présente à Lviv, même si il y a moins de bombardements que dans le reste de l'Ukraine.
 
 ![Une église dont les vitraux sont protégés contre les bombardements.](images/lviv/eglise_protegee.jpg)
 
 On assiste au passage d'un convoi funéraire de l'armée. Tout le monde s’arrête
-pour saluer le héros. Le maire sors de l'hotel de ville pour transmettre ses
+pour saluer le héros. Le maire sort de l'hôtel de ville pour transmettre ses
 respects.
 
 ![Le convoi funéraire](images/lviv/cortege_funeraire.jpg)
@@ -204,13 +204,13 @@ On monte jusqu'à un parc avec des balançoires.
 
 Il y a de très belles vues sur Lviv depuis ce parc.
 
-![Le beffroi de l'hotel de ville.](images/lviv/parc_balancoires/beffroi_drapeau.jpg)
+![Le beffroi de l'hôtel de ville.](images/lviv/parc_balancoires/beffroi_drapeau.jpg)
 
 ![Les toits de Lviv.](images/lviv/parc_balancoires/vue_sur_lviv.jpg)
 
 ![Un autre angle.](images/lviv/parc_balancoires/vue_sur_lviv_2.jpg)
 
-Dans un autre parc, les tourniquet n'ont pas encore les freins qui les empêchent
+Dans un autre parc, les tourniquets n'ont pas encore les freins qui les empêchent
 d'aller très vite en France.
 
 ![Coline et Vova font du tourniquet.](images/lviv/coline_vova_tourniquet.jpg)
@@ -219,7 +219,7 @@ d'aller très vite en France.
 
 ![Un toit tout rouillé.](images/lviv/toits_rouilles.jpg)
 
-On visite aussi la Maison des Scientifiques, un lieu qui n'a rien à voir avec la science mais qui est simplement un très beau batiment.
+On visite aussi la Maison des Scientifiques, un lieu qui n'a rien à voir avec la science mais qui est simplement un très beau bâtiment.
 
 ![L’intérieur de la Maison des Scientifiques.](images/lviv/maison_des_scientifiques.jpg)
 

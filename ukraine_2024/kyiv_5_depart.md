@@ -4,7 +4,7 @@ Après VDNH, on part manger dans un restaurant assez classe où Antonina avait �
 lors d'un déplacement professionnel.
 
 C'est un restaurant fondé par Eugène Klopotenko, un chef ukrainien célèbre. On
-avait assisté a un cours de cuisine du borche qu'il avait donné à Paris dans la
+avait assisté à un cours de cuisine du borche qu'il avait donné à Paris dans la
 maison de l'Ukraine des Jeux Olympiques.
 
 ![Eugène Klopotenko à la Maison de l'Ukraine des JO à Paris.](images/kyiv/p5/depart/klopotenko.jpg)
@@ -17,11 +17,11 @@ C'est un restaurant de cuisine ukrainienne modernisée.
 
 ![Une photo du repas.](images/kyiv/p5/depart/repas.jpg)
 
-![Une patate dans la cendre, servi dans une sorte de nid. Pas le meilleur plat que j'ai goûté, mais très amusant.](images/kyiv/p5/depart/cendres.jpg)
+![Une patate dans la cendre, servie dans une sorte de nid. Pas le meilleur plat que j'ai goûté, mais très amusant.](images/kyiv/p5/depart/cendres.jpg)
 
 ![Du pain à tremper dans l'huile de tournesol non raffinée avec des épices.](images/kyiv/p5/depart/pain.jpg)
 
-On rentre ensuite tous à l'hotel, Antonina et moi pour dormir et Alice, Coline
+On rentre ensuite tous à l'hôtel, Antonina et moi pour dormir et Alice, Coline
 et Vova pour récupérer leurs valises avant de partir à la gare prendre le train
 de nuit pour Lviv.
 
@@ -29,7 +29,7 @@ On passe par Saint-Michel éclairé par une Lune rousse.
 
 ![La place Saint-Michel la nuit.](images/kyiv/p5/depart/saint_michel.jpg)
 
-![Les statue de la place Saint-Michel et la lune rousse.](images/kyiv/p5/depart/statue_saint_michel.jpg)
+![Les statues de la place Saint-Michel et la lune rousse.](images/kyiv/p5/depart/statue_saint_michel.jpg)
 
 Puis on arrive à Maïdane.
 

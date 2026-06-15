@@ -16,12 +16,12 @@ Kyiv où beaucoup de bâtiments ainsi que le tracé des rues datent du XIX~e si�
 
 L'église Pyrohochtcha me tape dans l'oeil car c'est une des seules églises que
 l'on croise qui n'est pas de style baroque. En réalité, comme toutes les églises
-anciennes de Kyiv, des décorations baroques lui ont été ajouté au XVIII~e
+anciennes de Kyiv, des décorations baroques lui ont été ajoutées au XVIII~e
 siècle. Cependant, le pouvoir soviétique la détruit en 1935, et elle est
 reconstruite en 1998, dans un style plus ancien, que je trouve de meilleur goût,
 mais dont l'authenticité est discutée.
 
-![L'église Pyrohochtcha au XVIII~e siecle.](images/kyiv/p4/podil/eglise_18ieme.png)
+![L'église Pyrohochtcha au XVIII~e siècle.](images/kyiv/p4/podil/eglise_18ieme.png)
 
 Il y a aussi plusieurs fresques :
 
@@ -37,7 +37,7 @@ Il y a aussi plusieurs fresques :
 
 On rentre dans un magasin de chemises brodées ukrainiennes (vichivannka) de la
 marque [Etnodim](https://etnodim.com/). Antonina et moi sommes très fan de cette
-marque, mais cette fois on achètera rien.
+marque, mais cette fois on n'achètera rien.
 
 ![Pas cette fois !](images/kyiv/p4/podil/coline_chemise.jpg)
 

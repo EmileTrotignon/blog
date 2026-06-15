@@ -31,7 +31,7 @@ On ressent vraiment le caractère soviétique vintage de l'hôtel.
 
 ![Le couloir menant aux chambres.](images/kyiv/p5/hotel_ukraine/portes.jpg)
 
-![Le hall présent à chaques étages. Sous l'URSS, le bureau servait à un réceptionniste chargé de demander à chacun la raison de ses allées et venues.](images/kyiv/p5/hotel_ukraine/couloir.jpg)
+![Le hall présent à chaque étage. Sous l'URSS, le bureau servait à un réceptionniste chargé de demander à chacun la raison de ses allées et venues.](images/kyiv/p5/hotel_ukraine/couloir.jpg)
 
 On a un lit :
 
@@ -83,7 +83,7 @@ Puis la nuit.
 
 ![Le pont Podilskyi et le Dnipro.](images/kyiv/p5/hotel_ukraine/dnipro_nuit.jpg)
 
-Certaines de ces photos sont prises dans les jours suivants le départ de mes
+Certaines de ces photos sont prises dans les jours suivant le départ de mes
 soeurs et de mon beau frère, je les groupe ici par thème et pas forcément
 chronologiquement.
 

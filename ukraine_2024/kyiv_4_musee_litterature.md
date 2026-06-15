@@ -24,7 +24,7 @@ moderne, ni dans la plupart des langues slaves.
 
 ![Des pages visiblement manuscrites.](images/kyiv/p4/musee_de_la_literature/illustrations.jpg)
 
-![Un manuscript très richement enluminé.](images/kyiv/p4/musee_de_la_literature/enluminures.jpg)
+![Un manuscrit très richement enluminé.](images/kyiv/p4/musee_de_la_literature/enluminures.jpg)
 
 ![Une icône avec des gravures sur or.](images/kyiv/p4/musee_de_la_literature/icone.jpg)
 

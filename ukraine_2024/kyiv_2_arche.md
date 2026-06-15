@@ -31,7 +31,7 @@ on a un très beau point de vue sur Kyiv.
 
 ![Photo de l'Arche depuis le pont.](images/kyiv/p1/arche/arche_pont_de_verre.jpg)
 
-Le pont dispose de plaques en verre comme attraction, mais elles sont très rayés
+Le pont dispose de plaques en verre comme attraction, mais elles sont très rayées
 et sales, et donc pas très impressionnantes. La vue vaut tout de même la peine.
 
 ![Pas si effrayant.](images/kyiv/p1/arche/pieds.jpg)

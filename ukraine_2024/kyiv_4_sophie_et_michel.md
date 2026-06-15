@@ -11,7 +11,7 @@ Dorée](https://fr.wikipedia.org/wiki/Porte_dor%C3%A9e_(Kiev)) :
 La Porte Dorée est une porte des fortifications historiques de Kyiv. Sa forme
 actuelle est quasiment entièrement une reconstitution :
 
-![La Porte Dorée à la fin du XIXième siecle. ](images/kyiv/p4/sophie_et_michel/porte_doree_vieux.png)
+![La Porte Dorée à la fin du XIXième siècle. ](images/kyiv/p4/sophie_et_michel/porte_doree_vieux.png)
 
 J'avais visité le musée qui est dedans en 2021, mais je n'en avais pas un
 souvenir incroyable, alors on ne le fera pas cette fois.
@@ -38,7 +38,7 @@ prendre en photo devant, alors on perpétue la tradition.
 
 ![Gros plan !](images/kyiv/p4/sophie_et_michel/maison_des_acteur_zoom.jpg)
 
-![Un grande fresque.](images/kyiv/p4/sophie_et_michel/fresque_dragon.jpg)
+![Une grande fresque.](images/kyiv/p4/sophie_et_michel/fresque_dragon.jpg)
 
 On arrive ensuite devant les églises Sainte-Sophie et Saint-Michel.
 
