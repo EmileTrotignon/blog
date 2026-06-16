@@ -255,7 +255,9 @@ module type Functor = sig
 end
 ```
 It is not to be confused with the language feature of the same name and is a
-monad that lacks bind. As we saw earlier `bind` allows to do a special
+similar to monad, but lacks bind.
+
+As we saw earlier `bind` allows to do a special
 computation that depends on another special computation. `map` does a regular
 computation that depends on a special one. Therefore if you only have `map` you
 cannot chain special computations. This can be useful to model certain things.

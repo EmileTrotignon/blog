@@ -78,7 +78,7 @@ In that case, you need an extra argument to the `print` function. The comparison
 then becomes
 
 ```c++
-vector<int> arr = {1; 2 ;3};
+vector<int> arr = {1, 2, 3};
 cout << arr;
 ```
 

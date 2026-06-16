@@ -78,8 +78,8 @@ This means that if `square < rectangle`, then
 
 We call this situation covariance.
 
-More precisely, the function type `a -> b` is covariant with `a`, because it
-"varies" in the same direction as `a`.
+More precisely, the function type `a -> b` is covariant with `b`, because it
+"varies" in the same direction as `b`.
 
 Here, variation means "accepting a sub- or super-type", and the direction is
 whether we are talking a sub-type or a super-type.
@@ -113,8 +113,8 @@ type `(square -> int)` can be called with a value of type `(rectangle -> int)`.
 
 We call this situation contravariance.
 
-More precisely, the function type `a -> b` is contravariant with `b`, because it
-"varies" in the opposite direction as `b`.
+More precisely, the function type `a -> b` is contravariant with `a`, because it
+"varies" in the opposite direction as `a`.
 
 ## Invariance
 
